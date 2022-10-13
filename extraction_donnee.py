@@ -1,6 +1,6 @@
 from Module import liste_mot, place_alphabet, table_donnee
 
-"""Fonction qui renvoie un dictionnaire avec les données brutes de ''l'analyse'' du fichier """
+"""Fonction qui renvoie un dictionnaire avec les données brutes de ''l'analyse'' du .txt """
 
 PROBA = table_donnee.creation_table_donnee()
 JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
