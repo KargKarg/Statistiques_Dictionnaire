@@ -1,0 +1,832 @@
+On traite ici le cas de a :
+Il y a '1' 'a' suivies de a
+Il y a '256' 'a' suivies de b
+Il y a '455' 'a' suivies de c
+Il y a '304' 'a' suivies de d
+Il y a '17' 'a' suivies de e
+Il y a '95' 'a' suivies de f
+Il y a '829' 'a' suivies de g
+Il y a '22' 'a' suivies de h
+Il y a '721' 'a' suivies de i
+Il y a '27' 'a' suivies de j
+Il y a '17' 'a' suivies de k
+Il y a '796' 'a' suivies de l
+Il y a '368' 'a' suivies de m
+Il y a '1387' 'a' suivies de n
+Il y a '17' 'a' suivies de o
+Il y a '331' 'a' suivies de p
+Il y a '74' 'a' suivies de q
+Il y a '1019' 'a' suivies de r
+Il y a '410' 'a' suivies de s
+Il y a '1567' 'a' suivies de t
+Il y a '461' 'a' suivies de u
+Il y a '186' 'a' suivies de v
+Il y a '2' 'a' suivies de w
+Il y a '33' 'a' suivies de x
+Il y a '44' 'a' suivies de y
+Il y a '29' 'a' suivies de z
+Il y a '143' 'a' suivies de Fin
+Pour un total de : 9611 a
+
+
+
+On traite ici le cas de b :
+Il y a '434' 'b' suivies de a
+Il y a '10' 'b' suivies de b
+Il y a '2' 'b' suivies de c
+Il y a '6' 'b' suivies de d
+Il y a '230' 'b' suivies de e
+Il y a '0' 'b' suivies de f
+Il y a '0' 'b' suivies de g
+Il y a '0' 'b' suivies de h
+Il y a '248' 'b' suivies de i
+Il y a '7' 'b' suivies de j
+Il y a '0' 'b' suivies de k
+Il y a '178' 'b' suivies de l
+Il y a '1' 'b' suivies de m
+Il y a '2' 'b' suivies de n
+Il y a '389' 'b' suivies de o
+Il y a '0' 'b' suivies de p
+Il y a '0' 'b' suivies de q
+Il y a '275' 'b' suivies de r
+Il y a '35' 'b' suivies de s
+Il y a '3' 'b' suivies de t
+Il y a '127' 'b' suivies de u
+Il y a '2' 'b' suivies de v
+Il y a '0' 'b' suivies de w
+Il y a '0' 'b' suivies de x
+Il y a '10' 'b' suivies de y
+Il y a '0' 'b' suivies de z
+Il y a '9' 'b' suivies de Fin
+Pour un total de : 1968 b
+
+
+
+On traite ici le cas de c :
+Il y a '788' 'c' suivies de a
+Il y a '0' 'c' suivies de b
+Il y a '82' 'c' suivies de c
+Il y a '2' 'c' suivies de d
+Il y a '702' 'c' suivies de e
+Il y a '0' 'c' suivies de f
+Il y a '0' 'c' suivies de g
+Il y a '805' 'c' suivies de h
+Il y a '368' 'c' suivies de i
+Il y a '0' 'c' suivies de j
+Il y a '30' 'c' suivies de k
+Il y a '181' 'c' suivies de l
+Il y a '2' 'c' suivies de m
+Il y a '1' 'c' suivies de n
+Il y a '934' 'c' suivies de o
+Il y a '0' 'c' suivies de p
+Il y a '8' 'c' suivies de q
+Il y a '266' 'c' suivies de r
+Il y a '3' 'c' suivies de s
+Il y a '317' 'c' suivies de t
+Il y a '241' 'c' suivies de u
+Il y a '0' 'c' suivies de v
+Il y a '0' 'c' suivies de w
+Il y a '0' 'c' suivies de x
+Il y a '27' 'c' suivies de y
+Il y a '1' 'c' suivies de z
+Il y a '86' 'c' suivies de Fin
+Pour un total de : 4844 c
+
+
+
+On traite ici le cas de d :
+Il y a '238' 'd' suivies de a
+Il y a '0' 'd' suivies de b
+Il y a '1' 'd' suivies de c
+Il y a '11' 'd' suivies de d
+Il y a '1033' 'd' suivies de e
+Il y a '0' 'd' suivies de f
+Il y a '7' 'd' suivies de g
+Il y a '6' 'd' suivies de h
+Il y a '481' 'd' suivies de i
+Il y a '9' 'd' suivies de j
+Il y a '0' 'd' suivies de k
+Il y a '0' 'd' suivies de l
+Il y a '7' 'd' suivies de m
+Il y a '1' 'd' suivies de n
+Il y a '215' 'd' suivies de o
+Il y a '0' 'd' suivies de p
+Il y a '0' 'd' suivies de q
+Il y a '120' 'd' suivies de r
+Il y a '7' 'd' suivies de s
+Il y a '0' 'd' suivies de t
+Il y a '93' 'd' suivies de u
+Il y a '3' 'd' suivies de v
+Il y a '2' 'd' suivies de w
+Il y a '0' 'd' suivies de x
+Il y a '15' 'd' suivies de y
+Il y a '0' 'd' suivies de z
+Il y a '151' 'd' suivies de Fin
+Pour un total de : 2400 d
+
+
+
+On traite ici le cas de e :
+Il y a '227' 'e' suivies de a
+Il y a '89' 'e' suivies de b
+Il y a '506' 'e' suivies de c
+Il y a '150' 'e' suivies de d
+Il y a '66' 'e' suivies de e
+Il y a '114' 'e' suivies de f
+Il y a '154' 'e' suivies de g
+Il y a '8' 'e' suivies de h
+Il y a '144' 'e' suivies de i
+Il y a '10' 'e' suivies de j
+Il y a '3' 'e' suivies de k
+Il y a '533' 'e' suivies de l
+Il y a '997' 'e' suivies de m
+Il y a '1805' 'e' suivies de n
+Il y a '72' 'e' suivies de o
+Il y a '258' 'e' suivies de p
+Il y a '45' 'e' suivies de q
+Il y a '1532' 'e' suivies de r
+Il y a '624' 'e' suivies de s
+Il y a '806' 'e' suivies de t
+Il y a '969' 'e' suivies de u
+Il y a '171' 'e' suivies de v
+Il y a '3' 'e' suivies de w
+Il y a '160' 'e' suivies de x
+Il y a '9' 'e' suivies de y
+Il y a '9' 'e' suivies de z
+Il y a '6144' 'e' suivies de Fin
+Pour un total de : 15608 e
+
+
+
+On traite ici le cas de f :
+Il y a '192' 'f' suivies de a
+Il y a '0' 'f' suivies de b
+Il y a '0' 'f' suivies de c
+Il y a '0' 'f' suivies de d
+Il y a '173' 'f' suivies de e
+Il y a '156' 'f' suivies de f
+Il y a '1' 'f' suivies de g
+Il y a '0' 'f' suivies de h
+Il y a '241' 'f' suivies de i
+Il y a '1' 'f' suivies de j
+Il y a '0' 'f' suivies de k
+Il y a '141' 'f' suivies de l
+Il y a '0' 'f' suivies de m
+Il y a '0' 'f' suivies de n
+Il y a '181' 'f' suivies de o
+Il y a '0' 'f' suivies de p
+Il y a '0' 'f' suivies de q
+Il y a '166' 'f' suivies de r
+Il y a '1' 'f' suivies de s
+Il y a '6' 'f' suivies de t
+Il y a '74' 'f' suivies de u
+Il y a '0' 'f' suivies de v
+Il y a '0' 'f' suivies de w
+Il y a '0' 'f' suivies de x
+Il y a '0' 'f' suivies de y
+Il y a '0' 'f' suivies de z
+Il y a '100' 'f' suivies de Fin
+Pour un total de : 1433 f
+
+
+
+On traite ici le cas de g :
+Il y a '297' 'g' suivies de a
+Il y a '0' 'g' suivies de b
+Il y a '0' 'g' suivies de c
+Il y a '2' 'g' suivies de d
+Il y a '956' 'g' suivies de e
+Il y a '1' 'g' suivies de f
+Il y a '9' 'g' suivies de g
+Il y a '4' 'g' suivies de h
+Il y a '250' 'g' suivies de i
+Il y a '0' 'g' suivies de j
+Il y a '0' 'g' suivies de k
+Il y a '96' 'g' suivies de l
+Il y a '23' 'g' suivies de m
+Il y a '169' 'g' suivies de n
+Il y a '209' 'g' suivies de o
+Il y a '0' 'g' suivies de p
+Il y a '0' 'g' suivies de q
+Il y a '282' 'g' suivies de r
+Il y a '3' 'g' suivies de s
+Il y a '2' 'g' suivies de t
+Il y a '197' 'g' suivies de u
+Il y a '0' 'g' suivies de v
+Il y a '0' 'g' suivies de w
+Il y a '0' 'g' suivies de x
+Il y a '11' 'g' suivies de y
+Il y a '1' 'g' suivies de z
+Il y a '62' 'g' suivies de Fin
+Pour un total de : 2574 g
+
+
+
+On traite ici le cas de h :
+Il y a '382' 'h' suivies de a
+Il y a '0' 'h' suivies de b
+Il y a '0' 'h' suivies de c
+Il y a '0' 'h' suivies de d
+Il y a '461' 'h' suivies de e
+Il y a '0' 'h' suivies de f
+Il y a '0' 'h' suivies de g
+Il y a '0' 'h' suivies de h
+Il y a '252' 'h' suivies de i
+Il y a '0' 'h' suivies de j
+Il y a '0' 'h' suivies de k
+Il y a '8' 'h' suivies de l
+Il y a '12' 'h' suivies de m
+Il y a '11' 'h' suivies de n
+Il y a '246' 'h' suivies de o
+Il y a '0' 'h' suivies de p
+Il y a '0' 'h' suivies de q
+Il y a '46' 'h' suivies de r
+Il y a '1' 'h' suivies de s
+Il y a '9' 'h' suivies de t
+Il y a '68' 'h' suivies de u
+Il y a '0' 'h' suivies de v
+Il y a '0' 'h' suivies de w
+Il y a '0' 'h' suivies de x
+Il y a '55' 'h' suivies de y
+Il y a '0' 'h' suivies de z
+Il y a '34' 'h' suivies de Fin
+Pour un total de : 1585 h
+
+
+
+On traite ici le cas de i :
+Il y a '242' 'i' suivies de a
+Il y a '127' 'i' suivies de b
+Il y a '510' 'i' suivies de c
+Il y a '178' 'i' suivies de d
+Il y a '1298' 'i' suivies de e
+Il y a '217' 'i' suivies de f
+Il y a '279' 'i' suivies de g
+Il y a '2' 'i' suivies de h
+Il y a '0' 'i' suivies de i
+Il y a '4' 'i' suivies de j
+Il y a '10' 'i' suivies de k
+Il y a '692' 'i' suivies de l
+Il y a '277' 'i' suivies de m
+Il y a '1276' 'i' suivies de n
+Il y a '1433' 'i' suivies de o
+Il y a '110' 'i' suivies de p
+Il y a '217' 'i' suivies de q
+Il y a '477' 'i' suivies de r
+Il y a '1533' 'i' suivies de s
+Il y a '567' 'i' suivies de t
+Il y a '27' 'i' suivies de u
+Il y a '153' 'i' suivies de v
+Il y a '1' 'i' suivies de w
+Il y a '31' 'i' suivies de x
+Il y a '1' 'i' suivies de y
+Il y a '13' 'i' suivies de z
+Il y a '143' 'i' suivies de Fin
+Pour un total de : 9818 i
+
+
+
+On traite ici le cas de j :
+Il y a '47' 'j' suivies de a
+Il y a '0' 'j' suivies de b
+Il y a '0' 'j' suivies de c
+Il y a '0' 'j' suivies de d
+Il y a '40' 'j' suivies de e
+Il y a '0' 'j' suivies de f
+Il y a '0' 'j' suivies de g
+Il y a '0' 'j' suivies de h
+Il y a '2' 'j' suivies de i
+Il y a '0' 'j' suivies de j
+Il y a '0' 'j' suivies de k
+Il y a '0' 'j' suivies de l
+Il y a '0' 'j' suivies de m
+Il y a '0' 'j' suivies de n
+Il y a '71' 'j' suivies de o
+Il y a '0' 'j' suivies de p
+Il y a '0' 'j' suivies de q
+Il y a '0' 'j' suivies de r
+Il y a '0' 'j' suivies de s
+Il y a '0' 'j' suivies de t
+Il y a '62' 'j' suivies de u
+Il y a '0' 'j' suivies de v
+Il y a '0' 'j' suivies de w
+Il y a '0' 'j' suivies de x
+Il y a '0' 'j' suivies de y
+Il y a '0' 'j' suivies de z
+Il y a '0' 'j' suivies de Fin
+Pour un total de : 222 j
+
+
+
+On traite ici le cas de k :
+Il y a '27' 'k' suivies de a
+Il y a '0' 'k' suivies de b
+Il y a '1' 'k' suivies de c
+Il y a '0' 'k' suivies de d
+Il y a '26' 'k' suivies de e
+Il y a '0' 'k' suivies de f
+Il y a '1' 'k' suivies de g
+Il y a '2' 'k' suivies de h
+Il y a '23' 'k' suivies de i
+Il y a '0' 'k' suivies de j
+Il y a '2' 'k' suivies de k
+Il y a '5' 'k' suivies de l
+Il y a '1' 'k' suivies de m
+Il y a '0' 'k' suivies de n
+Il y a '2' 'k' suivies de o
+Il y a '2' 'k' suivies de p
+Il y a '0' 'k' suivies de q
+Il y a '2' 'k' suivies de r
+Il y a '0' 'k' suivies de s
+Il y a '2' 'k' suivies de t
+Il y a '0' 'k' suivies de u
+Il y a '0' 'k' suivies de v
+Il y a '0' 'k' suivies de w
+Il y a '0' 'k' suivies de x
+Il y a '2' 'k' suivies de y
+Il y a '0' 'k' suivies de z
+Il y a '23' 'k' suivies de Fin
+Pour un total de : 121 k
+
+
+
+On traite ici le cas de l :
+Il y a '818' 'l' suivies de a
+Il y a '16' 'l' suivies de b
+Il y a '32' 'l' suivies de c
+Il y a '10' 'l' suivies de d
+Il y a '1305' 'l' suivies de e
+Il y a '10' 'l' suivies de f
+Il y a '20' 'l' suivies de g
+Il y a '4' 'l' suivies de h
+Il y a '761' 'l' suivies de i
+Il y a '0' 'l' suivies de j
+Il y a '5' 'l' suivies de k
+Il y a '693' 'l' suivies de l
+Il y a '20' 'l' suivies de m
+Il y a '3' 'l' suivies de n
+Il y a '555' 'l' suivies de o
+Il y a '21' 'l' suivies de p
+Il y a '5' 'l' suivies de q
+Il y a '0' 'l' suivies de r
+Il y a '19' 'l' suivies de s
+Il y a '99' 'l' suivies de t
+Il y a '201' 'l' suivies de u
+Il y a '19' 'l' suivies de v
+Il y a '1' 'l' suivies de w
+Il y a '0' 'l' suivies de x
+Il y a '39' 'l' suivies de y
+Il y a '0' 'l' suivies de z
+Il y a '283' 'l' suivies de Fin
+Pour un total de : 4939 l
+
+
+
+On traite ici le cas de m :
+Il y a '680' 'm' suivies de a
+Il y a '197' 'm' suivies de b
+Il y a '0' 'm' suivies de c
+Il y a '1' 'm' suivies de d
+Il y a '1467' 'm' suivies de e
+Il y a '0' 'm' suivies de f
+Il y a '0' 'm' suivies de g
+Il y a '0' 'm' suivies de h
+Il y a '423' 'm' suivies de i
+Il y a '0' 'm' suivies de j
+Il y a '0' 'm' suivies de k
+Il y a '0' 'm' suivies de l
+Il y a '134' 'm' suivies de m
+Il y a '20' 'm' suivies de n
+Il y a '371' 'm' suivies de o
+Il y a '248' 'm' suivies de p
+Il y a '0' 'm' suivies de q
+Il y a '0' 'm' suivies de r
+Il y a '1' 'm' suivies de s
+Il y a '2' 'm' suivies de t
+Il y a '108' 'm' suivies de u
+Il y a '0' 'm' suivies de v
+Il y a '1' 'm' suivies de w
+Il y a '0' 'm' suivies de x
+Il y a '24' 'm' suivies de y
+Il y a '0' 'm' suivies de z
+Il y a '66' 'm' suivies de Fin
+Pour un total de : 3743 m
+
+
+
+On traite ici le cas de n :
+Il y a '539' 'n' suivies de a
+Il y a '2' 'n' suivies de b
+Il y a '622' 'n' suivies de c
+Il y a '366' 'n' suivies de d
+Il y a '868' 'n' suivies de e
+Il y a '97' 'n' suivies de f
+Il y a '253' 'n' suivies de g
+Il y a '10' 'n' suivies de h
+Il y a '459' 'n' suivies de i
+Il y a '22' 'n' suivies de j
+Il y a '4' 'n' suivies de k
+Il y a '12' 'n' suivies de l
+Il y a '2' 'n' suivies de m
+Il y a '327' 'n' suivies de n
+Il y a '299' 'n' suivies de o
+Il y a '1' 'n' suivies de p
+Il y a '26' 'n' suivies de q
+Il y a '9' 'n' suivies de r
+Il y a '245' 'n' suivies de s
+Il y a '1655' 'n' suivies de t
+Il y a '98' 'n' suivies de u
+Il y a '61' 'n' suivies de v
+Il y a '0' 'n' suivies de w
+Il y a '6' 'n' suivies de x
+Il y a '25' 'n' suivies de y
+Il y a '10' 'n' suivies de z
+Il y a '2028' 'n' suivies de Fin
+Pour un total de : 8046 n
+
+
+
+On traite ici le cas de o :
+Il y a '22' 'o' suivies de a
+Il y a '107' 'o' suivies de b
+Il y a '256' 'o' suivies de c
+Il y a '110' 'o' suivies de d
+Il y a '42' 'o' suivies de e
+Il y a '39' 'o' suivies de f
+Il y a '264' 'o' suivies de g
+Il y a '12' 'o' suivies de h
+Il y a '389' 'o' suivies de i
+Il y a '4' 'o' suivies de j
+Il y a '6' 'o' suivies de k
+Il y a '517' 'o' suivies de l
+Il y a '388' 'o' suivies de m
+Il y a '2556' 'o' suivies de n
+Il y a '16' 'o' suivies de o
+Il y a '204' 'o' suivies de p
+Il y a '52' 'o' suivies de q
+Il y a '652' 'o' suivies de r
+Il y a '232' 'o' suivies de s
+Il y a '402' 'o' suivies de t
+Il y a '966' 'o' suivies de u
+Il y a '36' 'o' suivies de v
+Il y a '5' 'o' suivies de w
+Il y a '19' 'o' suivies de x
+Il y a '51' 'o' suivies de y
+Il y a '2' 'o' suivies de z
+Il y a '122' 'o' suivies de Fin
+Pour un total de : 7471 o
+
+
+
+On traite ici le cas de p :
+Il y a '481' 'p' suivies de a
+Il y a '0' 'p' suivies de b
+Il y a '0' 'p' suivies de c
+Il y a '0' 'p' suivies de d
+Il y a '492' 'p' suivies de e
+Il y a '0' 'p' suivies de f
+Il y a '0' 'p' suivies de g
+Il y a '241' 'p' suivies de h
+Il y a '309' 'p' suivies de i
+Il y a '0' 'p' suivies de j
+Il y a '1' 'p' suivies de k
+Il y a '214' 'p' suivies de l
+Il y a '0' 'p' suivies de m
+Il y a '11' 'p' suivies de n
+Il y a '432' 'p' suivies de o
+Il y a '104' 'p' suivies de p
+Il y a '0' 'p' suivies de q
+Il y a '315' 'p' suivies de r
+Il y a '39' 'p' suivies de s
+Il y a '101' 'p' suivies de t
+Il y a '104' 'p' suivies de u
+Il y a '0' 'p' suivies de v
+Il y a '0' 'p' suivies de w
+Il y a '0' 'p' suivies de x
+Il y a '9' 'p' suivies de y
+Il y a '0' 'p' suivies de z
+Il y a '25' 'p' suivies de Fin
+Pour un total de : 2878 p
+
+
+
+On traite ici le cas de q :
+Il y a '0' 'q' suivies de a
+Il y a '0' 'q' suivies de b
+Il y a '0' 'q' suivies de c
+Il y a '0' 'q' suivies de d
+Il y a '0' 'q' suivies de e
+Il y a '0' 'q' suivies de f
+Il y a '0' 'q' suivies de g
+Il y a '0' 'q' suivies de h
+Il y a '0' 'q' suivies de i
+Il y a '0' 'q' suivies de j
+Il y a '0' 'q' suivies de k
+Il y a '0' 'q' suivies de l
+Il y a '0' 'q' suivies de m
+Il y a '0' 'q' suivies de n
+Il y a '0' 'q' suivies de o
+Il y a '0' 'q' suivies de p
+Il y a '0' 'q' suivies de q
+Il y a '0' 'q' suivies de r
+Il y a '0' 'q' suivies de s
+Il y a '0' 'q' suivies de t
+Il y a '550' 'q' suivies de u
+Il y a '0' 'q' suivies de v
+Il y a '0' 'q' suivies de w
+Il y a '0' 'q' suivies de x
+Il y a '0' 'q' suivies de y
+Il y a '0' 'q' suivies de z
+Il y a '1' 'q' suivies de Fin
+Pour un total de : 551 q
+
+
+
+On traite ici le cas de r :
+Il y a '1191' 'r' suivies de a
+Il y a '102' 'r' suivies de b
+Il y a '179' 'r' suivies de c
+Il y a '260' 'r' suivies de d
+Il y a '1758' 'r' suivies de e
+Il y a '32' 'r' suivies de f
+Il y a '159' 'r' suivies de g
+Il y a '10' 'r' suivies de h
+Il y a '1110' 'r' suivies de i
+Il y a '4' 'r' suivies de j
+Il y a '3' 'r' suivies de k
+Il y a '42' 'r' suivies de l
+Il y a '172' 'r' suivies de m
+Il y a '129' 'r' suivies de n
+Il y a '767' 'r' suivies de o
+Il y a '63' 'r' suivies de p
+Il y a '22' 'r' suivies de q
+Il y a '220' 'r' suivies de r
+Il y a '138' 'r' suivies de s
+Il y a '300' 'r' suivies de t
+Il y a '192' 'r' suivies de u
+Il y a '68' 'r' suivies de v
+Il y a '0' 'r' suivies de w
+Il y a '2' 'r' suivies de x
+Il y a '25' 'r' suivies de y
+Il y a '1' 'r' suivies de z
+Il y a '1304' 'r' suivies de Fin
+Pour un total de : 8253 r
+
+
+
+On traite ici le cas de s :
+Il y a '550' 's' suivies de a
+Il y a '9' 's' suivies de b
+Il y a '203' 's' suivies de c
+Il y a '2' 's' suivies de d
+Il y a '1002' 's' suivies de e
+Il y a '11' 's' suivies de f
+Il y a '1' 's' suivies de g
+Il y a '20' 's' suivies de h
+Il y a '524' 's' suivies de i
+Il y a '1' 's' suivies de j
+Il y a '9' 's' suivies de k
+Il y a '12' 's' suivies de l
+Il y a '228' 's' suivies de m
+Il y a '4' 's' suivies de n
+Il y a '344' 's' suivies de o
+Il y a '125' 's' suivies de p
+Il y a '40' 's' suivies de q
+Il y a '0' 's' suivies de r
+Il y a '738' 's' suivies de s
+Il y a '759' 's' suivies de t
+Il y a '216' 's' suivies de u
+Il y a '2' 's' suivies de v
+Il y a '2' 's' suivies de w
+Il y a '0' 's' suivies de x
+Il y a '58' 's' suivies de y
+Il y a '0' 's' suivies de z
+Il y a '433' 's' suivies de Fin
+Pour un total de : 5293 s
+
+
+
+On traite ici le cas de t :
+Il y a '774' 't' suivies de a
+Il y a '1' 't' suivies de b
+Il y a '8' 't' suivies de c
+Il y a '0' 't' suivies de d
+Il y a '1699' 't' suivies de e
+Il y a '0' 't' suivies de f
+Il y a '0' 't' suivies de g
+Il y a '141' 't' suivies de h
+Il y a '1992' 't' suivies de i
+Il y a '0' 't' suivies de j
+Il y a '0' 't' suivies de k
+Il y a '4' 't' suivies de l
+Il y a '1' 't' suivies de m
+Il y a '2' 't' suivies de n
+Il y a '456' 't' suivies de o
+Il y a '0' 't' suivies de p
+Il y a '0' 't' suivies de q
+Il y a '664' 't' suivies de r
+Il y a '20' 't' suivies de s
+Il y a '385' 't' suivies de t
+Il y a '300' 't' suivies de u
+Il y a '0' 't' suivies de v
+Il y a '1' 't' suivies de w
+Il y a '0' 't' suivies de x
+Il y a '30' 't' suivies de y
+Il y a '6' 't' suivies de z
+Il y a '1560' 't' suivies de Fin
+Pour un total de : 8044 t
+
+
+
+On traite ici le cas de u :
+Il y a '136' 'u' suivies de a
+Il y a '92' 'u' suivies de b
+Il y a '191' 'u' suivies de c
+Il y a '154' 'u' suivies de d
+Il y a '619' 'u' suivies de e
+Il y a '69' 'u' suivies de f
+Il y a '67' 'u' suivies de g
+Il y a '3' 'u' suivies de h
+Il y a '344' 'u' suivies de i
+Il y a '11' 'u' suivies de j
+Il y a '2' 'u' suivies de k
+Il y a '384' 'u' suivies de l
+Il y a '187' 'u' suivies de m
+Il y a '96' 'u' suivies de n
+Il y a '16' 'u' suivies de o
+Il y a '133' 'u' suivies de p
+Il y a '13' 'u' suivies de q
+Il y a '1423' 'u' suivies de r
+Il y a '369' 'u' suivies de s
+Il y a '355' 'u' suivies de t
+Il y a '0' 'u' suivies de u
+Il y a '90' 'u' suivies de v
+Il y a '0' 'u' suivies de w
+Il y a '81' 'u' suivies de x
+Il y a '7' 'u' suivies de y
+Il y a '7' 'u' suivies de z
+Il y a '279' 'u' suivies de Fin
+Pour un total de : 5128 u
+
+
+
+On traite ici le cas de v :
+Il y a '246' 'v' suivies de a
+Il y a '0' 'v' suivies de b
+Il y a '0' 'v' suivies de c
+Il y a '0' 'v' suivies de d
+Il y a '434' 'v' suivies de e
+Il y a '0' 'v' suivies de f
+Il y a '0' 'v' suivies de g
+Il y a '0' 'v' suivies de h
+Il y a '238' 'v' suivies de i
+Il y a '0' 'v' suivies de j
+Il y a '0' 'v' suivies de k
+Il y a '0' 'v' suivies de l
+Il y a '0' 'v' suivies de m
+Il y a '0' 'v' suivies de n
+Il y a '120' 'v' suivies de o
+Il y a '0' 'v' suivies de p
+Il y a '0' 'v' suivies de q
+Il y a '73' 'v' suivies de r
+Il y a '0' 'v' suivies de s
+Il y a '0' 'v' suivies de t
+Il y a '18' 'v' suivies de u
+Il y a '0' 'v' suivies de v
+Il y a '0' 'v' suivies de w
+Il y a '0' 'v' suivies de x
+Il y a '0' 'v' suivies de y
+Il y a '0' 'v' suivies de z
+Il y a '2' 'v' suivies de Fin
+Pour un total de : 1131 v
+
+
+
+On traite ici le cas de w :
+Il y a '9' 'w' suivies de a
+Il y a '0' 'w' suivies de b
+Il y a '0' 'w' suivies de c
+Il y a '0' 'w' suivies de d
+Il y a '2' 'w' suivies de e
+Il y a '0' 'w' suivies de f
+Il y a '0' 'w' suivies de g
+Il y a '1' 'w' suivies de h
+Il y a '2' 'w' suivies de i
+Il y a '0' 'w' suivies de j
+Il y a '1' 'w' suivies de k
+Il y a '1' 'w' suivies de l
+Il y a '0' 'w' suivies de m
+Il y a '2' 'w' suivies de n
+Il y a '0' 'w' suivies de o
+Il y a '0' 'w' suivies de p
+Il y a '0' 'w' suivies de q
+Il y a '2' 'w' suivies de r
+Il y a '0' 'w' suivies de s
+Il y a '0' 'w' suivies de t
+Il y a '0' 'w' suivies de u
+Il y a '0' 'w' suivies de v
+Il y a '0' 'w' suivies de w
+Il y a '0' 'w' suivies de x
+Il y a '0' 'w' suivies de y
+Il y a '0' 'w' suivies de z
+Il y a '4' 'w' suivies de Fin
+Pour un total de : 24 w
+
+
+
+On traite ici le cas de x :
+Il y a '23' 'x' suivies de a
+Il y a '0' 'x' suivies de b
+Il y a '18' 'x' suivies de c
+Il y a '0' 'x' suivies de d
+Il y a '40' 'x' suivies de e
+Il y a '1' 'x' suivies de f
+Il y a '0' 'x' suivies de g
+Il y a '5' 'x' suivies de h
+Il y a '62' 'x' suivies de i
+Il y a '0' 'x' suivies de j
+Il y a '0' 'x' suivies de k
+Il y a '0' 'x' suivies de l
+Il y a '0' 'x' suivies de m
+Il y a '0' 'x' suivies de n
+Il y a '10' 'x' suivies de o
+Il y a '32' 'x' suivies de p
+Il y a '0' 'x' suivies de q
+Il y a '0' 'x' suivies de r
+Il y a '0' 'x' suivies de s
+Il y a '33' 'x' suivies de t
+Il y a '7' 'x' suivies de u
+Il y a '0' 'x' suivies de v
+Il y a '0' 'x' suivies de w
+Il y a '0' 'x' suivies de x
+Il y a '4' 'x' suivies de y
+Il y a '0' 'x' suivies de z
+Il y a '104' 'x' suivies de Fin
+Pour un total de : 339 x
+
+
+
+On traite ici le cas de y :
+Il y a '49' 'y' suivies de a
+Il y a '2' 'y' suivies de b
+Il y a '38' 'y' suivies de c
+Il y a '13' 'y' suivies de d
+Il y a '44' 'y' suivies de e
+Il y a '0' 'y' suivies de f
+Il y a '8' 'y' suivies de g
+Il y a '0' 'y' suivies de h
+Il y a '2' 'y' suivies de i
+Il y a '0' 'y' suivies de j
+Il y a '0' 'y' suivies de k
+Il y a '36' 'y' suivies de l
+Il y a '48' 'y' suivies de m
+Il y a '45' 'y' suivies de n
+Il y a '23' 'y' suivies de o
+Il y a '34' 'y' suivies de p
+Il y a '1' 'y' suivies de q
+Il y a '22' 'y' suivies de r
+Il y a '43' 'y' suivies de s
+Il y a '22' 'y' suivies de t
+Il y a '2' 'y' suivies de u
+Il y a '1' 'y' suivies de v
+Il y a '0' 'y' suivies de w
+Il y a '3' 'y' suivies de x
+Il y a '0' 'y' suivies de y
+Il y a '1' 'y' suivies de z
+Il y a '17' 'y' suivies de Fin
+Pour un total de : 454 y
+
+
+
+On traite ici le cas de z :
+Il y a '19' 'z' suivies de a
+Il y a '0' 'z' suivies de b
+Il y a '0' 'z' suivies de c
+Il y a '0' 'z' suivies de d
+Il y a '31' 'z' suivies de e
+Il y a '0' 'z' suivies de f
+Il y a '0' 'z' suivies de g
+Il y a '0' 'z' suivies de h
+Il y a '11' 'z' suivies de i
+Il y a '0' 'z' suivies de j
+Il y a '0' 'z' suivies de k
+Il y a '2' 'z' suivies de l
+Il y a '0' 'z' suivies de m
+Il y a '0' 'z' suivies de n
+Il y a '22' 'z' suivies de o
+Il y a '0' 'z' suivies de p
+Il y a '0' 'z' suivies de q
+Il y a '0' 'z' suivies de r
+Il y a '0' 'z' suivies de s
+Il y a '1' 'z' suivies de t
+Il y a '1' 'z' suivies de u
+Il y a '0' 'z' suivies de v
+Il y a '0' 'z' suivies de w
+Il y a '0' 'z' suivies de x
+Il y a '1' 'z' suivies de y
+Il y a '7' 'z' suivies de z
+Il y a '10' 'z' suivies de Fin
+Pour un total de : 105 z
+
+
+

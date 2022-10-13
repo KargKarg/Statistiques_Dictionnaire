@@ -1,0 +1,4045 @@
+['a', 'b', 'a', 'i', 's', 's', 'e', '-', 'l', 'a', 'n', 'g', 'u', 'e', 'Fin'] abaisse-langue
+
+['a', 'b', 'a', 't', '-', 'j', 'o', 'u', 'r', 'Fin'] abat-jour
+
+['a', 'b', 'e', 'c', 'Ã', '©', 'd', 'a', 'i', 'r', 'e', 'Fin'] abecÃ©daire
+
+['a', 'b', 'o', 'r', 'i', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] aborigÃ¨ne
+
+['a', 'b', 's', 'u', 'r', 'd', 'i', 't', 'Ã', '©', 'Fin'] absurditÃ©
+
+['a', 'c', 'a', 'd', 'Ã', '©', 'm', 'i', 'c', 'i', 'e', 'n', 'Fin'] acadÃ©micien
+
+['a', 'c', 'a', 'd', 'Ã', '©', 'm', 'i', 'e', 'Fin'] acadÃ©mie
+
+['a', 'c', 'c', 'e', 'l', 'Ã', '©', 'r', 'a', 't', 'e', 'u', 'r', 'Fin'] accelÃ©rateur
+
+['a', 'c', 'c', 'e', 'l', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] accelÃ©ration
+
+['a', 'c', 'c', 'e', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] accessibilitÃ©
+
+['a', 'c', 'c', 'i', 'd', 'e', 'n', 't', 'Ã', '©', 'Fin'] accidentÃ©
+
+['a', 'c', 'c', 'o', 'r', 'd', 'Ã', '©', 'o', 'n', 'Fin'] accordÃ©on
+
+['a', 'c', 'c', 'o', 'u', 'c', 'h', 'Ã', '©', 'e', 'Fin'] accouchÃ©e
+
+['a', 'c', 'c', 'r', 'Ã', '©', 't', 'i', 'o', 'n', 'Fin'] accrÃ©tion
+
+['a', 'c', 'c', 'r', 'o', 'c', 'h', 'e', '-', 'c', 'o', 'e', 'u', 'r', 'Fin'] accroche-coeur
+
+['A', 'c', 'i', 'd', 'e', 'Fin'] Acide
+
+['a', 'c', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] aciditÃ©
+
+['a', '-', 'c', 'o', 'u', 'p', 'Fin'] a-coup
+
+['a', 'c', 'q', 'u', 'Ã', '©', 'r', 'e', 'u', 'r', 'Fin'] acquÃ©reur
+
+['a', 'c', 'r', 'o', 'm', 'Ã', '©', 'g', 'a', 'l', 'i', 'e', 'Fin'] acromÃ©galie
+
+['a', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] activitÃ©
+
+['a', 'c', 't', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] actualitÃ©
+
+['a', 'd', 'i', 'p', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] adipositÃ©
+
+['a', 'd', 'm', 'i', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] admissibilitÃ©
+
+['a', 'd', 'u', 'l', 't', 'Ã', '¨', 'r', 'e', 'Fin'] adultÃ¨re
+
+['a', 'd', 'v', 'e', 'r', 's', 'i', 't', 'Ã', '©', 'Fin'] adversitÃ©
+
+['a', 'f', 'f', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] affabilitÃ©
+
+['a', 'f', 'f', 'e', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] affectivitÃ©
+
+['a', 'f', 'f', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] affinitÃ©
+
+['a', 'f', 'f', 'r', 'Ã', '¨', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] affrÃ¨tement
+
+['a', 'f', 'f', 'r', 'Ã', '©', 't', 'e', 'u', 'r', 'Fin'] affrÃ©teur
+
+['a', 'g', 'g', 'l', 'o', 'm', 'Ã', '©', 'r', 'a', 't', 'Fin'] agglomÃ©rat
+
+['a', 'g', 'g', 'l', 'o', 'm', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] agglomÃ©ration
+
+['a', 'g', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] agilitÃ©
+
+['a', 'g', 'n', 'e', 'l', 'Ã', '©', 'e', 'Fin'] agnelÃ©e
+
+['a', 'g', 'r', 'e', 's', 's', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] agressivitÃ©
+
+['a', 'i', 'd', 'e', '-', 'm', 'Ã', '©', 'm', 'o', 'i', 'r', 'e', 'Fin'] aide-mÃ©moire
+
+['a', 'i', 'g', 'u', 'e', '-', 'm', 'a', 'r', 'i', 'n', 'e', 'Fin'] aigue-marine
+
+['a', 'i', 'g', 'u', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] aiguiÃ¨re
+
+['a', 'i', 'g', 'u', 'i', 'l', 'l', 'Ã', '©', 'e', 'Fin'] aiguillÃ©e
+
+['a', 'l', 'a', 'c', 'r', 'i', 't', 'Ã', '©', 'Fin'] alacritÃ©
+
+['a', 'l', 'c', 'a', 'l', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] alcalinitÃ©
+
+['a', 'l', 'c', 'o', 'o', 'l', 'Ã', '©', 'm', 'i', 'e', 'Fin'] alcoolÃ©mie
+
+['a', 'l', 'c', 'o', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] alcoomÃ¨tre
+
+['a', 'l', 'i', 'e', 'n', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] alienabilitÃ©
+
+['a', 'l', 'l', 'e', 'r', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] allergÃ¨ne
+
+['a', 'l', 'l', 'i', 't', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] allitÃ©ration
+
+['a', 'l', 'l', 'u', 'm', 'e', '-', 'f', 'e', 'u', 'Fin'] allume-feu
+
+['a', 'l', 'p', 'h', 'a', 'b', 'Ã', '©', 't', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] alphabÃ©tisation
+
+['a', 'l', 't', 'i', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] altimÃ¨tre
+
+['a', 'm', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] amabilitÃ©
+
+['a', 'm', 'e', 'n', 'i', 't', 'Ã', '©', 'Fin'] amenitÃ©
+
+['a', 'm', 'o', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] amoralitÃ©
+
+['a', 'm', 'o', 'r', 'Ã', '§', 'a', 'g', 'e', 'Fin'] amorÃ§age
+
+['a', 'm', 'o', 'u', 'r', '-', 'p', 'r', 'o', 'p', 'r', 'e', 'Fin'] amour-propre
+
+['a', 'm', 'p', 'e', 'r', 'e', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] amperemÃ¨tre
+
+['a', 'm', 'p', 'h', 'Ã', '©', 't', 'a', 'm', 'i', 'n', 'e', 'Fin'] amphÃ©tamine
+
+['a', 'm', 'u', 's', 'e', '-', 'g', 'u', 'e', 'u', 'l', 'e', 'Fin'] amuse-gueule
+
+['a', 'n', 'a', 'c', 'h', 'o', 'r', 'Ã', '¨', 't', 'e', 'Fin'] anachorÃ¨te
+
+['a', 'n', 'a', 'l', 'g', 'Ã', '©', 's', 'i', 'e', 'Fin'] analgÃ©sie
+
+['a', 'n', 'a', 'l', 'g', 'Ã', '©', 's', 'i', 'q', 'u', 'e', 'Fin'] analgÃ©sique
+
+['a', 'n', 'a', 'l', 'p', 'h', 'a', 'b', 'Ã', '¨', 't', 'e', 'Fin'] analphabÃ¨te
+
+['a', 'n', 'a', 'l', 'p', 'h', 'a', 'b', 'Ã', '©', 't', 'i', 's', 'm', 'e', 'Fin'] analphabÃ©tisme
+
+['a', 'n', 'a', 't', 'h', 'Ã', '¨', 'm', 'e', 'Fin'] anathÃ¨me
+
+['a', 'n', 'c', 'i', 'e', 'n', 'n', 'e', 't', 'Ã', '©', 'Fin'] anciennetÃ©
+
+['a', 'n', 'd', 'r', 'o', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] androgÃ¨ne
+
+['a', 'n', 'd', 'r', 'o', 'Ã', '¯', 'd', 'e', 'Fin'] androÃ¯de
+
+['a', 'n', 'e', 'm', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] anemomÃ¨tre
+
+['a', 'n', 'e', 's', 't', 'h', 'Ã', '©', 's', 'i', 'a', 'n', 't', 'Fin'] anesthÃ©siant
+
+['a', 'n', 'e', 's', 't', 'h', 'Ã', '©', 's', 'i', 'e', 'Fin'] anesthÃ©sie
+
+['a', 'n', 'e', 's', 't', 'h', 'Ã', '©', 's', 'i', 'q', 'u', 'e', 'Fin'] anesthÃ©sique
+
+['a', 'n', 'f', 'r', 'a', 'c', 't', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] anfractuositÃ©
+
+['a', 'n', 'g', 'l', 'o', '-', 's', 'a', 'x', 'o', 'n', 'Fin'] anglo-saxon
+
+['a', 'n', 'i', 'm', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] animalitÃ©
+
+['a', 'n', 'i', 'm', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] animositÃ©
+
+['a', 'n', 'n', 'u', 'i', 't', 'Ã', '©', 'Fin'] annuitÃ©
+
+['a', 'n', 't', 'e', 'c', 'Ã', '©', 'd', 'e', 'n', 't', 'Fin'] antecÃ©dent
+
+['a', 'n', 't', 'e', 'p', 'Ã', '©', 'n', 'u', 'l', 't', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] antepÃ©nultiÃ¨me
+
+['a', 'n', 't', 'e', 'r', 'i', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] anterioritÃ©
+
+['a', 'n', 't', 'h', 'r', 'o', 'p', 'o', 'g', 'e', 'n', 'Ã', '¨', 's', 'e', 'Fin'] anthropogenÃ¨se
+
+['a', 'n', 't', 'h', 'r', 'o', 'p', 'o', 'm', 'Ã', '©', 't', 'r', 'i', 'e', 'Fin'] anthropomÃ©trie
+
+['a', 'n', 't', 'h', 'r', 'o', 'p', 'o', 'p', 'i', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] anthropopithÃ¨que
+
+['a', 'n', 't', 'i', 'c', 'l', 'Ã', '©', 'r', 'i', 'c', 'a', 'l', 'Fin'] anticlÃ©rical
+
+['a', 'n', 't', 'i', 'd', 'Ã', '©', 'p', 'r', 'e', 's', 's', 'e', 'u', 'r', 'Fin'] antidÃ©presseur
+
+['a', 'n', 't', 'i', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] antigÃ¨ne
+
+['a', 'n', 't', 'i', '-', 'i', 'n', 'f', 'l', 'a', 'm', 'm', 'a', 't', 'o', 'i', 'r', 'e', 'Fin'] anti-inflammatoire
+
+['a', 'n', 't', 'i', 'q', 'u', 'i', 't', 'Ã', '©', 'Fin'] antiquitÃ©
+
+['a', 'n', 't', 'i', 's', 'Ã', '©', 'm', 'i', 't', 'e', 'Fin'] antisÃ©mite
+
+['a', 'n', 't', 'i', 's', 'Ã', '©', 'm', 'i', 't', 'i', 's', 'm', 'e', 'Fin'] antisÃ©mitisme
+
+['a', 'n', 't', 'i', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] antithÃ¨se
+
+['a', '-', 'p', 'e', 'u', '-', 'p', 'r', 'Ã', '¨', 's', 'Fin'] a-peu-prÃ¨s
+
+['a', 'p', 'h', 'e', 'r', 'Ã', '¨', 's', 'e', 'Fin'] apherÃ¨se
+
+['a', '-', 'p', 'i', 'c', 'Fin'] a-pic
+
+['a', 'p', 'o', 't', 'h', 'Ã', '©', 'o', 's', 'e', 'Fin'] apothÃ©ose
+
+['a', 'p', 'p', 'l', 'i', 'c', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] applicabilitÃ©
+
+['a', 'p', 'p', 'r', 'Ã', '©', 'c', 'i', 'a', 't', 'e', 'u', 'r', 'Fin'] apprÃ©ciateur
+
+['a', 'p', 'p', 'r', 'Ã', '©', 'c', 'i', 'a', 't', 'i', 'o', 'n', 'Fin'] apprÃ©ciation
+
+['a', 'p', 'p', 'r', 'Ã', '©', 'h', 'e', 'n', 's', 'i', 'o', 'n', 'Fin'] apprÃ©hension
+
+['a', 'p', 'p', 'u', 'i', '-', 'b', 'r', 'a', 's', 'Fin'] appui-bras
+
+['a', 'p', 'p', 'u', 'i', '-', 't', 'Ã', 'ª', 't', 'e', 'Fin'] appui-tÃªte
+
+['a', 'p', 'r', 'e', 's', '-', 'm', 'i', 'd', 'i', 'Fin'] apres-midi
+
+['a', 'p', 'r', 'e', 's', '-', 'r', 'a', 's', 'a', 'g', 'e', 'Fin'] apres-rasage
+
+['a', '-', 'p', 'r', 'o', 'p', 'o', 's', 'Fin'] a-propos
+
+['a', 'r', 'a', 'i', 'g', 'n', 'Ã', '©', 'e', 'Fin'] araignÃ©e
+
+['a', 'r', 'a', 'm', 'Ã', '©', 'e', 'n', 'Fin'] aramÃ©en
+
+['a', 'r', 'b', 'a', 'l', 'Ã', '¨', 't', 'e', 'Fin'] arbalÃ¨te
+
+['a', 'r', 'b', 'a', 'l', 'Ã', '©', 't', 'r', 'i', 'e', 'r', 'Fin'] arbalÃ©trier
+
+['a', 'r', 'c', '-', 'b', 'o', 'u', 't', 'a', 'n', 't', 'Fin'] arc-boutant
+
+['a', 'r', 'c', '-', 'e', 'n', '-', 'c', 'i', 'e', 'l', 'Fin'] arc-en-ciel
+
+['a', 'r', 'c', 'h', 'a', 'Ã', '¯', 's', 'm', 'e', 'Fin'] archaÃ¯sme
+
+['a', 'r', 'c', 'h', 'Ã', '©', 'o', 'l', 'o', 'g', 'i', 'e', 'Fin'] archÃ©ologie
+
+['a', 'r', 'c', 'h', 'Ã', '©', 'o', 'l', 'o', 'g', 'u', 'e', 'Fin'] archÃ©ologue
+
+['a', 'r', 'c', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] archÃ¨re
+
+['a', 'r', 'c', 'h', 'Ã', '©', 't', 'y', 'p', 'e', 'Fin'] archÃ©type
+
+['a', 'r', 'c', 'h', 'e', 'v', 'Ã', 'ª', 'q', 'u', 'e', 'Fin'] archevÃªque
+
+['a', 'r', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] ariditÃ©
+
+['a', 'r', 'i', 't', 'h', 'm', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] arithmÃ©tique
+
+['a', 'r', 'r', 'a', 'c', 'h', 'Ã', '©', 'Fin'] arrachÃ©
+
+['a', 'r', 'r', 'a', 'c', 'h', 'e', '-', 'c', 'l', 'o', 'u', 'Fin'] arrache-clou
+
+['a', 'r', 'r', 'e', 't', 'Ã', '©', 'Fin'] arretÃ©
+
+['a', 'r', 'r', 'i', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] arriÃ©ration
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] arriÃ¨re
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'b', 'o', 'u', 'c', 'h', 'e', 'Fin'] arriÃ¨re-bouche
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'b', 'o', 'u', 't', 'i', 'q', 'u', 'e', 'Fin'] arriÃ¨re-boutique
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'c', 'o', 'u', 'r', 'Fin'] arriÃ¨re-cour
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'g', 'a', 'r', 'd', 'e', 'Fin'] arriÃ¨re-garde
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'g', 'o', 'r', 'g', 'e', 'Fin'] arriÃ¨re-gorge
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'g', 'r', 'a', 'n', 'd', '-', 'm', 'Ã', '¨', 'r', 'e', 'Fin'] arriÃ¨re-grand-mÃ¨re
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'g', 'r', 'a', 'n', 'd', '-', 'p', 'Ã', '¨', 'r', 'e', 'Fin'] arriÃ¨re-grand-pÃ¨re
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'p', 'a', 'y', 's', 'Fin'] arriÃ¨re-pays
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'p', 'e', 'n', 's', 'Ã', '©', 'e', 'Fin'] arriÃ¨re-pensÃ©e
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 'p', 'l', 'a', 'n', 'Fin'] arriÃ¨re-plan
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 's', 'a', 'i', 's', 'o', 'n', 'Fin'] arriÃ¨re-saison
+
+['a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', '-', 't', 'r', 'a', 'i', 'n', 'Fin'] arriÃ¨re-train
+
+['a', 'r', 'r', 'i', 'v', 'Ã', '©', 'e', 'Fin'] arrivÃ©e
+
+['a', 'r', 't', 'e', 'r', 'i', 'o', 's', 'c', 'l', 'Ã', '©', 'r', 'o', 's', 'e', 'Fin'] arteriosclÃ©rose
+
+['a', 's', 'p', 'e', 'r', 'i', 't', 'Ã', '©', 'Fin'] asperitÃ©
+
+['a', 's', 's', 'e', 'm', 'b', 'l', 'Ã', '©', 'e', 'Fin'] assemblÃ©e
+
+['a', 's', 's', 'i', 'd', 'u', 'i', 't', 'Ã', '©', 'Fin'] assiduitÃ©
+
+['a', 's', 's', 'i', 'Ã', '©', 'g', 'e', 'a', 'n', 't', 'Fin'] assiÃ©geant
+
+['a', 's', 's', 'i', 'e', 't', 't', 'Ã', '©', 'e', 'Fin'] assiettÃ©e
+
+['a', 's', 's', 'o', 'c', 'i', 'Ã', '©', 'Fin'] associÃ©
+
+['a', 's', 's', 'o', 'i', 'f', 'f', 'Ã', '©', 'Fin'] assoiffÃ©
+
+['a', 's', 's', 'u', 'r', 'a', 'n', 'c', 'e', '-', 'v', 'i', 'e', 'Fin'] assurance-vie
+
+['a', 's', 't', 'e', 'r', 'o', 'Ã', '¯', 'd', 'e', 'Fin'] asteroÃ¯de
+
+['a', 's', 't', 'h', 'Ã', '©', 'n', 'i', 'e', 'Fin'] asthÃ©nie
+
+['a', 's', 't', 'h', 'Ã', '©', 'n', 'i', 'q', 'u', 'e', 'Fin'] asthÃ©nique
+
+['a', 's', 'y', 'm', 'Ã', '©', 't', 'r', 'i', 'e', 'Fin'] asymÃ©trie
+
+['a', 't', 'h', 'e', 'r', 'o', 's', 'c', 'l', 'Ã', '©', 'r', 'o', 's', 'e', 'Fin'] atherosclÃ©rose
+
+['a', 't', 'h', 'l', 'Ã', '¨', 't', 'e', 'Fin'] athlÃ¨te
+
+['a', 't', 'h', 'l', 'Ã', '©', 't', 'i', 's', 'm', 'e', 'Fin'] athlÃ©tisme
+
+['a', 't', 'm', 'o', 's', 'p', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] atmosphÃ¨re
+
+['a', 't', 'r', 'o', 'c', 'i', 't', 'Ã', '©', 'Fin'] atrocitÃ©
+
+['a', 't', 't', 'a', 'c', 'h', 'Ã', '©', 'Fin'] attachÃ©
+
+['a', 't', 't', 'a', 'c', 'h', 'Ã', '©', '-', 'c', 'a', 's', 'e', 'Fin'] attachÃ©-case
+
+['a', 't', 't', 'a', 'r', 'd', 'Ã', '©', 'Fin'] attardÃ©
+
+['a', 't', 't', 'r', 'a', 'p', 'e', '-', 'm', 'o', 'u', 'c', 'h', 'e', 's', 'Fin'] attrape-mouches
+
+['a', 't', 't', 'r', 'a', 'p', 'e', '-', 'n', 'i', 'g', 'a', 'u', 'd', 'Fin'] attrape-nigaud
+
+['a', 'u', '-', 'd', 'e', 'l', 'Ã', '\xa0', 'Fin'] au-delÃ 
+
+['a', 'u', 'd', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] audibilitÃ©
+
+['a', 'u', 'j', 'o', 'u', 'r', 'd', "'", 'h', 'u', 'i', 'Fin'] aujourd'hui
+
+['a', 'u', 'm', 'o', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] aumoniÃ¨re
+
+['a', 'u', 's', 't', 'r', 'a', 'l', 'o', 'p', 'i', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] australopithÃ¨que
+
+['a', 'u', 't', 'h', 'e', 'n', 't', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] authenticitÃ©
+
+['a', 'u', 't', 'o', '-', 'c', 'a', 'r', 'a', 'v', 'a', 'n', 'e', 'Fin'] auto-caravane
+
+['a', 'u', 't', 'o', 'd', 'a', 'f', 'Ã', '©', 'Fin'] autodafÃ©
+
+['a', 'u', 't', 'o', 'f', 'Ã', '©', 'c', 'o', 'n', 'd', 'a', 't', 'i', 'o', 'n', 'Fin'] autofÃ©condation
+
+['a', 'u', 't', 'o', '-', 'i', 'n', 'd', 'u', 'c', 't', 'i', 'o', 'n', 'Fin'] auto-induction
+
+['a', 'u', 't', 'o', 'r', 'Ã', '©', 'g', 'l', 'a', 'g', 'e', 'Fin'] autorÃ©glage
+
+['a', 'u', 't', 'o', 'r', 'Ã', '©', 'g', 'u', 'l', 'a', 't', 'i', 'o', 'n', 'Fin'] autorÃ©gulation
+
+['a', 'u', 't', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] autoritÃ©
+
+['a', 'u', 't', 'o', '-', 's', 't', 'o', 'p', 'Fin'] auto-stop
+
+['a', 'u', 't', 'o', '-', 's', 't', 'o', 'p', 'p', 'e', 'u', 'r', 'Fin'] auto-stoppeur
+
+['a', '-', 'v', 'a', 'l', 'o', 'i', 'r', 'Fin'] a-valoir
+
+['a', 'v', 'a', 'n', 'c', 'Ã', '©', 'e', 'Fin'] avancÃ©e
+
+['a', 'v', 'a', 'n', 't', '-', 'b', 'a', 's', 's', 'i', 'n', 'Fin'] avant-bassin
+
+['a', 'v', 'a', 'n', 't', '-', 'b', 'r', 'a', 's', 'Fin'] avant-bras
+
+['a', 'v', 'a', 'n', 't', '-', 'c', 'e', 'n', 't', 'r', 'e', 'Fin'] avant-centre
+
+['a', 'v', 'a', 'n', 't', '-', 'd', 'e', 'r', 'n', 'i', 'e', 'r', 'Fin'] avant-dernier
+
+['a', 'v', 'a', 'n', 't', '-', 'g', 'a', 'r', 'd', 'e', 'Fin'] avant-garde
+
+['a', 'v', 'a', 'n', 't', '-', 'g', 'a', 'r', 'd', 'i', 's', 't', 'e', 'Fin'] avant-gardiste
+
+['a', 'v', 'a', 'n', 't', '-', 'g', 'o', 'Ã', '»', 't', 'Fin'] avant-goÃ»t
+
+['a', 'v', 'a', 'n', 't', '-', 'm', 'i', 'd', 'i', 'Fin'] avant-midi
+
+['a', 'v', 'a', 'n', 't', '-', 'p', 'o', 'r', 't', 'Fin'] avant-port
+
+['a', 'v', 'a', 'n', 't', '-', 'p', 'o', 's', 't', 'e', 'Fin'] avant-poste
+
+['a', 'v', 'a', 'n', 't', '-', 'p', 'r', 'e', 'm', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] avant-premiÃ¨re
+
+['a', 'v', 'a', 'n', 't', '-', 'p', 'r', 'o', 'j', 'e', 't', 'Fin'] avant-projet
+
+['a', 'v', 'a', 'n', 't', '-', 'p', 'r', 'o', 'p', 'o', 's', 'Fin'] avant-propos
+
+['a', 'v', 'a', 'n', 't', '-', 's', 'c', 'Ã', '¨', 'n', 'e', 'Fin'] avant-scÃ¨ne
+
+['a', 'v', 'a', 'n', 't', '-', 't', 'o', 'i', 't', 'Fin'] avant-toit
+
+['a', 'v', 'a', 'n', 't', '-', 't', 'r', 'a', 'i', 'n', 'Fin'] avant-train
+
+['a', 'v', 'a', 'n', 't', '-', 'v', 'e', 'i', 'l', 'l', 'e', 'Fin'] avant-veille
+
+['A', 'v', 'e', 'Fin'] Ave
+
+['a', 'v', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] aviditÃ©
+
+['b', 'a', 'c', 'c', 'a', 'l', 'a', 'u', 'r', 'Ã', '©', 'a', 't', 'Fin'] baccalaurÃ©at
+
+['b', 'a', 'c', 't', 'Ã', '©', 'r', 'i', 'c', 'i', 'd', 'e', 'Fin'] bactÃ©ricide
+
+['b', 'a', 'c', 't', 'Ã', '©', 'r', 'i', 'e', 'Fin'] bactÃ©rie
+
+['b', 'a', 'c', 't', 'Ã', '©', 'r', 'i', 'o', 'l', 'o', 'g', 'i', 'e', 'Fin'] bactÃ©riologie
+
+['b', 'a', 'i', 's', 'e', '-', 'e', 'n', '-', 'v', 'i', 'l', 'l', 'e', 'Fin'] baise-en-ville
+
+['b', 'a', 'l', 'a', 'n', 'Ã', '§', 'o', 'i', 'r', 'e', 'Fin'] balanÃ§oire
+
+['b', 'a', 'l', 'l', 'o', 'n', '-', 's', 'o', 'n', 'd', 'e', 'Fin'] ballon-sonde
+
+['b', 'a', 'l', 'n', 'Ã', '©', 'o', 't', 'h', 'Ã', '©', 'r', 'a', 'p', 'i', 'e', 'Fin'] balnÃ©othÃ©rapie
+
+['b', 'a', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] banalitÃ©
+
+['b', 'a', 'n', 'd', 'e', '-', 'a', 'n', 'n', 'o', 'n', 'c', 'e', 'Fin'] bande-annonce
+
+['b', 'a', 'n', 'd', 'o', 'u', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] bandouliÃ¨re
+
+['b', 'a', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] banniÃ¨re
+
+['b', 'a', 'p', 't', 'Ã', 'ª', 'm', 'e', 'Fin'] baptÃªme
+
+['b', 'a', 'p', 't', 'i', 's', 't', 'Ã', '¨', 'r', 'e', 'Fin'] baptistÃ¨re
+
+['b', 'a', 'r', 'b', 'e', 'l', 'Ã', '©', 'Fin'] barbelÃ©
+
+['b', 'a', 'r', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] baromÃ¨tre
+
+['b', 'a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] barriÃ¨re
+
+['b', 'a', 's', '-', 'b', 'l', 'e', 'u', 'Fin'] bas-bleu
+
+['b', 'a', 's', 'e', '-', 'b', 'a', 'l', 'l', 'Fin'] base-ball
+
+['b', 'a', 's', '-', 'f', 'o', 'n', 'd', 'Fin'] bas-fond
+
+['b', 'a', 's', 'k', 'e', 't', '-', 'b', 'a', 'l', 'l', 'Fin'] basket-ball
+
+['b', 'a', 's', '-', 'r', 'e', 'l', 'i', 'e', 'f', 'Fin'] bas-relief
+
+['b', 'a', 's', 's', 'e', '-', 'c', 'o', 'u', 'r', 'Fin'] basse-cour
+
+['b', 'a', 's', 's', 'e', '-', 'f', 'o', 's', 's', 'e', 'Fin'] basse-fosse
+
+['b', 'a', 's', '-', 'v', 'e', 'n', 't', 'r', 'e', 'Fin'] bas-ventre
+
+['b', 'a', 't', 'e', 'a', 'u', '-', 'c', 'i', 't', 'e', 'r', 'n', 'e', 'Fin'] bateau-citerne
+
+['b', 'a', 't', '-', 'f', 'l', 'a', 'n', 'c', 'Fin'] bat-flanc
+
+['b', 'a', 'y', 'a', 'd', 'Ã', '¨', 'r', 'e', 'Fin'] bayadÃ¨re
+
+['b', 'e', 'a', 'u', '-', 'f', 'i', 'l', 's', 'Fin'] beau-fils
+
+['b', 'e', 'a', 'u', '-', 'f', 'r', 'Ã', '¨', 'r', 'e', 'Fin'] beau-frÃ¨re
+
+['b', 'e', 'a', 'u', '-', 'p', 'Ã', '¨', 'r', 'e', 'Fin'] beau-pÃ¨re
+
+['b', 'e', 'a', 'u', 'x', '-', 'a', 'r', 't', 's', 'Fin'] beaux-arts
+
+['b', 'e', 'a', 'u', 'x', '-', 'p', 'a', 'r', 'e', 'n', 't', 's', 'Fin'] beaux-parents
+
+['b', 'e', 'c', '-', 'd', 'e', '-', 'c', 'a', 'n', 'e', 'Fin'] bec-de-cane
+
+['b', 'e', 'c', '-', 'd', 'e', '-', 'l', 'i', 'Ã', '¨', 'v', 'r', 'e', 'Fin'] bec-de-liÃ¨vre
+
+['b', 'e', 'c', 'q', 'u', 'Ã', '©', 'e', 'Fin'] becquÃ©e
+
+['b', 'e', 'l', 'l', 'Ã', '¢', 't', 'r', 'e', 'Fin'] bellÃ¢tre
+
+['b', 'e', 'l', 'l', 'e', '-', 'd', 'e', '-', 'j', 'o', 'u', 'r', 'Fin'] belle-de-jour
+
+['b', 'e', 'l', 'l', 'e', '-', 'd', 'e', '-', 'n', 'u', 'i', 't', 'Fin'] belle-de-nuit
+
+['b', 'e', 'l', 'l', 'e', '-', 'f', 'i', 'l', 'l', 'e', 'Fin'] belle-fille
+
+['b', 'e', 'l', 'l', 'e', '-', 'm', 'Ã', '¨', 'r', 'e', 'Fin'] belle-mÃ¨re
+
+['b', 'e', 'l', 'l', 'i', 'g', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] belligÃ©rance
+
+['b', 'e', 'l', 'l', 'i', 'g', 'Ã', '©', 'r', 'a', 'n', 't', 'Fin'] belligÃ©rant
+
+['b', 'e', 'n', 'i', 'g', 'n', 'i', 't', 'Ã', '©', 'Fin'] benignitÃ©
+
+['b', 'e', 'n', 'i', '-', 'o', 'u', 'i', '-', 'o', 'u', 'i', 'Fin'] beni-oui-oui
+
+['b', 'e', 'n', 'z', 'Ã', '¨', 'n', 'e', 'Fin'] benzÃ¨ne
+
+['b', 'e', 'r', 'b', 'Ã', '¨', 'r', 'e', 'Fin'] berbÃ¨re
+
+['b', 'e', 'r', 'g', 'Ã', '¨', 'r', 'e', 'Fin'] bergÃ¨re
+
+['b', 'e', 'r', 'i', 'b', 'Ã', '©', 'r', 'i', 'Fin'] beribÃ©ri
+
+['b', 'e', 'r', 'n', 'a', 'r', 'd', '-', 'l', "'", 'e', 'r', 'm', 'i', 't', 'e', 'Fin'] bernard-l'ermite
+
+['b', 'e', 's', 't', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] bestialitÃ©
+
+['b', 'e', 's', 't', '-', 's', 'e', 'l', 'l', 'e', 'r', 'Fin'] best-seller
+
+['b', 'e', 't', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] betonniÃ¨re
+
+['b', 'e', 'u', 'r', 'r', 'Ã', '©', 'e', 'Fin'] beurrÃ©e
+
+['b', 'i', 'b', 'l', 'i', 'o', 't', 'h', 'Ã', '©', 'c', 'a', 'i', 'r', 'e', 'Fin'] bibliothÃ©caire
+
+['b', 'i', 'b', 'l', 'i', 'o', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] bibliothÃ¨que
+
+['b', 'i', 'e', 'n', '-', 'a', 'i', 'm', 'Ã', '©', 'Fin'] bien-aimÃ©
+
+['b', 'i', 'e', 'n', '-', 'd', 'i', 'r', 'e', 'Fin'] bien-dire
+
+['b', 'i', 'e', 'n', '-', 'Ã', 'ª', 't', 'r', 'e', 'Fin'] bien-Ãªtre
+
+['b', 'i', 'e', 'n', '-', 'f', 'o', 'n', 'd', 'Ã', '©', 'Fin'] bien-fondÃ©
+
+['b', 'i', 'e', 'n', '-', 'f', 'o', 'n', 'd', 's', 'Fin'] bien-fonds
+
+['b', 'i', 'e', 'n', '-', 'p', 'e', 'n', 's', 'a', 'n', 't', 'Fin'] bien-pensant
+
+['b', 'i', 'e', 'n', 's', 'Ã', '©', 'a', 'n', 'c', 'e', 'Fin'] biensÃ©ance
+
+['b', 'i', 'l', 'l', 'e', 'v', 'e', 's', 'Ã', '©', 'e', 'Fin'] billevesÃ©e
+
+['b', 'i', 'o', 'd', 'Ã', '©', 'g', 'r', 'a', 'd', 'a', 't', 'i', 'o', 'n', 'Fin'] biodÃ©gradation
+
+['b', 'i', 'o', 'g', 'e', 'n', 'Ã', '¨', 's', 'e', 'Fin'] biogenÃ¨se
+
+['b', 'i', 'o', 'g', 'Ã', '©', 'o', 'g', 'r', 'a', 'p', 'h', 'e', 'Fin'] biogÃ©ographe
+
+['b', 'i', 'o', 'g', 'Ã', '©', 'o', 'g', 'r', 'a', 'p', 'h', 'i', 'e', 'Fin'] biogÃ©ographie
+
+['b', 'i', 'o', 's', 'p', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] biosphÃ¨re
+
+['b', 'i', 'o', 's', 'y', 'n', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] biosynthÃ¨se
+
+['b', 'i', 's', 'a', 'Ã', '¯', 'e', 'u', 'l', 'Fin'] bisaÃ¯eul
+
+['b', 'l', 'a', '-', 'b', 'l', 'a', 'Fin'] bla-bla
+
+['b', 'l', 'a', 'n', 'c', '-', 'b', 'e', 'c', 'Fin'] blanc-bec
+
+['b', 'l', 'a', 'n', 'c', '-', 's', 'e', 'i', 'n', 'g', 'Fin'] blanc-seing
+
+['b', 'l', 'a', 's', 'p', 'h', 'Ã', '©', 'm', 'a', 't', 'e', 'u', 'r', 'Fin'] blasphÃ©mateur
+
+['b', 'l', 'a', 's', 'p', 'h', 'Ã', '¨', 'm', 'e', 'Fin'] blasphÃ¨me
+
+['b', 'l', 'o', 'c', '-', 'n', 'o', 't', 'e', 's', 'Fin'] bloc-notes
+
+['b', 'l', 'u', 'e', '-', 'j', 'e', 'a', 'n', 'Fin'] blue-jean
+
+['b', 'o', 'n', 'b', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] bonbonniÃ¨re
+
+['b', 'o', 'n', 'n', 'e', '-', 'm', 'a', 'm', 'a', 'n', 'Fin'] bonne-maman
+
+['b', 'o', 'u', 'c', 'h', 'Ã', '©', 'e', 'Fin'] bouchÃ©e
+
+['b', 'o', 'u', 'c', 'h', 'e', '-', 't', 'r', 'o', 'u', 'Fin'] bouche-trou
+
+['b', 'o', 'u', 'f', 'f', 'Ã', '©', 'e', 'Fin'] bouffÃ©e
+
+['b', 'o', 'u', 'g', 'a', 'i', 'n', 'v', 'i', 'l', 'l', 'Ã', '©', 'e', 'Fin'] bougainvillÃ©e
+
+['b', 'o', 'u', 'i', '-', 'b', 'o', 'u', 'i', 'Fin'] boui-boui
+
+['b', 'o', 'u', 'q', 'u', 'e', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] bouquetiÃ¨re
+
+['b', 'o', 'u', 'r', 'r', 'Ã', '©', 'e', 'Fin'] bourrÃ©e
+
+['b', 'o', 'u', 'r', 'r', 'Ã', '¨', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] bourrÃ¨lement
+
+['b', 'o', 'u', 't', 'e', '-', 'e', 'n', '-', 't', 'r', 'a', 'i', 'n', 'Fin'] boute-en-train
+
+['b', 'o', 'u', 't', 'o', 'n', '-', 'd', "'", 'a', 'r', 'g', 'e', 'n', 't', 'Fin'] bouton-d'argent
+
+['b', 'o', 'u', 't', 'o', 'n', '-', 'd', "'", 'o', 'r', 'Fin'] bouton-d'or
+
+['b', 'o', 'u', 't', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] boutonniÃ¨re
+
+['b', 'o', 'u', 't', 'o', 'n', '-', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n', 'Fin'] bouton-pression
+
+['b', 'o', 'w', '-', 'w', 'i', 'n', 'd', 'o', 'w', 'Fin'] bow-window
+
+['b', 'o', 'y', '-', 's', 'c', 'o', 'u', 't', 'Fin'] boy-scout
+
+['b', 'r', 'a', 'c', 'e', 'l', 'e', 't', '-', 'm', 'o', 'n', 't', 'r', 'e', 'Fin'] bracelet-montre
+
+['b', 'r', 'a', 'n', 'l', 'e', '-', 'b', 'a', 's', 'Fin'] branle-bas
+
+['b', 'r', 'a', 's', 's', 'Ã', '©', 'e', 'Fin'] brassÃ©e
+
+['b', 'r', 'a', 's', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] brassiÃ¨re
+
+['b', 'r', 'i', 'c', '-', 'Ã', '\xa0', '-', 'b', 'r', 'a', 'c', 'Fin'] bric-Ã -brac
+
+['b', 'r', 'i', 'e', 'v', 'e', 't', 'Ã', '©', 'Fin'] brievetÃ©
+
+['b', 'r', 'i', 's', 'e', '-', 'b', 'i', 's', 'e', 'Fin'] brise-bise
+
+['b', 'r', 'i', 's', 'Ã', '©', 'e', 's', 'Fin'] brisÃ©es
+
+['b', 'r', 'i', 's', 'e', '-', 'f', 'e', 'r', 'Fin'] brise-fer
+
+['b', 'r', 'i', 's', 'e', '-', 'g', 'l', 'a', 'c', 'e', 'Fin'] brise-glace
+
+['b', 'r', 'i', 's', 'e', '-', 'j', 'e', 't', 'Fin'] brise-jet
+
+['b', 'r', 'i', 's', 'e', '-', 'l', 'a', 'm', 'e', 's', 'Fin'] brise-lames
+
+['b', 'r', 'i', 's', 'e', '-', 'm', 'o', 't', 't', 'e', 's', 'Fin'] brise-mottes
+
+['b', 'r', 'i', 's', 'e', '-', 't', 'o', 'u', 't', 'Fin'] brise-tout
+
+['b', 'r', 'i', 's', 'e', '-', 'v', 'e', 'n', 't', 'Fin'] brise-vent
+
+['b', 'r', 'o', 'n', 'c', 'h', 'o', '-', 'p', 'n', 'e', 'u', 'm', 'o', 'n', 'i', 'e', 'Fin'] broncho-pneumonie
+
+['b', 'r', 'o', 'u', 'e', 't', 't', 'Ã', '©', 'e', 'Fin'] brouettÃ©e
+
+['b', 'r', 'u', 'l', 'e', '-', 'g', 'u', 'e', 'u', 'l', 'e', 'Fin'] brule-gueule
+
+['b', 'r', 'u', 'l', 'e', '-', 'p', 'a', 'r', 'f', 'u', 'm', 'Fin'] brule-parfum
+
+['b', 'r', 'u', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] brutalitÃ©
+
+['b', 'r', 'u', 'y', 'Ã', '¨', 'r', 'e', 'Fin'] bruyÃ¨re
+
+['c', 'a', 'c', 'a', 'h', 'o', 'u', 'Ã', '¨', 't', 'e', 'Fin'] cacahouÃ¨te
+
+['c', 'a', 'c', 'a', 'o', 'y', 'Ã', '¨', 'r', 'e', 'Fin'] cacaoyÃ¨re
+
+['c', 'a', 'c', 'h', 'e', '-', 'c', 'a', 'c', 'h', 'e', 'Fin'] cache-cache
+
+['c', 'a', 'c', 'h', 'e', '-', 'c', 'o', 'l', 'Fin'] cache-col
+
+['c', 'a', 'c', 'h', 'e', '-', 'm', 'i', 's', 'Ã', '¨', 'r', 'e', 'Fin'] cache-misÃ¨re
+
+['c', 'a', 'c', 'h', 'e', '-', 'n', 'e', 'z', 'Fin'] cache-nez
+
+['c', 'a', 'c', 'h', 'e', '-', 'p', 'o', 't', 'Fin'] cache-pot
+
+['c', 'a', 'c', 'h', 'e', '-', 's', 'e', 'x', 'e', 'Fin'] cache-sexe
+
+['c', 'a', 'd', 'u', 'c', 'Ã', '©', 'e', 'Fin'] caducÃ©e
+
+['c', 'a', 'd', 'u', 'c', 'i', 't', 'Ã', '©', 'Fin'] caducitÃ©
+
+['c', 'a', 'f', 'e', '-', 'c', 'o', 'n', 'c', 'e', 'r', 't', 'Fin'] cafe-concert
+
+['c', 'a', 'f', 'e', 't', 'Ã', '©', 'r', 'i', 'a', 'Fin'] cafetÃ©ria
+
+['c', 'a', 'f', 'e', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cafetiÃ¨re
+
+['c', 'a', 'l', 'a', 'm', 'i', 't', 'Ã', '©', 'Fin'] calamitÃ©
+
+['c', 'a', 'l', 'e', 'Ã', '§', 'o', 'n', 'Fin'] caleÃ§on
+
+['c', 'a', 'l', 'e', '-', 'p', 'i', 'e', 'd', 'Fin'] cale-pied
+
+['c', 'a', 'l', 'l', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] callositÃ©
+
+['c', 'a', 'l', 'o', 'r', 'i', 'f', 'Ã', '¨', 'r', 'e', 'Fin'] calorifÃ¨re
+
+['c', 'a', 'm', 'a', 'Ã', '¯', 'e', 'u', 'Fin'] camaÃ¯eu
+
+['c', 'a', 'm', 'e', 'l', 'Ã', '©', 'o', 'n', 'Fin'] camelÃ©on
+
+['c', 'a', 'n', 'a', 'p', 'Ã', '©', '-', 'l', 'i', 't', 'Fin'] canapÃ©-lit
+
+['c', 'a', 'n', 'a', 'r', 'd', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] canardiÃ¨re
+
+['c', 'a', 'n', 'c', 'Ã', '©', 'r', 'e', 'u', 'x', 'Fin'] cancÃ©reux
+
+['c', 'a', 'n', 'c', 'Ã', '©', 'r', 'o', 'l', 'o', 'g', 'i', 'e', 'Fin'] cancÃ©rologie
+
+['c', 'a', 'n', 'c', 'Ã', '©', 'r', 'o', 'l', 'o', 'g', 'u', 'e', 'Fin'] cancÃ©rologue
+
+['c', 'a', 'n', 'd', 'Ã', '©', 'l', 'a', 'b', 'r', 'e', 'Fin'] candÃ©labre
+
+['c', 'a', 'n', 'o', 'Ã', '©', 'i', 's', 't', 'e', 'Fin'] canoÃ©iste
+
+['c', 'a', 'n', 't', 'i', 'l', 'Ã', '¨', 'n', 'e', 'Fin'] cantilÃ¨ne
+
+['c', 'a', 'n', 't', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cantonniÃ¨re
+
+['c', 'a', 'p', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] capacitÃ©
+
+['c', 'a', 'p', 'a', 'r', 'a', 'Ã', '§', 'o', 'n', 'Fin'] caparaÃ§on
+
+['c', 'a', 'p', 'h', 'a', 'r', 'n', 'a', 'Ã', '¼', 'm', 'Fin'] capharnaÃ¼m
+
+['c', 'a', 'p', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] captivitÃ©
+
+['c', 'a', 'r', 'a', 'c', 't', 'Ã', '¨', 'r', 'e', 'Fin'] caractÃ¨re
+
+['c', 'a', 'r', 'a', 'c', 't', 'Ã', '©', 'r', 'i', 'e', 'l', 'Fin'] caractÃ©riel
+
+['c', 'a', 'r', 'a', 'c', 't', 'Ã', '©', 'r', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] caractÃ©risation
+
+['c', 'a', 'r', 'a', 'c', 't', 'Ã', '©', 'r', 'i', 's', 't', 'i', 'q', 'u', 'e', 'Fin'] caractÃ©ristique
+
+['c', 'a', 'r', 'a', 'm', 'Ã', '©', 'l', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] caramÃ©lisation
+
+['c', 'a', 'r', '-', 'f', 'e', 'r', 'r', 'y', 'Fin'] car-ferry
+
+['c', 'a', 'r', 'm', 'Ã', '©', 'l', 'i', 't', 'e', 'Fin'] carmÃ©lite
+
+['c', 'a', 'r', 'n', 'a', 's', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] carnassiÃ¨re
+
+['c', 'a', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] carriÃ¨re
+
+['c', 'a', 'r', 'r', 'i', 'Ã', '©', 'r', 'i', 's', 'm', 'e', 'Fin'] carriÃ©risme
+
+['c', 'a', 'r', 'r', 'i', 'Ã', '©', 'r', 'i', 's', 't', 'e', 'Fin'] carriÃ©riste
+
+['c', 'a', 'r', 't', 'Ã', '©', 's', 'i', 'e', 'n', 'Fin'] cartÃ©sien
+
+['c', 'a', 'r', 't', 'o', 'u', 'c', 'h', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cartouchiÃ¨re
+
+['c', 'a', 's', 's', 'e', '-', 'c', 'o', 'u', 'Fin'] casse-cou
+
+['c', 'a', 's', 's', 'e', '-', 'c', 'r', 'o', 'Ã', '»', 't', 'e', 'Fin'] casse-croÃ»te
+
+['c', 'a', 's', 's', 'e', '-', 'p', 'i', 'e', 'd', 's', 'Fin'] casse-pieds
+
+['c', 'a', 's', 's', 'e', '-', 't', 'Ã', 'ª', 't', 'e', 'Fin'] casse-tÃªte
+
+['c', 'a', 't', 'e', 'c', 'h', 'Ã', '¨', 's', 'e', 'Fin'] catechÃ¨se
+
+['c', 'a', 't', 'e', 'c', 'h', 'u', 'm', 'Ã', '¨', 'n', 'e', 'Fin'] catechumÃ¨ne
+
+['c', 'a', 't', 'h', 'Ã', '©', 'd', 'r', 'a', 'l', 'e', 'Fin'] cathÃ©drale
+
+['c', 'a', 't', 'h', 'Ã', '©', 't', 'e', 'r', 'Fin'] cathÃ©ter
+
+['c', 'a', 'u', 's', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] causalitÃ©
+
+['c', 'a', 'u', 't', 'Ã', '¨', 'r', 'e', 'Fin'] cautÃ¨re
+
+['c', 'a', 'u', 't', 'Ã', '©', 'r', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] cautÃ©risation
+
+['c', 'e', 'l', 'e', 'b', 'r', 'i', 't', 'Ã', '©', 'Fin'] celebritÃ©
+
+['c', 'e', 'l', 'e', 'r', 'i', 't', 'Ã', '©', 'Fin'] celeritÃ©
+
+['c', 'e', 'n', 't', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] centiÃ¨me
+
+['c', 'e', 'p', 'h', 'a', 'l', 'Ã', '©', 'e', 'Fin'] cephalÃ©e
+
+['c', 'e', 'r', 'b', 'Ã', '¨', 'r', 'e', 'Fin'] cerbÃ¨re
+
+['c', 'e', 'r', 'f', '-', 'v', 'o', 'l', 'a', 'n', 't', 'Fin'] cerf-volant
+
+['c', 'e', 's', 's', 'e', 'z', '-', 'l', 'e', '-', 'f', 'e', 'u', 'Fin'] cessez-le-feu
+
+['c', 'e', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] cessibilitÃ©
+
+['c', 'h', 'a', 'm', 'b', 'r', 'Ã', '©', 'e', 'Fin'] chambrÃ©e
+
+['c', 'h', 'a', 'r', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] charniÃ¨re
+
+['c', 'h', 'a', 's', 's', 'e', '-', 'c', 'l', 'o', 'u', 'Fin'] chasse-clou
+
+['c', 'h', 'a', 's', 's', 'e', '-', 'm', 'o', 'u', 'c', 'h', 'e', 's', 'Fin'] chasse-mouches
+
+['c', 'h', 'a', 's', 's', 'e', '-', 'p', 'i', 'e', 'r', 'r', 'e', 's', 'Fin'] chasse-pierres
+
+['c', 'h', 'a', 't', '-', 'h', 'u', 'a', 'n', 't', 'Fin'] chat-huant
+
+['c', 'h', 'a', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] chatiÃ¨re
+
+['c', 'h', 'a', 'u', 'd', 'r', 'o', 'n', 'n', 'Ã', '©', 'e', 'Fin'] chaudronnÃ©e
+
+['c', 'h', 'a', 'u', 'f', 'f', 'e', '-', 'e', 'a', 'u', 'Fin'] chauffe-eau
+
+['c', 'h', 'a', 'u', 'f', 'f', 'e', '-', 'p', 'i', 'e', 'd', 's', 'Fin'] chauffe-pieds
+
+['c', 'h', 'a', 'u', 'f', 'f', 'e', '-', 'p', 'l', 'a', 't', 's', 'Fin'] chauffe-plats
+
+['c', 'h', 'a', 'u', 'm', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] chaumiÃ¨re
+
+['c', 'h', 'a', 'u', 's', 's', 'Ã', '©', 'e', 'Fin'] chaussÃ©e
+
+['c', 'h', 'a', 'u', 's', 's', 'e', '-', 'p', 'i', 'e', 'd', 'Fin'] chausse-pied
+
+['c', 'h', 'a', 'u', 's', 's', 'e', '-', 't', 'r', 'a', 'p', 'e', 'Fin'] chausse-trape
+
+['c', 'h', 'a', 'u', 'v', 'e', '-', 's', 'o', 'u', 'r', 'i', 's', 'Fin'] chauve-souris
+
+['c', 'h', 'e', 'c', 'k', '-', 'u', 'p', 'Fin'] check-up
+
+['c', 'h', 'e', 'f', '-', 'd', "'", 'o', 'e', 'u', 'v', 'r', 'e', 'Fin'] chef-d'oeuvre
+
+['c', 'h', 'e', 'm', 'i', 'n', 'Ã', '©', 'e', 'Fin'] cheminÃ©e
+
+['c', 'h', 'e', 'v', 'a', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] chevaliÃ¨re
+
+['c', 'h', 'e', 'v', 'a', 'l', '-', 'v', 'a', 'p', 'e', 'u', 'r', 'Fin'] cheval-vapeur
+
+['c', 'h', 'e', 'v', 'a', 'u', 'c', 'h', 'Ã', '©', 'e', 'Fin'] chevauchÃ©e
+
+['c', 'h', 'e', 'z', '-', 'm', 'o', 'i', 'Fin'] chez-moi
+
+['c', 'h', 'i', 'm', 'Ã', '¨', 'r', 'e', 'Fin'] chimÃ¨re
+
+['c', 'h', 'o', 'l', 'Ã', '©', 'r', 'a', 'Fin'] cholÃ©ra
+
+['c', 'h', 'o', 'r', 'Ã', '©', 'g', 'r', 'a', 'p', 'h', 'e', 'Fin'] chorÃ©graphe
+
+['c', 'h', 'o', 'r', 'Ã', '©', 'g', 'r', 'a', 'p', 'h', 'i', 'e', 'Fin'] chorÃ©graphie
+
+['c', 'h', 'o', 'u', '-', 'f', 'l', 'e', 'u', 'r', 'Fin'] chou-fleur
+
+['c', 'h', 'o', 'u', '-', 'n', 'a', 'v', 'e', 't', 'Fin'] chou-navet
+
+['c', 'h', 'o', 'u', '-', 'r', 'a', 'v', 'e', 'Fin'] chou-rave
+
+['c', 'h', 'r', 'e', 't', 'i', 'e', 'n', 't', 'Ã', '©', 'Fin'] chretientÃ©
+
+['c', 'h', 'u', 't', '!', 'Fin'] chut!
+
+['c', 'i', 'm', 'e', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cimetiÃ¨re
+
+['c', 'i', 'n', 'e', '-', 'c', 'l', 'u', 'b', 'Fin'] cine-club
+
+['c', 'i', 'n', 'e', 'm', 'a', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] cinemathÃ¨que
+
+['c', 'i', 'n', 'e', '-', 'p', 'a', 'r', 'c', 'Fin'] cine-parc
+
+['c', 'i', 'r', 'c', 'o', 'n', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] circonfÃ©rence
+
+['c', 'i', 't', 'o', 'y', 'e', 'n', 'n', 'e', 't', 'Ã', '©', 'Fin'] citoyennetÃ©
+
+['c', 'i', 'v', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] civiÃ¨re
+
+['c', 'i', 'v', 'i', 'l', 'i', 's', 'Ã', '©', 'Fin'] civilisÃ©
+
+['c', 'i', 'v', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] civilitÃ©
+
+['c', 'l', 'a', 'i', 'r', 'e', '-', 'v', 'o', 'i', 'e', 'Fin'] claire-voie
+
+['c', 'l', 'a', 'i', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] clairiÃ¨re
+
+['c', 'l', 'a', 'n', 'd', 'e', 's', 't', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] clandestinitÃ©
+
+['c', 'l', 'i', 'e', 'n', 't', 'Ã', '¨', 'l', 'e', 'Fin'] clientÃ¨le
+
+['c', 'l', 'o', 'i', 's', 'o', 'n', 'n', 'Ã', '©', 'Fin'] cloisonnÃ©
+
+['c', 'o', 'a', 'c', 'c', 'u', 's', 'Ã', '©', 'Fin'] coaccusÃ©
+
+['c', 'o', 'a', 's', 's', 'o', 'c', 'i', 'Ã', '©', 'Fin'] coassociÃ©
+
+['c', 'o', 'c', 'a', 'Ã', '¯', 'n', 'e', 'Fin'] cocaÃ¯ne
+
+['c', 'o', 'g', 'n', 'Ã', '©', 'e', 'Fin'] cognÃ©e
+
+['c', 'o', 'l', 'i', 'm', 'a', 'Ã', '§', 'o', 'n', 'Fin'] colimaÃ§on
+
+['c', 'o', 'l', 'i', 'n', '-', 'm', 'a', 'i', 'l', 'l', 'a', 'r', 'd', 'Fin'] colin-maillard
+
+['c', 'o', 'l', 'l', 'a', 't', 'Ã', '©', 'r', 'a', 'l', 'Fin'] collatÃ©ral
+
+['c', 'o', 'l', 'l', 'e', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] collectivitÃ©
+
+['c', 'o', 'l', 'l', 'Ã', '¨', 'g', 'e', 'Fin'] collÃ¨ge
+
+['c', 'o', 'l', 'l', 'Ã', '©', 'g', 'i', 'e', 'n', 'Fin'] collÃ©gien
+
+['c', 'o', 'l', 'l', 'Ã', '¨', 'g', 'u', 'e', 'Fin'] collÃ¨gue
+
+['c', 'o', 'm', 'b', 'a', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] combativitÃ©
+
+['c', 'o', 'm', 'b', 'i', 'n', 'Ã', '©', 'Fin'] combinÃ©
+
+['c', 'o', 'm', 'm', 'Ã', '©', 'm', 'o', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] commÃ©moration
+
+['c', 'o', 'm', 'm', 'Ã', '©', 'r', 'a', 'g', 'e', 'Fin'] commÃ©rage
+
+['c', 'o', 'm', 'm', 'e', 'r', 'Ã', '§', 'a', 'n', 't', 'Fin'] commerÃ§ant
+
+['c', 'o', 'm', 'm', 'Ã', '¨', 'r', 'e', 'Fin'] commÃ¨re
+
+['c', 'o', 'm', 'm', 'i', 's', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] commisÃ©ration
+
+['c', 'o', 'm', 'm', 'i', 's', 's', 'a', 'i', 'r', 'e', '-', 'p', 'r', 'i', 's', 'e', 'u', 'r', 'Fin'] commissaire-priseur
+
+['c', 'o', 'm', 'm', 'u', 'n', 'a', 'u', 't', 'Ã', '©', 'Fin'] communautÃ©
+
+['c', 'o', 'm', 'm', 'u', 'n', 'i', 'q', 'u', 'Ã', '©', 'Fin'] communiquÃ©
+
+['c', 'o', 'm', 'p', 'a', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] compatibilitÃ©
+
+['c', 'o', 'm', 'p', 'Ã', '¨', 'r', 'e', 'Fin'] compÃ¨re
+
+['c', 'o', 'm', 'p', 'Ã', '©', 't', 'e', 'n', 'c', 'e', 'Fin'] compÃ©tence
+
+['c', 'o', 'm', 'p', 'Ã', '©', 't', 'i', 't', 'e', 'u', 'r', 'Fin'] compÃ©titeur
+
+['c', 'o', 'm', 'p', 'Ã', '©', 't', 'i', 't', 'i', 'o', 'n', 'Fin'] compÃ©tition
+
+['c', 'o', 'm', 'p', 'l', 'Ã', '©', 'm', 'e', 'n', 't', 'Fin'] complÃ©ment
+
+['c', 'o', 'm', 'p', 'l', 'Ã', '©', 'm', 'e', 'n', 't', 'a', 'i', 'r', 'e', 'Fin'] complÃ©mentaire
+
+['c', 'o', 'm', 'p', 'l', 'e', 'x', 'Ã', '©', 'Fin'] complexÃ©
+
+['c', 'o', 'm', 'p', 'l', 'e', 'x', 'i', 't', 'Ã', '©', 'Fin'] complexitÃ©
+
+['c', 'o', 'm', 'p', 'l', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] complicitÃ©
+
+['c', 'o', 'm', 'p', 'o', 's', 'Ã', '©', 'Fin'] composÃ©
+
+['c', 'o', 'm', 'p', 'r', 'Ã', '©', 'h', 'e', 'n', 's', 'i', 'o', 'n', 'Fin'] comprÃ©hension
+
+['c', 'o', 'm', 'p', 'r', 'e', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] compressibilitÃ©
+
+['c', 'o', 'm', 'p', 'r', 'i', 'm', 'Ã', '©', 'Fin'] comprimÃ©
+
+['c', 'o', 'm', 'p', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] comptabilitÃ©
+
+['c', 'o', 'm', 'p', 't', 'e', '-', 'g', 'o', 'u', 't', 't', 'e', 's', 'Fin'] compte-gouttes
+
+['c', 'o', 'm', 'p', 't', 'e', '-', 't', 'o', 'u', 'r', 's', 'Fin'] compte-tours
+
+['c', 'o', 'n', 'c', 'a', 'v', 'i', 't', 'Ã', '©', 'Fin'] concavitÃ©
+
+['c', 'o', 'n', 'c', 'e', 'n', 't', 'r', 'Ã', '©', 'Fin'] concentrÃ©
+
+['c', 'o', 'n', 'c', 'r', 'Ã', '©', 't', 'i', 'o', 'n', 'Fin'] concrÃ©tion
+
+['c', 'o', 'n', 'c', 'r', 'Ã', '©', 't', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] concrÃ©tisation
+
+['c', 'o', 'n', 'd', 'a', 'm', 'n', 'Ã', '©', 'Fin'] condamnÃ©
+
+['c', 'o', 'n', 'd', 'e', 'n', 's', 'Ã', '©', 'Fin'] condensÃ©
+
+['c', 'o', 'n', 'd', 'o', 'l', 'Ã', '©', 'a', 'n', 'c', 'e', 's', 'Fin'] condolÃ©ances
+
+['c', 'o', 'n', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] confÃ©rence
+
+['c', 'o', 'n', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'i', 'e', 'r', 'Fin'] confÃ©rencier
+
+['c', 'o', 'n', 'f', 'o', 'r', 'm', 'i', 't', 'Ã', '©', 'Fin'] conformitÃ©
+
+['c', 'o', 'n', 'f', 'r', 'Ã', '¨', 'r', 'e', 'Fin'] confrÃ¨re
+
+['c', 'o', 'n', 'f', 'r', 'Ã', '©', 'r', 'i', 'e', 'Fin'] confrÃ©rie
+
+['c', 'o', 'n', 'g', 'Ã', '©', 'd', 'i', 'e', 'm', 'e', 'n', 't', 'Fin'] congÃ©diement
+
+['c', 'o', 'n', 'g', 'Ã', '©', 'l', 'a', 't', 'e', 'u', 'r', 'Fin'] congÃ©lateur
+
+['c', 'o', 'n', 'g', 'Ã', '©', 'l', 'a', 't', 'i', 'o', 'n', 'Fin'] congÃ©lation
+
+['c', 'o', 'n', 'g', 'Ã', '¨', 'r', 'e', 'Fin'] congÃ¨re
+
+['c', 'o', 'n', 'g', 'l', 'o', 'm', 'Ã', '©', 'r', 'a', 't', 'Fin'] conglomÃ©rat
+
+['c', 'o', 'n', 'g', 'r', 'Ã', '©', 'g', 'a', 't', 'i', 'o', 'n', 'Fin'] congrÃ©gation
+
+['c', 'o', 'n', 'g', 'r', 'Ã', '¨', 's', 'Fin'] congrÃ¨s
+
+['c', 'o', 'n', 'i', 'f', 'Ã', '¨', 'r', 'e', 'Fin'] conifÃ¨re
+
+['c', 'o', 'n', 'j', 'u', 'r', 'Ã', '©', 'Fin'] conjurÃ©
+
+['c', 'o', 'n', 'q', 'u', 'Ã', '©', 'r', 'a', 'n', 't', 'Fin'] conquÃ©rant
+
+['c', 'o', 'n', 'q', 'u', 'Ã', 'ª', 't', 'e', 'Fin'] conquÃªte
+
+['c', 'o', 'n', 's', 'a', 'n', 'g', 'u', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] consanguinitÃ©
+
+['c', 'o', 'n', 's', 'Ã', '©', 'c', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] consÃ©cration
+
+['c', 'o', 'n', 's', 'Ã', '©', 'q', 'u', 'e', 'n', 'c', 'e', 'Fin'] consÃ©quence
+
+['c', 'o', 'n', 's', 'i', 'd', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] considÃ©ration
+
+['c', 'o', 'n', 's', 'o', 'm', 'm', 'Ã', '©', 'Fin'] consommÃ©
+
+['c', 'o', 'n', 's', 't', 'i', 'p', 'Ã', '©', 'Fin'] constipÃ©
+
+['c', 'o', 'n', 't', 'i', 'n', 'u', 'i', 't', 'Ã', '©', 'Fin'] continuitÃ©
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'a', 'l', 'l', 'Ã', '©', 'e', 'Fin'] contre-allÃ©e
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'a', 't', 't', 'a', 'q', 'u', 'e', 'Fin'] contre-attaque
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'c', 'o', 'u', 'r', 'a', 'n', 't', 'Fin'] contre-courant
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'c', 'u', 'l', 't', 'u', 'r', 'e', 'Fin'] contre-culture
+
+['c', 'o', 'n', 't', 'r', 'Ã', '©', 'e', 'Fin'] contrÃ©e
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'Ã', '©', 'p', 'r', 'e', 'u', 'v', 'e', 'Fin'] contre-Ã©preuve
+
+['c', 'o', 'n', 't', 'r', 'e', 'f', 'a', 'Ã', '§', 'o', 'n', 'Fin'] contrefaÃ§on
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'f', 'e', 'r', 'Fin'] contre-fer
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'f', 'e', 'u', 'Fin'] contre-feu
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'f', 'i', 'l', 'Fin'] contre-fil
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'f', 'i', 'l', 'e', 't', 'Fin'] contre-filet
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'i', 'n', 'd', 'i', 'c', 'a', 't', 'i', 'o', 'n', 'Fin'] contre-indication
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'j', 'o', 'u', 'r', 'Fin'] contre-jour
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'l', 'e', 't', 't', 'r', 'e', 'Fin'] contre-lettre
+
+['c', 'o', 'n', 't', 'r', 'e', 'm', 'a', 'Ã', '®', 't', 'r', 'e', 'Fin'] contremaÃ®tre
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'o', 'f', 'f', 'e', 'n', 's', 'i', 'v', 'e', 'Fin'] contre-offensive
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'p', 'e', 'n', 't', 'e', 'Fin'] contre-pente
+
+['c', 'o', 'n', 't', 'r', 'e', 'p', 'Ã', '¨', 't', 'e', 'r', 'i', 'e', 'Fin'] contrepÃ¨terie
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'p', 'i', 'e', 'd', 'Fin'] contre-pied
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'p', 'o', 'r', 't', 'e', 'Fin'] contre-porte
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 'p', 'r', 'o', 'j', 'e', 't', 'Fin'] contre-projet
+
+['c', 'o', 'n', 't', 'r', 'e', '-', 't', 'o', 'r', 'p', 'i', 'l', 'l', 'e', 'u', 'r', 'Fin'] contre-torpilleur
+
+['c', 'o', 'n', 't', 'r', 'Ã', '´', 'l', 'e', 'Fin'] contrÃ´le
+
+['c', 'o', 'n', 't', 'r', 'Ã', '´', 'l', 'e', 'u', 'r', 'Fin'] contrÃ´leur
+
+['c', 'o', 'n', 'v', 'e', 'r', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] convertibilitÃ©
+
+['c', 'o', 'n', 'v', 'i', 'v', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] convivialitÃ©
+
+['c', 'o', 'o', 'p', 'Ã', '©', 'r', 'a', 't', 'e', 'u', 'r', 'Fin'] coopÃ©rateur
+
+['c', 'o', 'o', 'p', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] coopÃ©ration
+
+['c', 'o', 'o', 'p', 'Ã', '©', 'r', 'a', 't', 'i', 'v', 'e', 'Fin'] coopÃ©rative
+
+['c', 'o', 'o', 'r', 'd', 'o', 'n', 'n', 'Ã', '©', 'Fin'] coordonnÃ©
+
+['c', 'o', 'r', 'd', 'Ã', '©', 'e', 'Fin'] cordÃ©e
+
+['c', 'o', 'r', 'd', 'e', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cordeliÃ¨re
+
+['c', 'o', 'r', 'd', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] cordialitÃ©
+
+['c', 'o', 'r', 'n', 'Ã', '©', 'e', 'Fin'] cornÃ©e
+
+['c', 'o', 'r', 'r', 'Ã', '©', 'l', 'a', 't', 'i', 'f', 'Fin'] corrÃ©latif
+
+['c', 'o', 'r', 'r', 'Ã', '©', 'l', 'a', 't', 'i', 'o', 'n', 'Fin'] corrÃ©lation
+
+['c', 'o', 'r', 'r', 'i', 'g', 'Ã', '©', 'Fin'] corrigÃ©
+
+['c', 'o', 'r', 't', 'Ã', '¨', 'g', 'e', 'Fin'] cortÃ¨ge
+
+['c', 'o', 's', 'm', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] cosmÃ©tique
+
+['c', 'o', 't', 'o', 'n', '-', 't', 'i', 'g', 'e', 'Fin'] coton-tige
+
+['c', 'o', 'u', 'c', 'h', 'e', '-', 't', 'a', 'r', 'd', 'Fin'] couche-tard
+
+['c', 'o', 'u', 'c', 'h', 'e', '-', 't', 'Ã', '´', 't', 'Fin'] couche-tÃ´t
+
+['c', 'o', 'u', 'd', 'Ã', '©', 'e', 'Fin'] coudÃ©e
+
+['c', 'o', 'u', '-', 'd', 'e', '-', 'p', 'i', 'e', 'd', 'Fin'] cou-de-pied
+
+['c', 'o', 'u', 'p', '-', 'd', 'e', '-', 'p', 'o', 'i', 'n', 'g', 'Fin'] coup-de-poing
+
+['c', 'o', 'u', 'p', 'Ã', '©', 'Fin'] coupÃ©
+
+['c', 'o', 'u', 'p', 'e', '-', 'c', 'i', 'r', 'c', 'u', 'i', 't', 'Fin'] coupe-circuit
+
+['c', 'o', 'u', 'p', 'e', '-', 'c', 'o', 'u', 'p', 'e', 'Fin'] coupe-coupe
+
+['c', 'o', 'u', 'p', 'Ã', '©', 'e', 'Fin'] coupÃ©e
+
+['c', 'o', 'u', 'p', 'e', '-', 'f', 'a', 'i', 'm', 'Fin'] coupe-faim
+
+['c', 'o', 'u', 'p', 'e', '-', 'f', 'e', 'u', 'Fin'] coupe-feu
+
+['c', 'o', 'u', 'p', 'e', '-', 'f', 'i', 'l', 'e', 'Fin'] coupe-file
+
+['c', 'o', 'u', 'p', 'e', '-', 'j', 'a', 'r', 'r', 'e', 't', 'Fin'] coupe-jarret
+
+['c', 'o', 'u', 'p', 'e', '-', 'v', 'e', 'n', 't', 'Fin'] coupe-vent
+
+['c', 'o', 'u', 'r', 'r', 'i', 'Ã', '©', 'r', 'i', 's', 't', 'e', 'Fin'] courriÃ©riste
+
+['c', 'o', 'u', 'r', 't', '-', 'c', 'i', 'r', 'c', 'u', 'i', 't', 'Fin'] court-circuit
+
+['c', 'o', 'u', 't', 'e', 'a', 'u', '-', 's', 'c', 'i', 'e', 'Fin'] couteau-scie
+
+['c', 'o', 'u', 'v', 'r', 'e', '-', 'c', 'h', 'e', 'f', 'Fin'] couvre-chef
+
+['c', 'o', 'u', 'v', 'r', 'e', '-', 'f', 'e', 'u', 'Fin'] couvre-feu
+
+['c', 'o', 'u', 'v', 'r', 'e', '-', 'l', 'i', 't', 'Fin'] couvre-lit
+
+['c', 'o', 'u', 'v', 'r', 'e', '-', 'p', 'i', 'e', 'd', 'Fin'] couvre-pied
+
+['c', 'o', 'u', 'v', 'r', 'e', '-', 'p', 'l', 'a', 't', 'Fin'] couvre-plat
+
+['c', 'o', 'u', 'v', 'r', 'e', '-', 's', 'o', 'l', 'Fin'] couvre-sol
+
+['c', 'o', 'w', '-', 'b', 'o', 'y', 'Fin'] cow-boy
+
+['c', 'r', 'a', 'q', 'u', 'Ã', '¨', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] craquÃ¨lement
+
+['c', 'r', 'a', 'q', 'u', 'Ã', '¨', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] craquÃ¨tement
+
+['c', 'r', 'a', 't', 'Ã', '¨', 'r', 'e', 'Fin'] cratÃ¨re
+
+['c', 'r', 'a', 'y', 'o', 'n', '-', 'f', 'e', 'u', 't', 'r', 'e', 'Fin'] crayon-feutre
+
+['c', 'r', 'e', 'a', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] creativitÃ©
+
+['c', 'r', 'e', 'd', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] credibilitÃ©
+
+['c', 'r', 'e', 'd', 'i', 't', '-', 'b', 'a', 'i', 'l', 'Fin'] credit-bail
+
+['c', 'r', 'e', 'd', 'u', 'l', 'i', 't', 'Ã', '©', 'Fin'] credulitÃ©
+
+['c', 'r', 'e', 's', 's', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cressonniÃ¨re
+
+['c', 'r', 'e', 't', 'e', '-', 'd', 'e', '-', 'c', 'o', 'q', 'Fin'] crete-de-coq
+
+['c', 'r', 'e', 'v', 'e', '-', 'c', 'o', 'e', 'u', 'r', 'Fin'] creve-coeur
+
+['c', 'r', 'e', 'v', 'e', '-', 'l', 'a', '-', 'f', 'a', 'i', 'm', 'Fin'] creve-la-faim
+
+['c', 'r', 'i', 'm', 'i', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] criminalitÃ©
+
+['c', 'r', 'i', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] criniÃ¨re
+
+['c', 'r', 'i', 't', 'Ã', '¨', 'r', 'e', 'Fin'] critÃ¨re
+
+['c', 'r', 'o', 'c', '-', 'e', 'n', '-', 'j', 'a', 'm', 'b', 'e', 'Fin'] croc-en-jambe
+
+['c', 'r', 'o', 'c', 'h', 'e', '-', 'p', 'i', 'e', 'd', 'Fin'] croche-pied
+
+['c', 'r', 'o', 'i', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] croisiÃ¨re
+
+['c', 'r', 'o', 'q', 'u', 'e', '-', 'm', 'i', 't', 'a', 'i', 'n', 'e', 'Fin'] croque-mitaine
+
+['c', 'r', 'o', 'q', 'u', 'e', '-', 'm', 'o', 'r', 't', 'Fin'] croque-mort
+
+['c', 'r', 'u', 'a', 'u', 't', 'Ã', '©', 'Fin'] cruautÃ©
+
+['c', 'r', 'u', 'c', 'i', 'f', 'i', 'Ã', '©', 'Fin'] crucifiÃ©
+
+['c', 'r', 'u', 'd', 'i', 't', 'Ã', '©', 'Fin'] cruditÃ©
+
+['c', 'u', 'i', 'l', 'l', 'Ã', '¨', 'r', 'e', 'Fin'] cuillÃ¨re
+
+['c', 'u', 'i', 'l', 'l', 'e', 'r', 'Ã', '©', 'e', 'Fin'] cuillerÃ©e
+
+['c', 'u', 'i', 'r', 'a', 's', 's', 'Ã', '©', 'Fin'] cuirassÃ©
+
+['c', 'u', 'i', 's', 'i', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] cuisiniÃ¨re
+
+['c', 'u', 'l', '-', 'd', 'e', '-', 'b', 'a', 's', 's', 'e', '-', 'f', 'o', 's', 's', 'e', 'Fin'] cul-de-basse-fosse
+
+['c', 'u', 'l', '-', 'd', 'e', '-', 'l', 'a', 'm', 'p', 'e', 'Fin'] cul-de-lampe
+
+['c', 'u', 'l', '-', 'd', 'e', '-', 's', 'a', 'c', 'Fin'] cul-de-sac
+
+['c', 'u', 'l', 'p', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] culpabilitÃ©
+
+['c', 'u', 'm', 'u', 'l', 'o', '-', 's', 't', 'r', 'a', 't', 'u', 's', 'Fin'] cumulo-stratus
+
+['c', 'u', 'p', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] cupiditÃ©
+
+['c', 'u', 'r', 'e', '-', 'o', 'r', 'e', 'i', 'l', 'l', 'e', 'Fin'] cure-oreille
+
+['c', 'u', 'r', 'e', '-', 'p', 'i', 'p', 'e', 's', 'Fin'] cure-pipes
+
+['c', 'u', 'r', 'i', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] curiositÃ©
+
+['c', 'u', 't', 'i', '-', 'r', 'Ã', '©', 'a', 'c', 't', 'i', 'o', 'n', 'Fin'] cuti-rÃ©action
+
+['c', 'y', 'b', 'e', 'r', 'n', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] cybernÃ©tique
+
+['c', 'y', 'l', 'i', 'n', 'd', 'r', 'Ã', '©', 'e', 'Fin'] cylindrÃ©e
+
+['d', 'a', 'd', 'a', 'Ã', '¯', 's', 't', 'e', 'Fin'] dadaÃ¯ste
+
+['d', 'a', 'l', 'a', 'Ã', '¯', '-', 'l', 'a', 'm', 'a', 'Fin'] dalaÃ¯-lama
+
+['d', 'a', 'm', 'e', '-', 'd', "'", 'o', 'n', 'z', 'e', '-', 'h', 'e', 'u', 'r', 'e', 's', 'Fin'] dame-d'onze-heures
+
+['d', 'a', 'm', 'e', '-', 'j', 'e', 'a', 'n', 'n', 'e', 'Fin'] dame-jeanne
+
+['d', 'e', 'b', 'a', 'r', 'c', 'a', 'd', 'Ã', '¨', 'r', 'e', 'Fin'] debarcadÃ¨re
+
+['d', 'e', 'b', 'a', 'u', 'c', 'h', 'Ã', '©', 'Fin'] debauchÃ©
+
+['d', 'e', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] debilitÃ©
+
+['d', 'e', 'b', 'o', 'Ã', '®', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] deboÃ®tement
+
+['d', 'e', 'b', 'o', 't', 't', 'Ã', '©', 'Fin'] debottÃ©
+
+['d', 'e', 'b', 'o', 'u', 'c', 'h', 'Ã', '©', 'Fin'] debouchÃ©
+
+['d', 'e', 'b', 'r', 'a', 'i', 'l', 'l', 'Ã', '©', 'Fin'] debraillÃ©
+
+['d', 'e', 'c', 'e', 'l', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] decelÃ©ration
+
+['d', 'e', 'c', 'h', 'a', 'Ã', '®', 'n', 'e', 'm', 'e', 'n', 't', 'Fin'] dechaÃ®nement
+
+['d', 'e', 'c', 'h', 'Ã', '©', 'a', 'n', 'c', 'e', 'Fin'] dechÃ©ance
+
+['d', 'e', 'c', 'l', 'a', 's', 's', 'Ã', '©', 'Fin'] declassÃ©
+
+['d', 'e', 'c', 'l', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] declivitÃ©
+
+['d', 'e', 'c', 'o', 'i', 'n', 'Ã', '§', 'a', 'g', 'e', 'Fin'] decoinÃ§age
+
+['d', 'e', 'c', 'o', 'l', 'l', 'e', 't', 'Ã', '©', 'Fin'] decolletÃ©
+
+['d', 'e', 'c', 'o', 'n', 'g', 'Ã', '©', 'l', 'a', 't', 'i', 'o', 'n', 'Fin'] decongÃ©lation
+
+['d', 'e', 'c', 'r', 'Ã', '©', 'p', 'i', 't', 'u', 'd', 'e', 'Fin'] decrÃ©pitude
+
+['d', 'e', 'f', 'e', 'c', 't', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] defectuositÃ©
+
+['d', 'e', 'f', 'r', 'o', 'q', 'u', 'Ã', '©', 'Fin'] defroquÃ©
+
+['d', 'e', 'g', 'e', 'l', 'Ã', '©', 'e', 'Fin'] degelÃ©e
+
+['d', 'e', 'g', 'e', 'n', 'Ã', '©', 'r', 'e', 's', 'c', 'e', 'n', 'c', 'e', 'Fin'] degenÃ©rescence
+
+['d', 'e', 'g', 'o', 'n', 'f', 'l', 'Ã', '©', 'Fin'] degonflÃ©
+
+['d', 'e', 'g', 'r', 'a', 'd', 'Ã', '©', 'Fin'] degradÃ©
+
+['d', 'e', 'g', 'r', 'Ã', '¨', 'v', 'e', 'm', 'e', 'n', 't', 'Fin'] degrÃ¨vement
+
+['d', 'e', 'g', 'r', 'i', 'f', 'f', 'Ã', '©', 'Fin'] degriffÃ©
+
+['d', 'e', 'l', 'e', 'g', 'u', 'Ã', '©', 'Fin'] deleguÃ©
+
+['d', 'e', 'l', 'i', 'b', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] delibÃ©ration
+
+['d', 'e', 'l', 'o', 'y', 'a', 'u', 't', 'Ã', '©', 'Fin'] deloyautÃ©
+
+['d', 'e', 'l', 't', 'a', '-', 'p', 'l', 'a', 'n', 'e', 'Fin'] delta-plane
+
+['d', 'e', 'm', 'a', 'n', 't', 'Ã', '¨', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] demantÃ¨lement
+
+['d', 'e', 'm', 'e', 'u', 'r', 'Ã', '©', 'Fin'] demeurÃ©
+
+['d', 'e', 'm', 'i', '-', 'b', 'o', 'u', 't', 'e', 'i', 'l', 'l', 'e', 'Fin'] demi-bouteille
+
+['d', 'e', 'm', 'i', '-', 'c', 'e', 'r', 'c', 'l', 'e', 'Fin'] demi-cercle
+
+['d', 'e', 'm', 'i', '-', 'd', 'e', 'u', 'i', 'l', 'Fin'] demi-deuil
+
+['d', 'e', 'm', 'i', '-', 'd', 'i', 'e', 'u', 'Fin'] demi-dieu
+
+['d', 'e', 'm', 'i', '-', 'd', 'o', 'u', 'z', 'a', 'i', 'n', 'e', 'Fin'] demi-douzaine
+
+['d', 'e', 'm', 'i', '-', 'f', 'i', 'n', 'a', 'l', 'e', 'Fin'] demi-finale
+
+['d', 'e', 'm', 'i', '-', 'f', 'r', 'Ã', '¨', 'r', 'e', 'Fin'] demi-frÃ¨re
+
+['d', 'e', 'm', 'i', '-', 'h', 'e', 'u', 'r', 'e', 'Fin'] demi-heure
+
+['d', 'e', 'm', 'i', '-', 'j', 'o', 'u', 'r', 'Fin'] demi-jour
+
+['d', 'e', 'm', 'i', '-', 'j', 'o', 'u', 'r', 'n', 'Ã', '©', 'e', 'Fin'] demi-journÃ©e
+
+['d', 'e', 'm', 'i', '-', 'l', 'u', 'n', 'e', 'Fin'] demi-lune
+
+['d', 'e', 'm', 'i', '-', 'm', 'a', 'l', 'Fin'] demi-mal
+
+['d', 'e', 'm', 'i', '-', 'm', 'e', 's', 'u', 'r', 'e', 'Fin'] demi-mesure
+
+['d', 'e', 'm', 'i', 'n', 'Ã', '©', 'r', 'a', 'l', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] deminÃ©ralisation
+
+['d', 'e', 'm', 'i', '-', 'p', 'e', 'n', 's', 'i', 'o', 'n', 'n', 'a', 'i', 'r', 'e', 'Fin'] demi-pensionnaire
+
+['d', 'e', 'm', 'i', '-', 'p', 'l', 'a', 'c', 'e', 'Fin'] demi-place
+
+['d', 'e', 'm', 'i', '-', 'p', 'o', 'r', 't', 'i', 'o', 'n', 'Fin'] demi-portion
+
+['d', 'e', 'm', 'i', '-', 'r', 'e', 'l', 'i', 'u', 'r', 'e', 'Fin'] demi-reliure
+
+['d', 'e', 'm', 'i', '-', 's', 'a', 'i', 's', 'o', 'n', 'Fin'] demi-saison
+
+['d', 'e', 'm', 'i', '-', 's', 'a', 'n', 'g', 'Fin'] demi-sang
+
+['d', 'e', 'm', 'i', '-', 's', 'e', 'l', 'Fin'] demi-sel
+
+['d', 'e', 'm', 'i', '-', 's', 'o', 'e', 'u', 'r', 'Fin'] demi-soeur
+
+['d', 'e', 'm', 'i', '-', 's', 'o', 'l', 'd', 'e', 'Fin'] demi-solde
+
+['d', 'e', 'm', 'i', '-', 's', 'o', 'm', 'm', 'e', 'i', 'l', 'Fin'] demi-sommeil
+
+['d', 'e', 'm', 'i', '-', 't', 'e', 'i', 'n', 't', 'e', 'Fin'] demi-teinte
+
+['d', 'e', 'm', 'i', '-', 't', 'o', 'n', 'Fin'] demi-ton
+
+['d', 'e', 'm', 'i', '-', 't', 'o', 'u', 'r', 'Fin'] demi-tour
+
+['d', 'e', 'n', 'a', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] denatalitÃ©
+
+['d', 'e', 'n', 's', 'i', 't', 'Ã', '©', 'Fin'] densitÃ©
+
+['d', 'e', 'n', 't', '-', 'd', 'e', '-', 'l', 'i', 'o', 'n', 'Fin'] dent-de-lion
+
+['d', 'e', 'n', 't', 'e', 'l', 'Ã', '©', 'Fin'] dentelÃ©
+
+['d', 'e', 'n', 't', 'e', 'l', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] dentelliÃ¨re
+
+['d', 'e', 'p', 'e', 'Ã', '§', 'a', 'g', 'e', 'Fin'] depeÃ§age
+
+['d', 'e', 'p', 'o', 'u', 's', 's', 'i', 'Ã', '©', 'r', 'a', 'g', 'e', 'Fin'] depoussiÃ©rage
+
+['d', 'e', 'p', 'r', 'a', 'v', 'Ã', '©', 'Fin'] depravÃ©
+
+['d', 'e', 'p', 'r', 'Ã', '©', 'c', 'a', 't', 'i', 'o', 'n', 'Fin'] deprÃ©cation
+
+['d', 'e', 'p', 'r', 'Ã', '©', 'c', 'i', 'a', 't', 'i', 'o', 'n', 'Fin'] deprÃ©ciation
+
+['d', 'e', 'p', 'r', 'Ã', '©', 'd', 'a', 't', 'i', 'o', 'n', 'Fin'] deprÃ©dation
+
+['d', 'e', 'r', 'n', 'i', 'e', 'r', '-', 'n', 'Ã', '©', 'Fin'] dernier-nÃ©
+
+['d', 'e', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] derriÃ¨re
+
+['d', 'e', 's', 'a', 'b', 'u', 's', 'Ã', '©', 'Fin'] desabusÃ©
+
+['d', 'e', 's', 'a', 'd', 'a', 'p', 't', 'Ã', '©', 'Fin'] desadaptÃ©
+
+['d', 'e', 's', 'a', 'g', 'r', 'Ã', '©', 'g', 'a', 't', 'i', 'o', 'n', 'Fin'] desagrÃ©gation
+
+['d', 'e', 's', 'a', 'g', 'r', 'Ã', '©', 'm', 'e', 'n', 't', 'Fin'] desagrÃ©ment
+
+['d', 'e', 's', 'e', 'n', 'c', 'h', 'a', 'n', 't', 'Ã', '©', 'Fin'] desenchantÃ©
+
+['d', 'e', 's', 'e', 'q', 'u', 'i', 'l', 'i', 'b', 'r', 'Ã', '©', 'Fin'] desequilibrÃ©
+
+['d', 'e', 's', 'e', 's', 'p', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] desespÃ©rance
+
+['d', 'e', 's', 'h', 'a', 'b', 'i', 'l', 'l', 'Ã', '©', 'Fin'] deshabillÃ©
+
+['d', 'e', 's', 'i', 'n', 't', 'Ã', '©', 'g', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] desintÃ©gration
+
+['d', 'e', 's', 'i', 'n', 't', 'Ã', '©', 'r', 'e', 's', 's', 'e', 'm', 'e', 'n', 't', 'Fin'] desintÃ©ressement
+
+['d', 'e', 's', 'o', 'b', 'Ã', '©', 'i', 's', 's', 'a', 'n', 'c', 'e', 'Fin'] desobÃ©issance
+
+['d', 'e', 's', 'o', 'e', 'u', 'v', 'r', 'Ã', '©', 'Fin'] desoeuvrÃ©
+
+['d', 'e', 's', 's', 'Ã', '¨', 'c', 'h', 'e', 'm', 'e', 'n', 't', 'Fin'] dessÃ¨chement
+
+['d', 'e', 's', 's', 'o', 'u', 's', '-', 'd', 'e', '-', 'b', 'r', 'a', 's', 'Fin'] dessous-de-bras
+
+['d', 'e', 's', 's', 'o', 'u', 's', '-', 'd', 'e', '-', 'p', 'l', 'a', 't', 'Fin'] dessous-de-plat
+
+['d', 'e', 's', 's', 'o', 'u', 's', '-', 'd', 'e', '-', 't', 'a', 'b', 'l', 'e', 'Fin'] dessous-de-table
+
+['d', 'e', 's', 's', 'u', 's', '-', 'd', 'e', '-', 'l', 'i', 't', 'Fin'] dessus-de-lit
+
+['d', 'e', 's', 's', 'u', 's', '-', 'd', 'e', '-', 'p', 'o', 'r', 't', 'e', 'Fin'] dessus-de-porte
+
+['d', 'e', 's', 't', 'i', 'n', 'Ã', '©', 'e', 'Fin'] destinÃ©e
+
+['d', 'e', 's', 'u', 'Ã', '©', 't', 'u', 'd', 'e', 'Fin'] desuÃ©tude
+
+['d', 'e', 't', 'r', 'a', 'q', 'u', 'Ã', '©', 'Fin'] detraquÃ©
+
+['d', 'e', 'u', 'x', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] deuxiÃ¨me
+
+['d', 'e', 'u', 'x', '-', 'p', 'i', 'Ã', '¨', 'c', 'e', 's', 'Fin'] deux-piÃ¨ces
+
+['d', 'e', 'u', 'x', '-', 'p', 'o', 'i', 'n', 't', 's', 'Fin'] deux-points
+
+['d', 'e', 'u', 'x', '-', 'r', 'o', 'u', 'e', 's', 'Fin'] deux-roues
+
+['d', 'e', 'v', 'e', 'r', 'g', 'o', 'n', 'd', 'Ã', '©', 'Fin'] devergondÃ©
+
+['d', 'i', 'a', 'b', 'Ã', '¨', 't', 'e', 'Fin'] diabÃ¨te
+
+['d', 'i', 'a', 'd', 'Ã', '¨', 'm', 'e', 'Fin'] diadÃ¨me
+
+['d', 'i', 'a', 'r', 'r', 'h', 'Ã', '©', 'e', 'Fin'] diarrhÃ©e
+
+['d', 'i', 'e', 't', 'Ã', '©', 't', 'i', 'c', 'i', 'e', 'n', 'Fin'] dietÃ©ticien
+
+['d', 'i', 'e', 't', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] dietÃ©tique
+
+['d', 'i', 'f', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] diffÃ©rence
+
+['d', 'i', 'f', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'i', 'a', 't', 'i', 'o', 'n', 'Fin'] diffÃ©renciation
+
+['d', 'i', 'f', 'f', 'Ã', '©', 'r', 'e', 'n', 'd', 'Fin'] diffÃ©rend
+
+['d', 'i', 'f', 'f', 'i', 'c', 'u', 'l', 't', 'Ã', '©', 'Fin'] difficultÃ©
+
+['d', 'i', 'f', 'f', 'o', 'r', 'm', 'i', 't', 'Ã', '©', 'Fin'] difformitÃ©
+
+['d', 'i', 'g', 'n', 'i', 't', 'Ã', '©', 'Fin'] dignitÃ©
+
+['d', 'i', 'o', 'c', 'Ã', '¨', 's', 'e', 'Fin'] diocÃ¨se
+
+['d', 'i', 'p', 'h', 't', 'Ã', '©', 'r', 'i', 'e', 'Fin'] diphtÃ©rie
+
+['d', 'i', 'p', 'l', 'Ã', '´', 'm', 'e', 'Fin'] diplÃ´me
+
+['d', 'i', 's', 'c', '-', 'j', 'o', 'c', 'k', 'e', 'y', 'Fin'] disc-jockey
+
+['d', 'i', 's', 'c', 'o', 'n', 't', 'i', 'n', 'u', 'i', 't', 'Ã', '©', 'Fin'] discontinuitÃ©
+
+['d', 'i', 's', 'c', 'o', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] discothÃ¨que
+
+['d', 'i', 's', 'c', 'r', 'Ã', '©', 'd', 'i', 't', 'Fin'] discrÃ©dit
+
+['d', 'i', 's', 'c', 'r', 'Ã', '©', 't', 'i', 'o', 'n', 'Fin'] discrÃ©tion
+
+['d', 'i', 's', 'g', 'r', 'Ã', '¢', 'c', 'e', 'Fin'] disgrÃ¢ce
+
+['d', 'i', 's', 'p', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] disparitÃ©
+
+['d', 'i', 's', 'p', 'o', 'n', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] disponibilitÃ©
+
+['d', 'i', 's', 's', 'Ã', '©', 'm', 'i', 'n', 'a', 't', 'i', 'o', 'n', 'Fin'] dissÃ©mination
+
+['d', 'i', 's', 's', 'y', 'm', 'Ã', '©', 't', 'r', 'i', 'e', 'Fin'] dissymÃ©trie
+
+['d', 'i', 'u', 'r', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] diurÃ©tique
+
+['d', 'i', 'v', 'e', 'r', 's', 'i', 't', 'Ã', '©', 'Fin'] diversitÃ©
+
+['d', 'i', 'v', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] divinitÃ©
+
+['d', 'i', 'v', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] divisibilitÃ©
+
+['d', 'i', 'v', 'o', 'r', 'c', 'Ã', '©', 'Fin'] divorcÃ©
+
+['d', 'o', 'c', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] docilitÃ©
+
+['d', 'o', 'i', 'g', 't', 'Ã', '©', 'Fin'] doigtÃ©
+
+['d', 'o', 'm', 'e', 's', 't', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] domesticitÃ©
+
+['d', 'o', 'n', 'n', 'Ã', '©', 'e', 'Fin'] donnÃ©e
+
+['d', 'o', 'u', 'a', 'i', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] douairiÃ¨re
+
+['d', 'r', 'a', 'p', 'Ã', '©', 'Fin'] drapÃ©
+
+['d', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] dualitÃ©
+
+['d', 'u', 'l', 'c', 'i', 'n', 'Ã', '©', 'e', 'Fin'] dulcinÃ©e
+
+['d', 'u', 'p', 'l', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] duplicitÃ©
+
+['d', 'u', 'r', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] durabilitÃ©
+
+['e', 'a', 'u', '-', 'd', 'e', '-', 'v', 'i', 'e', 'Fin'] eau-de-vie
+
+['e', 'a', 'u', '-', 'f', 'o', 'r', 't', 'e', 'Fin'] eau-forte
+
+['e', 'c', 'a', 'r', 't', 'Ã', '¨', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] ecartÃ¨lement
+
+['e', 'c', 'c', 'l', 'Ã', '©', 's', 'i', 'a', 's', 't', 'i', 'q', 'u', 'e', 'Fin'] ecclÃ©siastique
+
+['e', 'c', 'e', 'r', 'v', 'e', 'l', 'Ã', '©', 'Fin'] ecervelÃ©
+
+['e', 'c', 'h', 'a', 'p', 'p', 'Ã', '©', 'e', 'Fin'] echappÃ©e
+
+['e', 'c', 'h', 'a', 'u', 'f', 'f', 'o', 'u', 'r', 'Ã', '©', 'e', 'Fin'] echauffourÃ©e
+
+['e', 'c', 'l', 'a', 't', 'Ã', '©', 'Fin'] eclatÃ©
+
+['e', 'c', 'o', 's', 'y', 's', 't', 'Ã', '¨', 'm', 'e', 'Fin'] ecosystÃ¨me
+
+['e', 'f', 'f', 'i', 'c', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] efficacitÃ©
+
+['e', 'f', 'f', 'r', 'o', 'n', 't', 'Ã', '©', 'Fin'] effrontÃ©
+
+['e', 'g', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] egalitÃ©
+
+['e', 'l', 'a', 's', 't', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] elasticitÃ©
+
+['e', 'l', 'e', 'c', 't', 'r', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] electricitÃ©
+
+['e', 'm', 'b', 'a', 'r', 'c', 'a', 'd', 'Ã', '¨', 'r', 'e', 'Fin'] embarcadÃ¨re
+
+['e', 'm', 'b', 'a', 'r', 'd', 'Ã', '©', 'e', 'Fin'] embardÃ©e
+
+['e', 'm', 'b', 'l', 'Ã', '¨', 'm', 'e', 'Fin'] emblÃ¨me
+
+['e', 'm', 'o', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] emotivitÃ©
+
+['e', 'm', 'p', 'i', 'Ã', '¨', 'c', 'e', 'm', 'e', 'n', 't', 'Fin'] empiÃ¨cement
+
+['e', 'm', 'p', 'i', 'Ã', '©', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] empiÃ©tement
+
+['e', 'm', 'p', 'l', 'Ã', '¢', 't', 'r', 'e', 'Fin'] emplÃ¢tre
+
+['e', 'm', 'p', 'l', 'o', 'y', 'Ã', '©', 'Fin'] employÃ©
+
+['e', 'n', '-', 'c', 'a', 's', 'Fin'] en-cas
+
+['e', 'n', 'c', 'h', 'a', 'Ã', '®', 'n', 'e', 'm', 'e', 'n', 't', 'Fin'] enchaÃ®nement
+
+['e', 'n', 'c', 'h', 'Ã', '¢', 's', 's', 'e', 'm', 'e', 'n', 't', 'Fin'] enchÃ¢ssement
+
+['e', 'n', 'c', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] enchÃ¨re
+
+['e', 'n', 'c', 'h', 'e', 'v', 'Ã', 'ª', 't', 'r', 'e', 'm', 'e', 'n', 't', 'Fin'] enchevÃªtrement
+
+['e', 'n', 'c', 'r', 'o', 'Ã', '»', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] encroÃ»tement
+
+['e', 'n', 'c', 'y', 'c', 'l', 'o', 'p', 'Ã', '©', 'd', 'i', 'e', 'Fin'] encyclopÃ©die
+
+['e', 'n', 'e', 'r', 'g', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] energÃ©tique
+
+['e', 'n', 'e', 'r', 'g', 'u', 'm', 'Ã', '¨', 'n', 'e', 'Fin'] energumÃ¨ne
+
+['e', 'n', 'j', 'a', 'm', 'b', 'Ã', '©', 'e', 'Fin'] enjambÃ©e
+
+['e', 'n', 'o', 'r', 'm', 'i', 't', 'Ã', '©', 'Fin'] enormitÃ©
+
+['e', 'n', 'q', 'u', 'Ã', 'ª', 't', 'e', 'Fin'] enquÃªte
+
+['e', 'n', 'q', 'u', 'Ã', 'ª', 't', 'e', 'u', 'r', 'Fin'] enquÃªteur
+
+['e', 'n', '-', 't', 'Ã', 'ª', 't', 'e', 'Fin'] en-tÃªte
+
+['e', 'n', 't', 'r', 'a', 'Ã', '®', 'n', 'e', 'm', 'e', 'n', 't', 'Fin'] entraÃ®nement
+
+['e', 'n', 't', 'r', 'a', 'Ã', '®', 'n', 'e', 'u', 'r', 'Fin'] entraÃ®neur
+
+['e', 'n', 't', 'r', 'e', 'b', 'Ã', '¢', 'i', 'l', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] entrebÃ¢illement
+
+['e', 'n', 't', 'r', 'e', '-', 'd', 'e', 'u', 'x', 'Fin'] entre-deux
+
+['e', 'n', 't', 'r', 'Ã', '©', 'e', 'Fin'] entrÃ©e
+
+['e', 'n', 't', 'r', 'e', 'p', 'Ã', '´', 't', 'Fin'] entrepÃ´t
+
+['e', 'n', 'u', 'm', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] enumÃ©ration
+
+['e', 'n', 'u', 'r', 'Ã', '©', 's', 'i', 'e', 'Fin'] enurÃ©sie
+
+['e', 'n', 'u', 'r', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] enurÃ©tique
+
+['e', 'n', 'v', 'o', 'l', 'Ã', '©', 'e', 'Fin'] envolÃ©e
+
+['e', 'n', 'v', 'o', 'Ã', '»', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] envoÃ»tement
+
+['e', 'p', 'h', 'e', 'm', 'Ã', '©', 'r', 'i', 'd', 'e', 'Fin'] ephemÃ©ride
+
+['e', 'p', 'i', 'd', 'Ã', '©', 'm', 'i', 'e', 'Fin'] epidÃ©mie
+
+['e', 'p', 'i', 's', 't', 'Ã', '©', 'm', 'o', 'l', 'o', 'g', 'i', 'e', 'Fin'] epistÃ©mologie
+
+['e', 'p', 'i', 't', 'h', 'Ã', '¨', 't', 'e', 'Fin'] epithÃ¨te
+
+['e', 'q', 'u', 'i', 'p', 'Ã', '©', 'e', 'Fin'] equipÃ©e
+
+['e', 'r', 'y', 't', 'h', 'Ã', '¨', 'm', 'e', 'Fin'] erythÃ¨me
+
+['e', 's', 'o', 't', 'Ã', '©', 'r', 'i', 's', 'm', 'e', 'Fin'] esotÃ©risme
+
+['e', 's', 'p', 'i', 'Ã', '¨', 'g', 'l', 'e', 'Fin'] espiÃ¨gle
+
+['e', 's', 'p', 'i', 'Ã', '¨', 'g', 'l', 'e', 'r', 'i', 'e', 'Fin'] espiÃ¨glerie
+
+['e', 's', 's', 'u', 'i', 'e', '-', 'g', 'l', 'a', 'c', 'e', 'Fin'] essuie-glace
+
+['e', 's', 's', 'u', 'i', 'e', '-', 'm', 'a', 'i', 'n', 's', 'Fin'] essuie-mains
+
+['e', 's', 's', 'u', 'i', 'e', '-', 'p', 'i', 'e', 'd', 's', 'Fin'] essuie-pieds
+
+['e', 's', 't', 'h', 'Ã', '©', 't', 'i', 'c', 'i', 'e', 'n', 'Fin'] esthÃ©ticien
+
+['e', 's', 't', 'h', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] esthÃ©tique
+
+['e', 't', 'a', 'g', 'Ã', '¨', 'r', 'e', 'Fin'] etagÃ¨re
+
+['e', 't', 'a', 't', '-', 'm', 'a', 'j', 'o', 'r', 'Fin'] etat-major
+
+['e', 't', 'e', 'r', 'n', 'i', 't', 'Ã', '©', 'Fin'] eternitÃ©
+
+['e', 't', 'u', 'v', 'Ã', '©', 'e', 'Fin'] etuvÃ©e
+
+['e', 'u', 'p', 'h', 'Ã', '©', 'm', 'i', 's', 'm', 'e', 'Fin'] euphÃ©misme
+
+['e', 'u', 'r', 'o', 'p', 'Ã', '©', 'e', 'n', 'Fin'] europÃ©en
+
+['e', 'v', 'a', 'n', 'g', 'Ã', '©', 'l', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] evangÃ©lisation
+
+['e', 'v', 'a', 'p', 'o', 'r', 'Ã', '©', 'Fin'] evaporÃ©
+
+['e', 'v', 'e', 'n', 't', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] eventualitÃ©
+
+['e', 'x', 'a', 'g', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] exagÃ©ration
+
+['e', 'x', 'a', 's', 'p', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] exaspÃ©ration
+
+['e', 'x', 'c', 'e', 'n', 't', 'r', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] excentricitÃ©
+
+['e', 'x', 'c', 'i', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] excitabilitÃ©
+
+['e', 'x', 'c', 'l', 'u', 's', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] exclusivitÃ©
+
+['e', 'x', 'c', 'r', 'Ã', '©', 'm', 'e', 'n', 't', 'Fin'] excrÃ©ment
+
+['e', 'x', 'c', 'r', 'Ã', '©', 't', 'i', 'o', 'n', 'Fin'] excrÃ©tion
+
+['e', 'x', 'e', 'g', 'Ã', '¨', 's', 'e', 'Fin'] exegÃ¨se
+
+['e', 'x', 'e', 'g', 'Ã', '¨', 't', 'e', 'Fin'] exegÃ¨te
+
+['e', 'x', 'e', 'm', 'p', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] exemplaritÃ©
+
+['e', 'x', 'e', 'r', 'Ã', '¨', 's', 'e', 'Fin'] exerÃ¨se
+
+['e', 'x', 'i', 'g', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] exigibilitÃ©
+
+['e', 'x', 'i', 'l', 'Ã', '©', 'Fin'] exilÃ©
+
+['e', 'x', 'o', 'n', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] exonÃ©ration
+
+['e', 'x', 't', 'e', 'n', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] extensibilitÃ©
+
+['e', 'x', 't', 'r', 'Ã', 'ª', 'm', 'e', 'Fin'] extrÃªme
+
+['e', 'x', 't', 'r', 'Ã', '©', 'm', 'i', 's', 'm', 'e', 'Fin'] extrÃ©misme
+
+['e', 'x', 't', 'r', 'Ã', '©', 'm', 'i', 's', 't', 'e', 'Fin'] extrÃ©miste
+
+['e', 'x', 'u', 'b', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] exubÃ©rance
+
+['e', 'y', 'e', '-', 'l', 'i', 'n', 'e', 'r', 'Fin'] eye-liner
+
+['f', 'a', 'c', 'e', '-', 'Ã', '\xa0', '-', 'f', 'a', 'c', 'e', 'Fin'] face-Ã -face
+
+['f', 'a', 'c', 'e', '-', 'Ã', '\xa0', '-', 'm', 'a', 'i', 'n', 'Fin'] face-Ã -main
+
+['f', 'a', 'c', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] facilitÃ©
+
+['f', 'a', 'c', '-', 's', 'i', 'm', 'i', 'l', 'Ã', '©', 'Fin'] fac-similÃ©
+
+['f', 'a', 'c', 'u', 'l', 't', 'Ã', '©', 'Fin'] facultÃ©
+
+['f', 'a', 'i', 'n', 'Ã', '©', 'a', 'n', 't', 'Fin'] fainÃ©ant
+
+['f', 'a', 'i', 'n', 'Ã', '©', 'a', 'n', 't', 'i', 's', 'e', 'Fin'] fainÃ©antise
+
+['f', 'a', 'i', 'r', 'e', '-', 'p', 'a', 'r', 't', 'Fin'] faire-part
+
+['f', 'a', 'i', 'r', 'e', '-', 'v', 'a', 'l', 'o', 'i', 'r', 'Fin'] faire-valoir
+
+['f', 'a', 'i', 'r', '-', 'p', 'l', 'a', 'y', 'Fin'] fair-play
+
+['f', 'a', 'i', 's', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] faisabilitÃ©
+
+['f', 'a', 'i', 't', '-', 't', 'o', 'u', 't', 'Fin'] fait-tout
+
+['f', 'a', 'm', 'i', 'l', 'i', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] familiaritÃ©
+
+['f', 'a', 'n', 't', 'Ã', '´', 'm', 'e', 'Fin'] fantÃ´me
+
+['f', 'a', 's', 't', '-', 'f', 'o', 'o', 'd', 'Fin'] fast-food
+
+['f', 'a', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] fatalitÃ©
+
+['f', 'a', 't', 'u', 'i', 't', 'Ã', '©', 'Fin'] fatuitÃ©
+
+['f', 'a', 'u', 's', 's', 'e', 't', 'Ã', '©', 'Fin'] faussetÃ©
+
+['f', 'a', 'u', 'x', '-', 'f', 'i', 'l', 'e', 't', 'Fin'] faux-filet
+
+['f', 'a', 'u', 'x', '-', 'f', 'u', 'y', 'a', 'n', 't', 'Fin'] faux-fuyant
+
+['f', 'a', 'u', 'x', '-', 'm', 'o', 'n', 'n', 'a', 'y', 'e', 'u', 'r', 'Fin'] faux-monnayeur
+
+['f', 'a', 'u', 'x', '-', 's', 'e', 'm', 'b', 'l', 'a', 'n', 't', 'Fin'] faux-semblant
+
+['f', 'e', 'b', 'r', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] febrilitÃ©
+
+['f', 'e', 'c', 'o', 'n', 'd', 'i', 't', 'Ã', '©', 'Fin'] feconditÃ©
+
+['f', 'e', 'e', 'd', '-', 'b', 'a', 'c', 'k', 'Fin'] feed-back
+
+['f', 'e', 'l', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] felicitÃ©
+
+['f', 'e', 'm', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] feminitÃ©
+
+['f', 'e', 'o', 'd', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] feodalitÃ©
+
+['f', 'e', 'r', 'm', 'e', 't', 'Ã', '©', 'Fin'] fermetÃ©
+
+['f', 'e', 'r', 'o', 'c', 'i', 't', 'Ã', '©', 'Fin'] ferocitÃ©
+
+['f', 'e', 'r', 'r', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] ferronniÃ¨re
+
+['f', 'e', 'r', 'r', 'y', '-', 'b', 'o', 'a', 't', 'Fin'] ferry-boat
+
+['f', 'e', 'r', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] fertilitÃ©
+
+['f', 'e', 's', 's', 'Ã', '©', 'e', 'Fin'] fessÃ©e
+
+['f', 'e', 's', 's', 'e', '-', 'm', 'a', 't', 'h', 'i', 'e', 'u', 'Fin'] fesse-mathieu
+
+['f', 'e', 's', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] festivitÃ©
+
+['f', 'e', 't', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] fetiditÃ©
+
+['f', 'e', 'u', 'i', 'l', 'l', 'e', 't', 'Ã', '©', 'Fin'] feuilletÃ©
+
+['f', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] fiabilitÃ©
+
+['f', 'i', 'a', 'n', 'Ã', '§', 'a', 'i', 'l', 'l', 'e', 's', 'Fin'] fianÃ§ailles
+
+['f', 'i', 'd', 'e', 'l', 'i', 't', 'Ã', '©', 'Fin'] fidelitÃ©
+
+['f', 'i', 'e', 'r', '-', 'Ã', '\xa0', '-', 'b', 'r', 'a', 's', 'Fin'] fier-Ã -bras
+
+['f', 'i', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] filiÃ¨re
+
+['f', 'i', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] finalitÃ©
+
+['f', 'i', 's', 'c', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] fiscalitÃ©
+
+['f', 'i', 'x', 'e', '-', 'c', 'h', 'a', 'u', 's', 's', 'e', 't', 't', 'e', 'Fin'] fixe-chaussette
+
+['f', 'l', 'a', '-', 'f', 'l', 'a', 'Fin'] fla-fla
+
+['f', 'l', 'a', 'm', 'b', 'Ã', '©', 'e', 'Fin'] flambÃ©e
+
+['f', 'l', 'a', 'm', 'Ã', '¨', 'c', 'h', 'e', 'Fin'] flamÃ¨che
+
+['f', 'l', 'a', 's', 'h', '-', 'b', 'a', 'c', 'k', 'Fin'] flash-back
+
+['f', 'l', 'e', 'x', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] flexibilitÃ©
+
+['f', 'l', 'o', 'r', 'i', 'l', 'Ã', '¨', 'g', 'e', 'Fin'] florilÃ¨ge
+
+['f', 'l', 'u', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] fluiditÃ©
+
+['f', 'o', 'r', 'c', 'e', 'n', 'Ã', '©', 'Fin'] forcenÃ©
+
+['f', 'o', 'r', 'm', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] formalitÃ©
+
+['f', 'o', 'u', 'g', 'Ã', '¨', 'r', 'e', 'Fin'] fougÃ¨re
+
+['f', 'o', 'u', 'l', 'Ã', '©', 'e', 'Fin'] foulÃ©e
+
+['f', 'o', 'u', 'r', 'm', 'i', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] fourmiliÃ¨re
+
+['f', 'o', 'u', 'r', 'n', 'Ã', '©', 'e', 'Fin'] fournÃ©e
+
+['f', 'o', 'u', 'r', 'r', 'e', '-', 't', 'o', 'u', 't', 'Fin'] fourre-tout
+
+['f', 'o', 'u', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] fourriÃ¨re
+
+['f', 'o', 'x', '-', 't', 'e', 'r', 'r', 'i', 'e', 'r', 'Fin'] fox-terrier
+
+['f', 'r', 'a', 'g', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] fragilitÃ©
+
+['f', 'r', 'a', 'n', 'Ã', '§', 'a', 'i', 's', 'Fin'] franÃ§ais
+
+['f', 'r', 'a', 'n', 'c', 'h', 'i', 's', 'Ã', '©', 'Fin'] franchisÃ©
+
+['f', 'r', 'a', 'n', 'c', '-', 'j', 'e', 'u', 'Fin'] franc-jeu
+
+['f', 'r', 'a', 'n', 'c', '-', 'm', 'a', 'Ã', '§', 'o', 'n', 'Fin'] franc-maÃ§on
+
+['f', 'r', 'a', 'n', 'c', '-', 'p', 'a', 'r', 'l', 'e', 'r', 'Fin'] franc-parler
+
+['f', 'r', 'a', 'n', 'c', '-', 't', 'i', 'r', 'e', 'u', 'r', 'Fin'] franc-tireur
+
+['f', 'r', 'a', 't', 'e', 'r', 'n', 'i', 't', 'Ã', '©', 'Fin'] fraternitÃ©
+
+['f', 'r', 'e', 'e', '-', 'l', 'a', 'n', 'c', 'e', 'Fin'] free-lance
+
+['f', 'r', 'e', 'n', 'Ã', '©', 's', 'i', 'e', 'Fin'] frenÃ©sie
+
+['f', 'r', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] friabilitÃ©
+
+['f', 'r', 'i', 'c', 'a', 's', 's', 'Ã', '©', 'e', 'Fin'] fricassÃ©e
+
+['f', 'r', 'i', 'g', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] frigiditÃ©
+
+['f', 'r', 'i', 'v', 'o', 'l', 'i', 't', 'Ã', '©', 'Fin'] frivolitÃ©
+
+['f', 'r', 'o', 'n', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] frontiÃ¨re
+
+['f', 'r', 'o', 'u', '-', 'f', 'r', 'o', 'u', 'Fin'] frou-frou
+
+['f', 'u', 'g', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] fugacitÃ©
+
+['f', 'u', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] futilitÃ©
+
+['g', 'a', 'g', 'n', 'e', '-', 'p', 'a', 'i', 'n', 'Fin'] gagne-pain
+
+['g', 'a', 'g', 'n', 'e', '-', 'p', 'e', 't', 'i', 't', 'Fin'] gagne-petit
+
+['g', 'a', 'l', 'l', 'i', 'n', 'a', 'c', 'Ã', '©', 'Fin'] gallinacÃ©
+
+['g', 'a', 'n', 'g', 'r', 'Ã', '¨', 'n', 'e', 'Fin'] gangrÃ¨ne
+
+['g', 'a', 'n', 'g', 's', 't', 'Ã', '©', 'r', 'i', 's', 'm', 'e', 'Fin'] gangstÃ©risme
+
+['g', 'a', 'r', 'c', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] garconniÃ¨re
+
+['g', 'a', 'r', 'd', 'e', '-', 'b', 'o', 'u', 'e', 'Fin'] garde-boue
+
+['g', 'a', 'r', 'd', 'e', '-', 'c', 'h', 'i', 'o', 'u', 'r', 'm', 'e', 'Fin'] garde-chiourme
+
+['g', 'a', 'r', 'd', 'e', '-', 'c', 'o', 'r', 'p', 's', 'Fin'] garde-corps
+
+['g', 'a', 'r', 'd', 'e', '-', 'f', 'e', 'u', 'Fin'] garde-feu
+
+['g', 'a', 'r', 'd', 'e', '-', 'f', 'o', 'u', 'Fin'] garde-fou
+
+['g', 'a', 'r', 'd', 'e', '-', 'm', 'a', 'l', 'a', 'd', 'e', 'Fin'] garde-malade
+
+['g', 'a', 'r', 'd', 'e', 'n', '-', 'p', 'a', 'r', 't', 'y', 'Fin'] garden-party
+
+['g', 'a', 'r', 'd', 'e', '-', 'r', 'o', 'b', 'e', 'Fin'] garde-robe
+
+['g', 'a', 't', 'e', '-', 's', 'a', 'u', 'c', 'e', 'Fin'] gate-sauce
+
+['g', 'e', 'n', 'e', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] generalitÃ©
+
+['g', 'e', 'n', 'e', 'r', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] generositÃ©
+
+['g', 'e', 'n', 'i', 'Ã', '¨', 'v', 'r', 'e', 'Fin'] geniÃ¨vre
+
+['g', 'e', 'n', 'o', 'u', 'i', 'l', 'l', 'Ã', '¨', 'r', 'e', 'Fin'] genouillÃ¨re
+
+['g', 'e', 'n', 't', 'i', 'l', 'Ã', '©', 'Fin'] gentilÃ©
+
+['g', 'e', 'n', 't', 'i', 'l', 'h', 'o', 'm', 'm', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] gentilhommiÃ¨re
+
+['g', 'e', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] geomÃ¨tre
+
+['g', 'i', 'b', 'e', 'c', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] gibeciÃ¨re
+
+['g', 'i', 'b', 'o', 'u', 'l', 'Ã', '©', 'e', 'Fin'] giboulÃ©e
+
+['g', 'i', 'r', 'o', 'f', 'l', 'Ã', '©', 'e', 'Fin'] giroflÃ©e
+
+['g', 'l', 'i', 's', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] glissiÃ¨re
+
+['g', 'l', 'o', 'b', 'e', '-', 't', 'r', 'o', 't', 't', 'e', 'r', 'Fin'] globe-trotter
+
+['g', 'l', 'y', 'c', 'Ã', '©', 'r', 'i', 'n', 'e', 'Fin'] glycÃ©rine
+
+['g', 'o', 'b', 'e', '-', 'm', 'o', 'u', 'c', 'h', 'e', 'Fin'] gobe-mouche
+
+['g', 'o', 'r', 'g', 'Ã', '©', 'e', 'Fin'] gorgÃ©e
+
+['g', 'o', 'u', 'l', 'Ã', '©', 'e', 'Fin'] goulÃ©e
+
+['g', 'o', 'u', 't', 't', 'e', '-', 'Ã', '\xa0', '-', 'g', 'o', 'u', 't', 't', 'e', 'Fin'] goutte-Ã -goutte
+
+['g', 'o', 'u', 't', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] gouttiÃ¨re
+
+['g', 'r', 'a', 'c', 'i', 'e', 'u', 's', 'e', 't', 'Ã', '©', 'Fin'] gracieusetÃ©
+
+['g', 'r', 'a', 'c', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] gracilitÃ©
+
+['g', 'r', 'a', 'n', 'd', '-', 'a', 'n', 'g', 'l', 'e', 'Fin'] grand-angle
+
+['g', 'r', 'a', 'n', 'd', '-', 'c', 'h', 'o', 's', 'e', 'Fin'] grand-chose
+
+['g', 'r', 'a', 'n', 'd', '-', 'd', 'u', 'c', 'Fin'] grand-duc
+
+['g', 'r', 'a', 'n', 'd', '-', 'm', 'a', 'm', 'a', 'n', 'Fin'] grand-maman
+
+['g', 'r', 'a', 'n', 'd', '-', 'm', 'Ã', '¨', 'r', 'e', 'Fin'] grand-mÃ¨re
+
+['g', 'r', 'a', 'n', 'd', '-', 'm', 'e', 's', 's', 'e', 'Fin'] grand-messe
+
+['g', 'r', 'a', 'n', 'd', '-', 'o', 'n', 'c', 'l', 'e', 'Fin'] grand-oncle
+
+['g', 'r', 'a', 'n', 'd', '-', 'p', 'a', 'p', 'a', 'Fin'] grand-papa
+
+['g', 'r', 'a', 'n', 'd', '-', 'p', 'Ã', '¨', 'r', 'e', 'Fin'] grand-pÃ¨re
+
+['g', 'r', 'a', 'n', 'd', 's', '-', 'p', 'a', 'r', 'e', 'n', 't', 's', 'Fin'] grands-parents
+
+['g', 'r', 'a', 'n', 'd', '-', 't', 'a', 'n', 't', 'e', 'Fin'] grand-tante
+
+['g', 'r', 'a', 'n', 'd', '-', 'v', 'o', 'i', 'l', 'e', 'Fin'] grand-voile
+
+['g', 'r', 'a', 'n', 'u', 'l', 'Ã', '©', 'Fin'] granulÃ©
+
+['g', 'r', 'a', 'p', 'e', '-', 'f', 'r', 'u', 'i', 't', 'Fin'] grape-fruit
+
+['g', 'r', 'a', 't', 'i', 'n', 'Ã', '©', 'Fin'] gratinÃ©
+
+['g', 'r', 'a', 't', 't', 'e', '-', 'c', 'i', 'e', 'l', 'Fin'] gratte-ciel
+
+['g', 'r', 'a', 't', 't', 'e', '-', 'd', 'o', 's', 'Fin'] gratte-dos
+
+['g', 'r', 'a', 't', 't', 'e', '-', 'p', 'a', 'p', 'i', 'e', 'r', 'Fin'] gratte-papier
+
+['g', 'r', 'a', 't', 'u', 'i', 't', 'Ã', '©', 'Fin'] gratuitÃ©
+
+['g', 'r', 'a', 'v', 'i', 't', 'Ã', '©', 'Fin'] gravitÃ©
+
+['g', 'r', 'i', '-', 'g', 'r', 'i', 'Fin'] gri-gri
+
+['g', 'r', 'i', 'l', 'l', 'e', '-', 'p', 'a', 'i', 'n', 'Fin'] grille-pain
+
+['g', 'r', 'i', 'p', 'p', 'e', '-', 's', 'o', 'u', 'Fin'] grippe-sou
+
+['g', 'r', 'i', 's', 'Ã', '©', 'Fin'] grisÃ©
+
+['g', 'r', 'i', 'v', 'Ã', '¨', 'l', 'e', 'r', 'i', 'e', 'Fin'] grivÃ¨lerie
+
+['g', 'r', 'o', 's', '-', 'g', 'r', 'a', 'i', 'n', 'Fin'] gros-grain
+
+['g', 'r', 'o', 's', '-', 'p', 'o', 'r', 't', 'e', 'u', 'r', 'Fin'] gros-porteur
+
+['g', 'r', 'u', 'y', 'Ã', '¨', 'r', 'e', 'Fin'] gruyÃ¨re
+
+['g', 'u', 'e', 'p', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] guepiÃ¨re
+
+['g', 'u', 'e', 't', '-', 'a', 'p', 'e', 'n', 's', 'Fin'] guet-apens
+
+['g', 'u', 'e', 'u', 'l', 'e', '-', 'd', 'e', '-', 'l', 'o', 'u', 'p', 'Fin'] gueule-de-loup
+
+['g', 'y', 'n', 'e', 'c', 'Ã', '©', 'e', 'Fin'] gynecÃ©e
+
+['h', 'a', 'b', 'i', 'l', 'e', 't', 'Ã', '©', 'Fin'] habiletÃ©
+
+['h', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] habilitÃ©
+
+['h', 'a', 'b', 'i', 't', 'u', 'Ã', '©', 'Fin'] habituÃ©
+
+['h', 'a', 'c', 'h', 'e', '-', 'v', 'i', 'a', 'n', 'd', 'e', 'Fin'] hache-viande
+
+['h', 'a', 'l', 'l', 'u', 'c', 'i', 'n', 'Ã', '©', 'Fin'] hallucinÃ©
+
+['h', 'a', 'l', 'l', 'u', 'c', 'i', 'n', 'o', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] hallucinogÃ¨ne
+
+['h', 'a', 'm', 'e', 'Ã', '§', 'o', 'n', 'Fin'] hameÃ§on
+
+['h', 'a', 'n', 'd', '-', 'b', 'a', 'l', 'l', 'Fin'] hand-ball
+
+['h', 'a', 'n', 'd', 'i', 'c', 'a', 'p', 'Ã', '©', 'Fin'] handicapÃ©
+
+['h', 'a', 'r', 'a', '-', 'k', 'i', 'r', 'i', 'Fin'] hara-kiri
+
+['h', 'a', 'r', 'c', 'Ã', '¨', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] harcÃ¨lement
+
+['h', 'a', 'u', 't', '-', 'd', 'e', '-', 'c', 'h', 'a', 'u', 's', 's', 'e', 'Fin'] haut-de-chausse
+
+['h', 'a', 'u', 't', '-', 'd', 'e', '-', 'f', 'o', 'r', 'm', 'e', 'Fin'] haut-de-forme
+
+['h', 'a', 'u', 't', 'e', '-', 'f', 'i', 'd', 'Ã', '©', 'l', 'i', 't', 'Ã', '©', 'Fin'] haute-fidÃ©litÃ©
+
+['h', 'a', 'u', 't', '-', 'f', 'o', 'n', 'd', 'Fin'] haut-fond
+
+['h', 'a', 'u', 't', '-', 'l', 'e', '-', 'c', 'o', 'e', 'u', 'r', 'Fin'] haut-le-coeur
+
+['h', 'a', 'u', 't', '-', 'l', 'e', '-', 'c', 'o', 'r', 'p', 's', 'Fin'] haut-le-corps
+
+['h', 'a', 'u', 't', '-', 'p', 'a', 'r', 'l', 'e', 'u', 'r', 'Fin'] haut-parleur
+
+['h', 'a', 'u', 't', '-', 'r', 'e', 'l', 'i', 'e', 'f', 'Fin'] haut-relief
+
+['h', 'e', 'l', 'i', 'c', 'o', 'p', 't', 'Ã', '¨', 'r', 'e', 'Fin'] helicoptÃ¨re
+
+['h', 'e', 'l', 'l', 'Ã', '¨', 'n', 'e', 'Fin'] hellÃ¨ne
+
+['h', 'e', 'l', 'v', 'Ã', '¨', 't', 'e', 'Fin'] helvÃ¨te
+
+['h', 'e', 'm', 'i', 'p', 'l', 'Ã', '©', 'g', 'i', 'e', 'Fin'] hemiplÃ©gie
+
+['h', 'e', 'm', 'i', 'p', 'l', 'Ã', '©', 'g', 'i', 'q', 'u', 'e', 'Fin'] hemiplÃ©gique
+
+['h', 'e', 'm', 'i', 's', 'p', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] hemisphÃ¨re
+
+['h', 'e', 'r', 'e', 'd', 'i', 't', 'Ã', '©', 'Fin'] hereditÃ©
+
+['h', 'e', 'r', 'm', 'Ã', '©', 't', 'i', 's', 'm', 'e', 'Fin'] hermÃ©tisme
+
+['h', 'e', 'r', 'o', 'Ã', '¯', 'n', 'e', 'Fin'] heroÃ¯ne
+
+['h', 'e', 'r', 'o', 'Ã', '¯', 'n', 'o', 'm', 'a', 'n', 'e', 'Fin'] heroÃ¯nomane
+
+['h', 'e', 'r', 'o', 'Ã', '¯', 's', 'm', 'e', 'Fin'] heroÃ¯sme
+
+['h', 'e', 't', 'a', 'Ã', '¯', 'r', 'e', 'Fin'] hetaÃ¯re
+
+['h', 'e', 't', 'e', 'r', 'o', 's', 'e', 'x', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] heterosexualitÃ©
+
+['h', 'i', '-', 'f', 'i', 'Fin'] hi-fi
+
+['h', 'i', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] hilaritÃ©
+
+['h', 'i', 's', 't', 'o', 'r', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] historicitÃ©
+
+['h', 'i', 't', '-', 'p', 'a', 'r', 'a', 'd', 'e', 'Fin'] hit-parade
+
+['h', 'o', 'l', 'd', '-', 'u', 'p', 'Fin'] hold-up
+
+['h', 'o', 'm', 'm', 'e', '-', 'g', 'r', 'e', 'n', 'o', 'u', 'i', 'l', 'l', 'e', 'Fin'] homme-grenouille
+
+['h', 'o', 'm', 'o', 'g', 'Ã', '©', 'n', 'Ã', '©', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] homogÃ©nÃ©isation
+
+['h', 'o', 'm', 'o', 's', 'e', 'x', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] homosexualitÃ©
+
+['h', 'o', 'r', 'i', 'z', 'o', 'n', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] horizontalitÃ©
+
+['h', 'o', 'r', 's', '-', 'd', "'", 'o', 'e', 'u', 'v', 'r', 'e', 'Fin'] hors-d'oeuvre
+
+['h', 'o', 'r', 's', '-', 'l', 'a', '-', 'l', 'o', 'i', 'Fin'] hors-la-loi
+
+['h', 'o', 'r', 's', '-', 't', 'e', 'x', 't', 'e', 'Fin'] hors-texte
+
+['h', 'o', 's', 'p', 'i', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] hospitalitÃ©
+
+['h', 'o', 's', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] hostilitÃ©
+
+['h', 'u', 'm', 'a', 'n', 'i', 't', 'Ã', '©', 'Fin'] humanitÃ©
+
+['h', 'u', 'm', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] humiditÃ©
+
+['h', 'u', 'm', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] humilitÃ©
+
+['h', 'y', 'g', 'i', 'Ã', '¨', 'n', 'e', 'Fin'] hygiÃ¨ne
+
+['h', 'y', 'g', 'r', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] hygromÃ¨tre
+
+['h', 'y', 'p', 'e', 'r', 'a', 'c', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] hyperaciditÃ©
+
+['h', 'y', 'p', 'e', 'r', 'm', 'a', 'r', 'c', 'h', 'Ã', '©', 'Fin'] hypermarchÃ©
+
+['h', 'y', 'p', 'e', 'r', 'm', 'Ã', '©', 't', 'r', 'o', 'p', 'e', 'Fin'] hypermÃ©trope
+
+['h', 'y', 'p', 'e', 'r', 'm', 'Ã', '©', 't', 'r', 'o', 'p', 'i', 'e', 'Fin'] hypermÃ©tropie
+
+['h', 'y', 'p', 'e', 'r', 's', 'e', 'n', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] hypersensibilitÃ©
+
+['h', 'y', 'p', 'o', 'g', 'l', 'y', 'c', 'Ã', '©', 'm', 'i', 'e', 'Fin'] hypoglycÃ©mie
+
+['h', 'y', 'p', 'o', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] hypothÃ¨que
+
+['h', 'y', 'p', 'o', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] hypothÃ¨se
+
+['h', 'y', 's', 't', 'Ã', '©', 'r', 'i', 'e', 'Fin'] hystÃ©rie
+
+['h', 'y', 's', 't', 'Ã', '©', 'r', 'i', 'q', 'u', 'e', 'Fin'] hystÃ©rique
+
+['i', 'd', 'e', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] idealitÃ©
+
+['i', 'd', 'e', 'n', 't', 'i', 't', 'Ã', '©', 'Fin'] identitÃ©
+
+['i', 'd', 'o', 'l', 'Ã', '¢', 't', 'r', 'e', 'Fin'] idolÃ¢tre
+
+['i', 'd', 'o', 'l', 'Ã', '¢', 't', 'r', 'i', 'e', 'Fin'] idolÃ¢trie
+
+['i', 'l', 'l', 'e', 'g', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] illegalitÃ©
+
+['i', 'l', 'l', 'e', 'g', 'i', 't', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] illegitimitÃ©
+
+['i', 'l', 'l', 'e', 't', 't', 'r', 'Ã', '©', 'Fin'] illettrÃ©
+
+['i', 'l', 'l', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] illisibilitÃ©
+
+['i', 'l', 'l', 'u', 'm', 'i', 'n', 'Ã', '©', 'Fin'] illuminÃ©
+
+['i', 'l', 'l', 'u', 's', 't', 'r', 'Ã', '©', 'Fin'] illustrÃ©
+
+['i', 'm', 'b', 'e', 'c', 'i', 'l', 'l', 'i', 't', 'Ã', '©', 'Fin'] imbecillitÃ©
+
+['i', 'm', 'm', 'a', 't', 'u', 'r', 'i', 't', 'Ã', '©', 'Fin'] immaturitÃ©
+
+['i', 'm', 'm', 'e', 'n', 's', 'i', 't', 'Ã', '©', 'Fin'] immensitÃ©
+
+['i', 'm', 'm', 'i', 'g', 'r', 'Ã', '©', 'Fin'] immigrÃ©
+
+['i', 'm', 'm', 'o', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] immobilitÃ©
+
+['i', 'm', 'm', 'o', 'd', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] immodÃ©ration
+
+['i', 'm', 'm', 'o', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] immoralitÃ©
+
+['i', 'm', 'm', 'o', 'r', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] immortalitÃ©
+
+['i', 'm', 'm', 'u', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] immuabilitÃ©
+
+['i', 'm', 'm', 'u', 'n', 'i', 't', 'Ã', '©', 'Fin'] immunitÃ©
+
+['i', 'm', 'm', 'u', 'n', 'o', 'd', 'Ã', '©', 'p', 'r', 'e', 's', 's', 'e', 'u', 'r', 'Fin'] immunodÃ©presseur
+
+['i', 'm', 'm', 'u', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] immutabilitÃ©
+
+['i', 'm', 'p', 'a', 'r', 't', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] impartialitÃ©
+
+['i', 'm', 'p', 'a', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] impassibilitÃ©
+
+['i', 'm', 'p', 'e', 'c', 'u', 'n', 'i', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] impecuniositÃ©
+
+['i', 'm', 'p', 'e', 'n', 'Ã', '©', 't', 'r', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] impenÃ©trabilitÃ©
+
+['i', 'm', 'p', 'e', 'r', 'c', 'e', 'p', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] imperceptibilitÃ©
+
+['i', 'm', 'p', 'e', 'r', 'm', 'Ã', '©', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] impermÃ©abilitÃ©
+
+['i', 'm', 'p', 'e', 'r', 'm', 'Ã', '©', 'a', 'b', 'l', 'e', 'Fin'] impermÃ©able
+
+['i', 'm', 'p', 'e', 'r', 't', 'u', 'r', 'b', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] imperturbabilitÃ©
+
+['i', 'm', 'p', 'e', 't', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] impetuositÃ©
+
+['i', 'm', 'p', 'o', 'n', 'd', 'Ã', '©', 'r', 'a', 'b', 'l', 'e', 'Fin'] impondÃ©rable
+
+['i', 'm', 'p', 'o', 'r', 't', '-', 'e', 'x', 'p', 'o', 'r', 't', 'Fin'] import-export
+
+['i', 'm', 'p', 'o', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] impossibilitÃ©
+
+['i', 'm', 'p', 'r', 'a', 't', 'i', 'c', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] impraticabilitÃ©
+
+['i', 'm', 'p', 'r', 'Ã', '©', 'c', 'a', 't', 'i', 'o', 'n', 'Fin'] imprÃ©cation
+
+['i', 'm', 'p', 'r', 'Ã', '©', 'c', 'i', 's', 'i', 'o', 'n', 'Fin'] imprÃ©cision
+
+['i', 'm', 'p', 'r', 'Ã', '©', 'g', 'n', 'a', 't', 'i', 'o', 'n', 'Fin'] imprÃ©gnation
+
+['i', 'm', 'p', 'r', 'Ã', '©', 's', 'a', 'r', 'i', 'o', 'Fin'] imprÃ©sario
+
+['i', 'm', 'p', 'r', 'e', 's', 'c', 'r', 'i', 'p', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] imprescriptibilitÃ©
+
+['i', 'm', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n', 'n', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] impressionnabilitÃ©
+
+['i', 'm', 'p', 'r', 'Ã', '©', 'v', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] imprÃ©visibilitÃ©
+
+['i', 'm', 'p', 'r', 'Ã', '©', 'v', 'o', 'y', 'a', 'n', 'c', 'e', 'Fin'] imprÃ©voyance
+
+['i', 'm', 'p', 'r', 'Ã', '©', 'v', 'u', 'Fin'] imprÃ©vu
+
+['i', 'm', 'p', 'r', 'i', 'm', 'Ã', '©', 'Fin'] imprimÃ©
+
+['i', 'm', 'p', 'r', 'o', 'b', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] improbabilitÃ©
+
+['i', 'm', 'p', 'r', 'o', 'd', 'u', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] improductivitÃ©
+
+['i', 'm', 'p', 'u', 'b', 'Ã', '¨', 'r', 'e', 'Fin'] impubÃ¨re
+
+['i', 'm', 'p', 'u', 'd', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] impudicitÃ©
+
+['i', 'm', 'p', 'u', 'l', 's', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] impulsivitÃ©
+
+['i', 'm', 'p', 'u', 'n', 'i', 't', 'Ã', '©', 'Fin'] impunitÃ©
+
+['i', 'm', 'p', 'u', 'r', 'e', 't', 'Ã', '©', 'Fin'] impuretÃ©
+
+['i', 'm', 'p', 'u', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] imputabilitÃ©
+
+['i', 'm', 'p', 'u', 't', 'r', 'e', 's', 'c', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] imputrescibilitÃ©
+
+['i', 'n', 'a', 'c', 'c', 'e', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inaccessibilitÃ©
+
+['i', 'n', 'a', 'c', 'h', 'Ã', '¨', 'v', 'e', 'm', 'e', 'n', 't', 'Fin'] inachÃ¨vement
+
+['i', 'n', 'a', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] inactivitÃ©
+
+['i', 'n', 'a', 'd', 'a', 'p', 't', 'Ã', '©', 'Fin'] inadaptÃ©
+
+['i', 'n', 'a', 'd', 'Ã', '©', 'q', 'u', 'a', 't', 'i', 'o', 'n', 'Fin'] inadÃ©quation
+
+['i', 'n', 'a', 'd', 'm', 'i', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inadmissibilitÃ©
+
+['i', 'n', 'a', 'm', 'o', 'v', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inamovibilitÃ©
+
+['i', 'n', 'a', 'n', 'i', 't', 'Ã', '©', 'Fin'] inanitÃ©
+
+['i', 'n', 'a', 'p', 'p', 'Ã', '©', 't', 'e', 'n', 'c', 'e', 'Fin'] inappÃ©tence
+
+['i', 'n', 'c', 'a', 'p', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] incapacitÃ©
+
+['i', 'n', 'c', 'a', 'r', 'c', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] incarcÃ©ration
+
+['i', 'n', 'c', 'e', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incessibilitÃ©
+
+['i', 'n', 'c', 'i', 'n', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] incinÃ©ration
+
+['i', 'n', 'c', 'i', 'v', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incivilitÃ©
+
+['i', 'n', 'c', 'l', 'Ã', '©', 'm', 'e', 'n', 'c', 'e', 'Fin'] inclÃ©mence
+
+['i', 'n', 'c', 'o', 'h', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] incohÃ©rence
+
+['i', 'n', 'c', 'o', 'm', 'm', 'e', 'n', 's', 'u', 'r', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incommensurabilitÃ©
+
+['i', 'n', 'c', 'o', 'm', 'm', 'u', 'n', 'i', 'c', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incommunicabilitÃ©
+
+['i', 'n', 'c', 'o', 'm', 'p', 'a', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incompatibilitÃ©
+
+['i', 'n', 'c', 'o', 'm', 'p', 'Ã', '©', 't', 'e', 'n', 'c', 'e', 'Fin'] incompÃ©tence
+
+['i', 'n', 'c', 'o', 'm', 'p', 'Ã', '©', 't', 'e', 'n', 't', 'Fin'] incompÃ©tent
+
+['i', 'n', 'c', 'o', 'm', 'p', 'r', 'Ã', '©', 'h', 'e', 'n', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incomprÃ©hensibilitÃ©
+
+['i', 'n', 'c', 'o', 'm', 'p', 'r', 'Ã', '©', 'h', 'e', 'n', 's', 'i', 'o', 'n', 'Fin'] incomprÃ©hension
+
+['i', 'n', 'c', 'o', 'm', 'p', 'r', 'e', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incompressibilitÃ©
+
+['i', 'n', 'c', 'o', 'n', 'g', 'r', 'u', 'i', 't', 'Ã', '©', 'Fin'] incongruitÃ©
+
+['i', 'n', 'c', 'o', 'n', 's', 'Ã', '©', 'q', 'u', 'e', 'n', 'c', 'e', 'Fin'] inconsÃ©quence
+
+['i', 'n', 'c', 'o', 'n', 's', 't', 'i', 't', 'u', 't', 'i', 'o', 'n', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] inconstitutionnalitÃ©
+
+['i', 'n', 'c', 'o', 'n', 'v', 'Ã', '©', 'n', 'i', 'e', 'n', 't', 'Fin'] inconvÃ©nient
+
+['i', 'n', 'c', 'o', 'r', 'r', 'u', 'p', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incorruptibilitÃ©
+
+['i', 'n', 'c', 'r', 'Ã', '©', 'd', 'u', 'l', 'e', 'Fin'] incrÃ©dule
+
+['i', 'n', 'c', 'u', 'l', 'p', 'Ã', '©', 'Fin'] inculpÃ©
+
+['i', 'n', 'c', 'u', 'r', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] incurabilitÃ©
+
+['i', 'n', 'd', 'e', 'm', 'n', 'i', 't', 'Ã', '©', 'Fin'] indemnitÃ©
+
+['i', 'n', 'd', 'e', 's', 't', 'r', 'u', 'c', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] indestructibilitÃ©
+
+['i', 'n', 'd', 'i', 'f', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] indiffÃ©rence
+
+['i', 'n', 'd', 'i', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] indigÃ¨ne
+
+['i', 'n', 'd', 'i', 'g', 'n', 'i', 't', 'Ã', '©', 'Fin'] indignitÃ©
+
+['i', 'n', 'd', 'i', 's', 'c', 'r', 'Ã', '©', 't', 'i', 'o', 'n', 'Fin'] indiscrÃ©tion
+
+['i', 'n', 'd', 'i', 's', 'p', 'o', 'n', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] indisponibilitÃ©
+
+['i', 'n', 'd', 'i', 's', 's', 'o', 'l', 'u', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] indissolubilitÃ©
+
+['i', 'n', 'd', 'i', 'v', 'i', 'd', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] individualitÃ©
+
+['i', 'n', 'd', 'i', 'v', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] indivisibilitÃ©
+
+['i', 'n', 'd', 'o', 'c', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] indocilitÃ©
+
+['i', 'n', 'd', 'o', '-', 'e', 'u', 'r', 'o', 'p', 'Ã', '©', 'e', 'n', 'Fin'] indo-europÃ©en
+
+['i', 'n', 'e', 'f', 'f', 'i', 'c', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] inefficacitÃ©
+
+['i', 'n', 'e', 'g', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] inegalitÃ©
+
+['i', 'n', 'e', 'l', 'Ã', '©', 'g', 'a', 'n', 'c', 'e', 'Fin'] inelÃ©gance
+
+['i', 'n', 'e', 'x', 'p', 'Ã', '©', 'r', 'i', 'e', 'n', 'c', 'e', 'Fin'] inexpÃ©rience
+
+['i', 'n', 'f', 'a', 'i', 'l', 'l', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] infaillibilitÃ©
+
+['i', 'n', 'f', 'e', 'r', 'i', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] inferioritÃ©
+
+['i', 'n', 'f', 'e', 'r', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] infertilitÃ©
+
+['i', 'n', 'f', 'i', 'd', 'Ã', '¨', 'l', 'e', 'Fin'] infidÃ¨le
+
+['i', 'n', 'f', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] infinitÃ©
+
+['i', 'n', 'f', 'i', 'r', 'm', 'i', 't', 'Ã', '©', 'Fin'] infirmitÃ©
+
+['i', 'n', 'f', 'l', 'a', 'm', 'm', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inflammabilitÃ©
+
+['i', 'n', 'f', 'l', 'e', 'x', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inflexibilitÃ©
+
+['i', 'n', 'f', 'o', 'r', 'm', 'Ã', '©', 'Fin'] informÃ©
+
+['i', 'n', 'f', 'o', 'r', 't', 'u', 'n', 'Ã', '©', 'Fin'] infortunÃ©
+
+['i', 'n', 'g', 'e', 'n', 'i', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] ingeniositÃ©
+
+['i', 'n', 'g', 'e', 'n', 'u', 'i', 't', 'Ã', '©', 'Fin'] ingenuitÃ©
+
+['i', 'n', 'g', 'r', 'Ã', '©', 'd', 'i', 'e', 'n', 't', 'Fin'] ingrÃ©dient
+
+['i', 'n', 'h', 'a', 'b', 'i', 'l', 'e', 't', 'Ã', '©', 'Fin'] inhabiletÃ©
+
+['i', 'n', 'i', 'm', 'i', 't', 'i', 'Ã', '©', 'Fin'] inimitiÃ©
+
+['i', 'n', 'i', 'n', 'f', 'l', 'a', 'm', 'm', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] ininflammabilitÃ©
+
+['i', 'n', 'i', 'q', 'u', 'i', 't', 'Ã', '©', 'Fin'] iniquitÃ©
+
+['i', 'n', 'n', 'o', 'c', 'u', 'i', 't', 'Ã', '©', 'Fin'] innocuitÃ©
+
+['i', 'n', 'o', 'p', 'p', 'o', 'r', 't', 'u', 'n', 'i', 't', 'Ã', '©', 'Fin'] inopportunitÃ©
+
+['i', 'n', 'q', 'u', 'i', 'Ã', '©', 't', 'u', 'd', 'e', 'Fin'] inquiÃ©tude
+
+['i', 'n', 's', 'a', 'l', 'u', 'b', 'r', 'i', 't', 'Ã', '©', 'Fin'] insalubritÃ©
+
+['i', 'n', 's', 'a', 'n', 'i', 't', 'Ã', '©', 'Fin'] insanitÃ©
+
+['i', 'n', 's', 'e', 'c', 'u', 'r', 'i', 't', 'Ã', '©', 'Fin'] insecuritÃ©
+
+['i', 'n', 's', 'e', 'n', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] insensibilitÃ©
+
+['i', 'n', 's', 'i', 'p', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] insipiditÃ©
+
+['i', 'n', 's', 'o', 'l', 'v', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] insolvabilitÃ©
+
+['i', 'n', 's', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] instabilitÃ©
+
+['i', 'n', 's', 't', 'a', 'n', 't', 'a', 'n', 'Ã', '©', 'Fin'] instantanÃ©
+
+['i', 'n', 's', 'u', 'b', 'm', 'e', 'r', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] insubmersibilitÃ©
+
+['i', 'n', 's', 'u', 'c', 'c', 'Ã', '¨', 's', 'Fin'] insuccÃ¨s
+
+['i', 'n', 't', 'a', 'n', 'g', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] intangibilitÃ©
+
+['i', 'n', 't', 'e', 'g', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] integralitÃ©
+
+['i', 'n', 't', 'e', 'g', 'r', 'i', 't', 'Ã', '©', 'Fin'] integritÃ©
+
+['i', 'n', 't', 'e', 'l', 'l', 'i', 'g', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] intelligibilitÃ©
+
+['i', 'n', 't', 'e', 'm', 'p', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] intempÃ©rance
+
+['i', 'n', 't', 'e', 'm', 'p', 'Ã', '©', 'r', 'i', 'e', 'Fin'] intempÃ©rie
+
+['i', 'n', 't', 'e', 'n', 's', 'i', 't', 'Ã', '©', 'Fin'] intensitÃ©
+
+['i', 'n', 't', 'e', 'r', 'd', 'Ã', '©', 'p', 'e', 'n', 'd', 'a', 'n', 'c', 'e', 'Fin'] interdÃ©pendance
+
+['i', 'n', 't', 'e', 'r', 'Ã', 'ª', 't', 'Fin'] interÃªt
+
+['i', 'n', 't', 'e', 'r', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] interfÃ©rence
+
+['i', 'n', 't', 'e', 'r', 'm', 'Ã', '¨', 'd', 'e', 'Fin'] intermÃ¨de
+
+['i', 'n', 't', 'e', 'r', 'm', 'Ã', '©', 'd', 'i', 'a', 'i', 'r', 'e', 'Fin'] intermÃ©diaire
+
+['i', 'n', 't', 'e', 'r', 'p', 'Ã', '©', 'n', 'Ã', '©', 't', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] interpÃ©nÃ©tration
+
+['i', 'n', 't', 'e', 'r', 'p', 'r', 'Ã', '©', 't', 'a', 't', 'i', 'o', 'n', 'Fin'] interprÃ©tation
+
+['i', 'n', 't', 'e', 'r', 'p', 'r', 'Ã', '¨', 't', 'e', 'Fin'] interprÃ¨te
+
+['i', 'n', 't', 'e', 'r', 'r', 'Ã', '¨', 'g', 'n', 'e', 'Fin'] interrÃ¨gne
+
+['i', 'n', 't', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] intimitÃ©
+
+['i', 'n', 't', 'i', 't', 'u', 'l', 'Ã', '©', 'Fin'] intitulÃ©
+
+['i', 'n', 't', 'o', 'l', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] intolÃ©rance
+
+['i', 'n', 't', 'o', 'l', 'Ã', '©', 'r', 'a', 'n', 't', 'Fin'] intolÃ©rant
+
+['i', 'n', 'u', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inutilitÃ©
+
+['i', 'n', 'v', 'a', 'l', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] invaliditÃ©
+
+['i', 'n', 'v', 'a', 'r', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] invariabilitÃ©
+
+['i', 'n', 'v', 'i', 'n', 'c', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] invincibilitÃ©
+
+['i', 'n', 'v', 'i', 'o', 'l', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] inviolabilitÃ©
+
+['i', 'n', 'v', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] invisibilitÃ©
+
+['i', 'n', 'v', 'u', 'l', 'n', 'Ã', '©', 'r', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] invulnÃ©rabilitÃ©
+
+['i', 'r', 'a', 's', 'c', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] irascibilitÃ©
+
+['i', 'r', 'r', 'e', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] irrealitÃ©
+
+['i', 'r', 'r', 'e', 'c', 'e', 'v', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] irrecevabilitÃ©
+
+['i', 'r', 'r', 'e', 'g', 'u', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] irregularitÃ©
+
+['i', 'r', 'r', 'e', 'm', 'Ã', '©', 'd', 'i', 'a', 'b', 'l', 'e', 'Fin'] irremÃ©diable
+
+['i', 'r', 'r', 'e', 's', 'p', 'o', 'n', 's', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] irresponsabilitÃ©
+
+['i', 'r', 'r', 'e', 'v', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] irrevÃ©rence
+
+['i', 'r', 'r', 'e', 'v', 'e', 'r', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] irreversibilitÃ©
+
+['i', 'r', 'r', 'e', 'v', 'o', 'c', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] irrevocabilitÃ©
+
+['i', 'r', 'r', 'i', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] irritabilitÃ©
+
+['i', 's', 'r', 'a', 'Ã', '©', 'l', 'i', 't', 'e', 'Fin'] israÃ©lite
+
+['i', 't', 'i', 'n', 'Ã', '©', 'r', 'a', 'i', 'r', 'e', 'Fin'] itinÃ©raire
+
+['j', 'a', 'c', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] jachÃ¨re
+
+['j', 'a', 'm', 'b', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] jambiÃ¨re
+
+['j', 'a', 'n', 's', 'Ã', '©', 'n', 'i', 's', 't', 'e', 'Fin'] jansÃ©niste
+
+['j', 'a', 'r', 'd', 'i', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] jardiniÃ¨re
+
+['J', 'a', 'v', 'e', 'l', 'Fin'] Javel
+
+['j', 'e', 'a', 'n', '-', 'f', 'o', 'u', 't', 'r', 'e', 'Fin'] jean-foutre
+
+['j', 'o', 'u', 'r', 'n', 'Ã', '©', 'e', 'Fin'] journÃ©e
+
+['j', 'o', 'v', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] jovialitÃ©
+
+['j', 'u', 'd', 'a', 'Ã', '¯', 's', 'm', 'e', 'Fin'] judaÃ¯sme
+
+['j', 'u', 'm', 'b', 'o', '-', 'j', 'e', 't', 'Fin'] jumbo-jet
+
+['k', 'e', 'r', 'o', 's', 'Ã', '¨', 'n', 'e', 'Fin'] kerosÃ¨ne
+
+['k', 'i', 'l', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] kilomÃ¨tre
+
+['k', 'i', 'l', 'o', '-', 'o', 'c', 't', 'e', 't', 'Fin'] kilo-octet
+
+['k', 'i', 'n', 'e', 's', 'i', 't', 'h', 'Ã', '©', 'r', 'a', 'p', 'e', 'u', 't', 'e', 'Fin'] kinesithÃ©rapeute
+
+['k', 'n', 'o', 'c', 'k', '-', 'o', 'u', 't', 'Fin'] knock-out
+
+['k', 'n', 'o', 'w', '-', 'h', 'o', 'w', 'Fin'] know-how
+
+['l', 'a', 'c', 'h', 'e', 't', 'Ã', '©', 'Fin'] lachetÃ©
+
+['l', 'a', 'i', 's', 's', 'Ã', '©', '-', 'p', 'o', 'u', 'r', '-', 'c', 'o', 'm', 'p', 't', 'e', 'Fin'] laissÃ©-pour-compte
+
+['l', 'a', 'i', 's', 's', 'e', 'r', '-', 'a', 'l', 'l', 'e', 'r', 'Fin'] laisser-aller
+
+['l', 'a', 'i', 's', 's', 'e', 'z', '-', 'p', 'a', 's', 's', 'e', 'r', 'Fin'] laissez-passer
+
+['l', 'a', 'm', 'p', 'Ã', '©', 'e', 'Fin'] lampÃ©e
+
+['l', 'a', 'n', 'c', 'Ã', '©', 'e', 'Fin'] lancÃ©e
+
+['l', 'a', 'n', 'c', 'e', '-', 'f', 'u', 's', 'Ã', '©', 'e', 's', 'Fin'] lance-fusÃ©es
+
+['l', 'a', 'n', 'c', 'e', '-', 'm', 'i', 's', 's', 'i', 'l', 'e', 's', 'Fin'] lance-missiles
+
+['l', 'a', 'n', 'c', 'e', '-', 'p', 'i', 'e', 'r', 'r', 'e', 's', 'Fin'] lance-pierres
+
+['l', 'a', 'n', 'c', 'e', '-', 'r', 'o', 'q', 'u', 'e', 't', 't', 'e', 's', 'Fin'] lance-roquettes
+
+['l', 'a', 'n', 'g', 'u', 'e', '-', 'd', 'e', '-', 'b', 'o', 'e', 'u', 'f', 'Fin'] langue-de-boeuf
+
+['l', 'a', 'n', 'g', 'u', 'e', '-', 'd', 'e', '-', 'c', 'h', 'a', 't', 'Fin'] langue-de-chat
+
+['l', 'a', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] laniÃ¨re
+
+['l', 'a', 's', 'c', 'i', 'v', 'e', 't', 'Ã', '©', 'Fin'] lascivetÃ©
+
+['l', 'a', 't', 'i', 'n', 'o', '-', 'a', 'm', 'Ã', '©', 'r', 'i', 'c', 'a', 'i', 'n', 'Fin'] latino-amÃ©ricain
+
+['l', 'a', 'u', 'r', 'Ã', '©', 'a', 't', 'Fin'] laurÃ©at
+
+['l', 'a', 'v', 'e', '-', 'g', 'l', 'a', 'c', 'e', 'Fin'] lave-glace
+
+['l', 'a', 'v', 'e', '-', 'l', 'i', 'n', 'g', 'e', 'Fin'] lave-linge
+
+['l', 'e', 'c', 'h', 'e', '-', 'c', 'u', 'l', 'Fin'] leche-cul
+
+['l', 'e', 'c', 'h', 'e', '-', 'v', 'i', 't', 'r', 'i', 'n', 'e', 's', 'Fin'] leche-vitrines
+
+['l', 'e', 'g', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] legalitÃ©
+
+['l', 'e', 'g', 'e', 'r', 'e', 't', 'Ã', '©', 'Fin'] legeretÃ©
+
+['l', 'e', 'g', 'i', 't', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] legitimitÃ©
+
+['l', 'e', 'u', 'c', 'Ã', '©', 'm', 'i', 'e', 'Fin'] leucÃ©mie
+
+['l', 'i', 'b', 'e', 'l', 'l', 'Ã', '©', 'Fin'] libellÃ©
+
+['l', 'i', 'b', 'e', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] liberalitÃ©
+
+['l', 'i', 'b', 'e', 'r', 't', 'Ã', '©', 'Fin'] libertÃ©
+
+['l', 'i', 'b', 'r', 'e', '-', 'Ã', '©', 'c', 'h', 'a', 'n', 'g', 'e', 'Fin'] libre-Ã©change
+
+['l', 'i', 'b', 'r', 'e', '-', 'Ã', '©', 'c', 'h', 'a', 'n', 'g', 'i', 's', 't', 'e', 'Fin'] libre-Ã©changiste
+
+['l', 'i', 'b', 'r', 'e', '-', 's', 'e', 'r', 'v', 'i', 'c', 'e', 'Fin'] libre-service
+
+['l', 'i', 'g', 'n', 'Ã', '©', 'e', 'Fin'] lignÃ©e
+
+['l', 'i', 'm', 'a', 'Ã', '§', 'o', 'n', 'Fin'] limaÃ§on
+
+['l', 'i', 'm', 'p', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] limpiditÃ©
+
+['l', 'i', 'q', 'u', 'Ã', '©', 'f', 'a', 'c', 't', 'i', 'o', 'n', 'Fin'] liquÃ©faction
+
+['l', 'i', 'q', 'u', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] liquiditÃ©
+
+['l', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] lisibilitÃ©
+
+['l', 'i', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] lisiÃ¨re
+
+['l', 'i', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] litiÃ¨re
+
+['l', 'i', 't', 't', 'Ã', '©', 'r', 'a', 'i', 'r', 'e', 'Fin'] littÃ©raire
+
+['l', 'i', 't', 't', 'Ã', '©', 'r', 'a', 't', 'u', 'r', 'e', 'Fin'] littÃ©rature
+
+['l', 'i', 'v', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] lividitÃ©
+
+['l', 'i', 'v', 'r', 'Ã', '©', 'e', 'Fin'] livrÃ©e
+
+['l', 'o', 'c', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] localitÃ©
+
+['l', 'o', 'c', 'k', '-', 'o', 'u', 't', 'Fin'] lock-out
+
+['l', 'o', 'g', 'o', 'r', 'r', 'h', 'Ã', '©', 'e', 'Fin'] logorrhÃ©e
+
+['l', 'o', 'n', 'g', '-', 'c', 'o', 'u', 'r', 'r', 'i', 'e', 'r', 'Fin'] long-courrier
+
+['l', 'o', 'n', 'g', 'u', 'e', '-', 'v', 'u', 'e', 'Fin'] longue-vue
+
+['l', 'o', 'q', 'u', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] loquacitÃ©
+
+['l', 'o', 'u', 'p', '-', 'g', 'a', 'r', 'o', 'u', 'Fin'] loup-garou
+
+['l', 'o', 'y', 'a', 'u', 't', 'Ã', '©', 'Fin'] loyautÃ©
+
+['l', 'u', 'b', 'r', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] lubricitÃ©
+
+['l', 'u', 'c', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] luciditÃ©
+
+['l', 'u', 'm', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] lumiÃ¨re
+
+['l', 'u', 'm', 'i', 'n', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] luminositÃ©
+
+['m', 'a', 'c', 'c', 'h', 'a', 'b', 'Ã', '©', 'e', 'Fin'] macchabÃ©e
+
+['M', 'a', 'c', 'h', 'Fin'] Mach
+
+['m', 'a', 'g', 'h', 'r', 'Ã', '©', 'b', 'i', 'n', 'Fin'] maghrÃ©bin
+
+['m', 'a', 'g', 'n', 'a', 'n', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] magnanimitÃ©
+
+['m', 'a', 'g', 'n', 'Ã', '©', 't', 'i', 's', 'm', 'e', 'Fin'] magnÃ©tisme
+
+['m', 'a', 'g', 'n', 'Ã', '©', 't', 'o', 'p', 'h', 'o', 'n', 'e', 'Fin'] magnÃ©tophone
+
+['m', 'a', 'g', 'n', 'Ã', '©', 't', 'o', 's', 'c', 'o', 'p', 'e', 'Fin'] magnÃ©toscope
+
+['m', 'a', 'h', 'a', 'r', 'a', 'n', 'Ã', '©', 'Fin'] maharanÃ©
+
+['m', 'a', 'h', 'o', 'm', 'Ã', '©', 't', 'a', 'n', 'Fin'] mahomÃ©tan
+
+['m', 'a', 'i', 'n', '-', 'd', "'", 'o', 'e', 'u', 'v', 'r', 'e', 'Fin'] main-d'oeuvre
+
+['m', 'a', 'i', 'n', '-', 'f', 'o', 'r', 't', 'e', 'Fin'] main-forte
+
+['m', 'a', 'i', 's', 'o', 'n', 'n', 'Ã', '©', 'e', 'Fin'] maisonnÃ©e
+
+['m', 'a', 'j', 'e', 's', 't', 'Ã', '©', 'Fin'] majestÃ©
+
+['m', 'a', 'j', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] majoritÃ©
+
+['m', 'a', 'l', 'f', 'a', 'Ã', '§', 'o', 'n', 'Fin'] malfaÃ§on
+
+['m', 'a', 'l', 'i', 'g', 'n', 'i', 't', 'Ã', '©', 'Fin'] malignitÃ©
+
+['m', 'a', 'l', 'p', 'r', 'o', 'p', 'r', 'e', 't', 'Ã', '©', 'Fin'] malpropretÃ©
+
+['m', 'a', 'n', 'g', 'e', '-', 't', 'o', 'u', 't', 'Fin'] mange-tout
+
+['m', 'a', 'n', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] maniabilitÃ©
+
+['m', 'a', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] maniÃ¨re
+
+['m', 'a', 'n', 'o', 'e', 'u', 'v', 'r', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] manoeuvrabilitÃ©
+
+['m', 'a', 'n', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] manomÃ¨tre
+
+['m', 'a', 'n', 's', 'u', 'Ã', '©', 't', 'u', 'd', 'e', 'Fin'] mansuÃ©tude
+
+['m', 'a', 'r', 'a', 'Ã', '®', 'c', 'h', 'a', 'g', 'e', 'Fin'] maraÃ®chage
+
+['m', 'a', 'r', 'a', 'Ã', '®', 'c', 'h', 'e', 'r', 'Fin'] maraÃ®cher
+
+['m', 'a', 'r', 'e', 'c', 'h', 'a', 'l', '-', 'f', 'e', 'r', 'r', 'a', 'n', 't', 'Fin'] marechal-ferrant
+
+['m', 'a', 'r', 'e', 'c', 'h', 'a', 'u', 's', 's', 'Ã', '©', 'e', 'Fin'] marechaussÃ©e
+
+['m', 'a', 'r', 'g', 'i', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] marginalitÃ©
+
+['m', 'a', 'r', 'i', 'Ã', '©', 'Fin'] mariÃ©
+
+['m', 'a', 'r', 't', 'Ã', '¨', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] martÃ¨lement
+
+['m', 'a', 's', 'c', 'u', 'l', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] masculinitÃ©
+
+['m', "'", 'a', 's', '-', 't', 'u', '-', 'v', 'u', 'Fin'] m'as-tu-vu
+
+['m', 'a', 't', 'e', 'r', 'n', 'i', 't', 'Ã', '©', 'Fin'] maternitÃ©
+
+['m', 'a', 't', 'h', 'Ã', '©', 'm', 'a', 't', 'i', 'c', 'i', 'e', 'n', 'Fin'] mathÃ©maticien
+
+['m', 'a', 't', 'h', 'Ã', '©', 'm', 'a', 't', 'i', 'q', 'u', 'e', 'Fin'] mathÃ©matique
+
+['m', 'a', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] matiÃ¨re
+
+['m', 'a', 't', 'i', 'n', 'Ã', '©', 'e', 'Fin'] matinÃ©e
+
+['m', 'a', 't', 'u', 'r', 'i', 't', 'Ã', '©', 'Fin'] maturitÃ©
+
+['m', 'a', 'u', 's', 'o', 'l', 'Ã', '©', 'e', 'Fin'] mausolÃ©e
+
+['m', 'e', 'c', 'h', 'a', 'n', 'c', 'e', 't', 'Ã', '©', 'Fin'] mechancetÃ©
+
+['m', 'e', 'c', 'r', 'Ã', '©', 'a', 'n', 't', 'Fin'] mecrÃ©ant
+
+['m', 'e', 'd', 'i', 'o', 'c', 'r', 'i', 't', 'Ã', '©', 'Fin'] mediocritÃ©
+
+['m', 'e', 'd', 'i', 't', 'e', 'r', 'r', 'a', 'n', 'Ã', '©', 'e', 'n', 'Fin'] mediterranÃ©en
+
+['m', 'e', 'g', 'a', '-', 'o', 'c', 't', 'e', 't', 'Fin'] mega-octet
+
+['m', 'e', 'l', 'i', '-', 'm', 'Ã', '©', 'l', 'o', 'Fin'] meli-mÃ©lo
+
+['m', 'e', 'l', 't', 'i', 'n', 'g', '-', 'p', 'o', 't', 'Fin'] melting-pot
+
+['m', 'e', 'n', 'd', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] mendicitÃ©
+
+['m', 'e', 'n', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] mentalitÃ©
+
+['m', 'e', 'n', 't', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] mentonniÃ¨re
+
+['m', 'e', 'r', 'e', '-', 'g', 'r', 'a', 'n', 'd', 'Fin'] mere-grand
+
+['m', 'e', 't', 'i', 'c', 'u', 'l', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] meticulositÃ©
+
+['m', 'e', 'u', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] meuniÃ¨re
+
+['m', 'i', 'c', 'r', 'o', '-', 'o', 'n', 'd', 'e', 'Fin'] micro-onde
+
+['m', 'i', 'c', 'r', 'o', '-', 'o', 'r', 'd', 'i', 'n', 'a', 't', 'e', 'u', 'r', 'Fin'] micro-ordinateur
+
+['m', 'i', 'c', 'r', 'o', '-', 'o', 'r', 'g', 'a', 'n', 'i', 's', 'm', 'e', 'Fin'] micro-organisme
+
+['m', 'i', 'j', 'a', 'u', 'r', 'Ã', '©', 'e', 'Fin'] mijaurÃ©e
+
+['m', 'i', 'l', 'l', 'e', '-', 'f', 'e', 'u', 'i', 'l', 'l', 'e', 'Fin'] mille-feuille
+
+['m', 'i', 'l', 'l', 'e', '-', 'p', 'a', 't', 't', 'e', 's', 'Fin'] mille-pattes
+
+['m', 'i', 'l', 'l', 'Ã', '©', 's', 'i', 'm', 'e', 'Fin'] millÃ©sime
+
+['m', 'i', 'l', 'l', 'i', 'a', 'r', 'd', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] milliardiÃ¨me
+
+['m', 'i', 'n', 'i', 's', 't', 'Ã', '¨', 'r', 'e', 'Fin'] ministÃ¨re
+
+['M', 'i', 'n', 'i', 't', 'e', 'l', 'Fin'] Minitel
+
+['m', 'i', 'n', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] minoritÃ©
+
+['m', 'i', 'r', 'a', 'c', 'u', 'l', 'Ã', '©', 'Fin'] miraculÃ©
+
+['m', 'i', '-', 't', 'e', 'm', 'p', 's', 'Fin'] mi-temps
+
+['m', 'o', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] mobilitÃ©
+
+['m', 'o', 'd', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] modalitÃ©
+
+['m', 'o', 'd', 'e', 'r', 'n', 'i', 't', 'Ã', '©', 'Fin'] modernitÃ©
+
+['m', 'o', 'd', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] modicitÃ©
+
+['m', 'o', 'i', 'n', 's', '-', 'v', 'a', 'l', 'u', 'e', 'Fin'] moins-value
+
+['m', 'o', 'l', 'l', 'e', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] molletiÃ¨re
+
+['m', 'o', 'n', 'a', 's', 't', 'Ã', '¨', 'r', 'e', 'Fin'] monastÃ¨re
+
+['m', 'o', 'n', 'd', 'a', 'n', 'i', 't', 'Ã', '©', 'Fin'] mondanitÃ©
+
+['m', 'o', 'n', 'n', 'a', 'i', 'e', '-', 'd', 'u', '-', 'p', 'a', 'p', 'e', 'Fin'] monnaie-du-pape
+
+['m', 'o', 'n', 's', 't', 'r', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] monstruositÃ©
+
+['m', 'o', 'n', 't', 'e', '-', 'c', 'h', 'a', 'r', 'g', 'e', 'Fin'] monte-charge
+
+['m', 'o', 'n', 't', 'Ã', '©', 'e', 'Fin'] montÃ©e
+
+['m', 'o', 'n', 't', 'e', '-', 'p', 'l', 'a', 't', 's', 'Fin'] monte-plats
+
+['m', 'o', 'n', 't', 'g', 'o', 'l', 'f', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] montgolfiÃ¨re
+
+['m', 'o', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] moralitÃ©
+
+['m', 'o', 'r', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] morositÃ©
+
+['m', 'o', 'r', 'p', 'h', 'Ã', '¨', 'm', 'e', 'Fin'] morphÃ¨me
+
+['m', 'o', 'r', 't', '-', 'a', 'u', 'x', '-', 'r', 'a', 't', 's', 'Fin'] mort-aux-rats
+
+['m', 'o', 's', 'a', 'Ã', '¯', 'q', 'u', 'e', 'Fin'] mosaÃ¯que
+
+['m', 'o', 't', '-', 'c', 'l', 'e', 'f', 'Fin'] mot-clef
+
+['m', 'o', 't', 'r', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] motricitÃ©
+
+['m', 'u', 'c', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] mucositÃ©
+
+['m', 'u', 'l', 't', 'i', 'p', 'l', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] multiplicitÃ©
+
+['m', 'u', 'n', 'i', 'c', 'i', 'p', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] municipalitÃ©
+
+['m', 'u', 's', 'e', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] museliÃ¨re
+
+['m', 'u', 's', 'i', 'c', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] musicalitÃ©
+
+['m', 'u', 's', 'i', 'c', '-', 'h', 'a', 'l', 'l', 'Fin'] music-hall
+
+['m', 'y', 's', 't', 'Ã', '¨', 'r', 'e', 'Fin'] mystÃ¨re
+
+['n', 'a', 'i', 'v', 'e', 't', 'Ã', '©', 'Fin'] naivetÃ©
+
+['n', 'a', 'p', 'o', 'l', 'Ã', '©', 'o', 'n', 'Fin'] napolÃ©on
+
+['n', 'a', 'r', 'g', 'u', 'i', 'l', 'Ã', '©', 'Fin'] narguilÃ©
+
+['n', 'a', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] natalitÃ©
+
+['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] nationalitÃ©
+
+['n', 'a', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] nativitÃ©
+
+['n', 'a', 'u', 'f', 'r', 'a', 'g', 'Ã', '©', 'Fin'] naufragÃ©
+
+['n', 'e', 'b', 'u', 'l', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] nebulositÃ©
+
+['n', 'e', 'c', 'e', 's', 's', 'i', 't', 'Ã', '©', 'Fin'] necessitÃ©
+
+['n', 'e', 'g', 'l', 'i', 'g', 'Ã', '©', 'Fin'] negligÃ©
+
+['n', 'e', 'r', 'v', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] nervositÃ©
+
+['n', 'e', 't', 't', 'e', 't', 'Ã', '©', 'Fin'] nettetÃ©
+
+['n', 'e', 'u', 'r', 'a', 's', 't', 'h', 'Ã', '©', 'n', 'i', 'e', 'Fin'] neurasthÃ©nie
+
+['n', 'e', 'u', 'r', 'a', 's', 't', 'h', 'Ã', '©', 'n', 'i', 'q', 'u', 'e', 'Fin'] neurasthÃ©nique
+
+['n', 'e', 'u', 't', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] neutralitÃ©
+
+['n', 'e', 'v', 'r', 'o', 's', 'Ã', '©', 'Fin'] nevrosÃ©
+
+['n', 'i', 'c', 'h', 'Ã', '©', 'e', 'Fin'] nichÃ©e
+
+['n', 'i', 'g', 'h', 't', '-', 'c', 'l', 'u', 'b', 'Fin'] night-club
+
+['n', 'o', 'c', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] nocivitÃ©
+
+['n', 'o', 'n', '-', 'c', 'o', 'n', 'f', 'o', 'r', 'm', 'i', 's', 'm', 'e', 'Fin'] non-conformisme
+
+['n', 'o', 'n', '-', 'c', 'o', 'n', 'f', 'o', 'r', 'm', 'i', 't', 'Ã', '©', 'Fin'] non-conformitÃ©
+
+['n', 'o', 'n', '-', 'i', 'n', 'g', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] non-ingÃ©rence
+
+['n', 'o', 'n', '-', 'i', 'n', 't', 'e', 'r', 'v', 'e', 'n', 't', 'i', 'o', 'n', 'Fin'] non-intervention
+
+['n', 'o', 'n', '-', 'l', 'i', 'e', 'u', 'Fin'] non-lieu
+
+['n', 'o', 'n', '-', 'p', 'a', 'i', 'e', 'm', 'e', 'n', 't', 'Fin'] non-paiement
+
+['n', 'o', 'n', '-', 's', 'e', 'n', 's', 'Fin'] non-sens
+
+['n', 'o', 'r', 'd', '-', 'a', 'f', 'r', 'i', 'c', 'a', 'i', 'n', 'Fin'] nord-africain
+
+['n', 'o', 'r', 'd', '-', 'a', 'm', 'Ã', '©', 'r', 'i', 'c', 'a', 'i', 'n', 'Fin'] nord-amÃ©ricain
+
+['n', 'o', 'r', 'd', 'Ã', '©', 'Fin'] nordÃ©
+
+['n', 'o', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] notabilitÃ©
+
+['n', 'o', 'u', 'v', 'e', 'a', 'u', '-', 'n', 'Ã', '©', 'Fin'] nouveau-nÃ©
+
+['n', 'o', 'u', 'v', 'e', 'a', 'u', 't', 'Ã', '©', 'Fin'] nouveautÃ©
+
+['n', 'u', 'c', 'l', 'Ã', '©', 'a', 'i', 'r', 'e', 'Fin'] nuclÃ©aire
+
+['n', 'u', 'l', 'l', 'i', 't', 'Ã', '©', 'Fin'] nullitÃ©
+
+['n', 'y', 'm', 'p', 'h', 'Ã', '©', 'a', 'Fin'] nymphÃ©a
+
+['o', 'b', 'e', 's', 'i', 't', 'Ã', '©', 'Fin'] obesitÃ©
+
+['o', 'b', 'j', 'e', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] objectivitÃ©
+
+['o', 'b', 'l', 'i', 't', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] oblitÃ©ration
+
+['o', 'b', 's', 'c', 'u', 'r', 'i', 't', 'Ã', '©', 'Fin'] obscuritÃ©
+
+['o', 'b', 's', 'e', 'q', 'u', 'i', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] obsequiositÃ©
+
+['o', 'b', 's', 't', 'Ã', '©', 't', 'r', 'i', 'c', 'i', 'e', 'n', 'Fin'] obstÃ©tricien
+
+['o', 'b', 's', 't', 'Ã', '©', 't', 'r', 'i', 'q', 'u', 'e', 'Fin'] obstÃ©trique
+
+['o', 'd', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] odomÃ¨tre
+
+['o', 'd', 'y', 's', 's', 'Ã', '©', 'e', 'Fin'] odyssÃ©e
+
+['o', 'e', 'i', 'l', '-', 'd', 'e', '-', 'b', 'o', 'e', 'u', 'f', 'Fin'] oeil-de-boeuf
+
+['o', 'e', 'i', 'l', 'l', 'Ã', '¨', 'r', 'e', 'Fin'] oeillÃ¨re
+
+['o', 'e', 's', 't', 'r', 'o', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] oestrogÃ¨ne
+
+['o', 'i', 's', 'e', 'a', 'u', '-', 'm', 'o', 'u', 'c', 'h', 'e', 'Fin'] oiseau-mouche
+
+['o', 'i', 's', 'i', 'v', 'e', 't', 'Ã', '©', 'Fin'] oisivetÃ©
+
+['o', 'm', 'n', 'i', 'p', 'r', 'Ã', '©', 's', 'e', 'n', 'c', 'e', 'Fin'] omniprÃ©sence
+
+['o', 'n', 'c', 't', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] onctuositÃ©
+
+['o', 'n', '-', 'd', 'i', 't', 'Fin'] on-dit
+
+['o', 'n', 'g', 'l', 'Ã', '©', 'e', 'Fin'] onglÃ©e
+
+['o', 'p', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] opacitÃ©
+
+['o', 'p', 'p', 'o', 'r', 't', 'u', 'n', 'i', 't', 'Ã', '©', 'Fin'] opportunitÃ©
+
+['o', 'p', 't', 'o', 'm', 'Ã', '©', 't', 'r', 'i', 'e', 'Fin'] optomÃ©trie
+
+['o', 'r', 'c', 'h', 'i', 'd', 'Ã', '©', 'e', 'Fin'] orchidÃ©e
+
+['o', 'r', 'd', 'o', 'n', 'n', 'Ã', '©', 'e', 'Fin'] ordonnÃ©e
+
+['o', 'r', 'i', 'g', 'i', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] originalitÃ©
+
+['o', 'r', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] orniÃ¨re
+
+['o', 's', 't', 'r', 'Ã', '©', 'i', 'c', 'u', 'l', 't', 'e', 'u', 'r', 'Fin'] ostrÃ©iculteur
+
+['o', 's', 't', 'r', 'Ã', '©', 'i', 'c', 'u', 'l', 't', 'u', 'r', 'e', 'Fin'] ostrÃ©iculture
+
+['o', 't', 'o', '-', 'r', 'h', 'i', 'n', 'o', '-', 'l', 'a', 'r', 'y', 'n', 'g', 'o', 'l', 'o', 'g', 'i', 'e', 'Fin'] oto-rhino-laryngologie
+
+['o', 't', 'o', '-', 'r', 'h', 'i', 'n', 'o', '-', 'l', 'a', 'r', 'y', 'n', 'g', 'o', 'l', 'o', 'g', 'i', 's', 't', 'e', 'Fin'] oto-rhino-laryngologiste
+
+['o', 'u', 'i', '-', 'd', 'i', 'r', 'e', 'Fin'] oui-dire
+
+['o', 'u', 'v', 'r', 'e', '-', 'b', 'o', 'Ã', '®', 't', 'e', 'Fin'] ouvre-boÃ®te
+
+['o', 'u', 'v', 'r', 'e', '-', 'b', 'o', 'u', 't', 'e', 'i', 'l', 'l', 'e', 'Fin'] ouvre-bouteille
+
+['o', 'x', 'y', 'g', 'Ã', '¨', 'n', 'e', 'Fin'] oxygÃ¨ne
+
+['p', 'a', 'l', 'm', 'a', 'r', 'Ã', '¨', 's', 'Fin'] palmarÃ¨s
+
+['p', 'a', 'l', 'm', 'i', 'p', 'Ã', '¨', 'd', 'e', 'Fin'] palmipÃ¨de
+
+['p', 'a', 'm', 'p', 'h', 'l', 'Ã', '©', 't', 'a', 'i', 'r', 'e', 'Fin'] pamphlÃ©taire
+
+['p', 'a', 'n', 'a', 'c', 'Ã', '©', 'e', 'Fin'] panacÃ©e
+
+['p', 'a', 'n', 'e', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] panetiÃ¨re
+
+['p', 'a', 'n', 't', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] panthÃ¨re
+
+['p', 'a', 'p', 'a', 'u', 't', 'Ã', '©', 'Fin'] papautÃ©
+
+['p', 'a', 'r', 'a', 'c', 'h', 'Ã', '¨', 'v', 'e', 'm', 'e', 'n', 't', 'Fin'] parachÃ¨vement
+
+['p', 'a', 'r', 'a', 'l', 'l', 'Ã', '¨', 'l', 'e', 'Fin'] parallÃ¨le
+
+['p', 'a', 'r', 'a', 'l', 'l', 'Ã', '©', 'l', 'i', 's', 'm', 'e', 'Fin'] parallÃ©lisme
+
+['p', 'a', 'r', 'a', 'l', 'l', 'Ã', '©', 'l', 'o', 'g', 'r', 'a', 'm', 'm', 'e', 'Fin'] parallÃ©logramme
+
+['p', 'a', 'r', 'a', 'l', 'y', 's', 'Ã', '©', 'Fin'] paralysÃ©
+
+['p', 'a', 'r', 'a', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] paramÃ¨tre
+
+['p', 'a', 'r', 'a', 'n', 'o', 'Ã', '¯', 'a', 'Fin'] paranoÃ¯a
+
+['p', 'a', 'r', 'a', 'n', 'o', 'Ã', '¯', 'a', 'q', 'u', 'e', 'Fin'] paranoÃ¯aque
+
+['p', 'a', 'r', 'a', 'p', 'l', 'Ã', '©', 'g', 'i', 'e', 'Fin'] paraplÃ©gie
+
+['p', 'a', 'r', 'a', 'p', 'l', 'Ã', '©', 'g', 'i', 'q', 'u', 'e', 'Fin'] paraplÃ©gique
+
+['p', 'a', 'r', 'e', '-', 'Ã', '©', 't', 'i', 'n', 'c', 'e', 'l', 'l', 'e', 's', 'Fin'] pare-Ã©tincelles
+
+['p', 'a', 'r', 'e', '-', 'f', 'e', 'u', 'Fin'] pare-feu
+
+['p', 'a', 'r', 'e', 'n', 't', 'Ã', '©', 'Fin'] parentÃ©
+
+['p', 'a', 'r', 'e', 'n', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] parenthÃ¨se
+
+['p', 'a', 'r', 't', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] partialitÃ©
+
+['p', 'a', 'r', 't', 'i', 'c', 'u', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] particularitÃ©
+
+['p', 'a', 's', 's', 'e', '-', 'c', 'r', 'a', 's', 's', 'a', 'n', 'e', 'Fin'] passe-crassane
+
+['p', 'a', 's', 's', 'e', '-', 'd', 'r', 'o', 'i', 't', 'Fin'] passe-droit
+
+['p', 'a', 's', 's', 'e', '-', 'm', 'o', 'n', 't', 'a', 'g', 'n', 'e', 'Fin'] passe-montagne
+
+['p', 'a', 's', 's', 'e', '-', 'p', 'a', 'r', 't', 'o', 'u', 't', 'Fin'] passe-partout
+
+['p', 'a', 's', 's', 'e', '-', 'p', 'a', 's', 's', 'e', 'Fin'] passe-passe
+
+['p', 'a', 's', 's', 'e', '-', 'p', 'l', 'a', 't', 'Fin'] passe-plat
+
+['p', 'a', 's', 's', 'e', '-', 't', 'e', 'm', 'p', 's', 'Fin'] passe-temps
+
+['p', 'a', 's', 's', 'i', 'o', 'n', 'n', 'Ã', '©', 'Fin'] passionnÃ©
+
+['p', 'a', 's', 's', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] passivitÃ©
+
+['p', 'a', 's', 't', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] pastÃ¨que
+
+['p', 'a', 't', 'a', 'q', 'u', 'Ã', '¨', 's', 'Fin'] pataquÃ¨s
+
+['p', 'a', 't', 't', 'e', '-', 'd', "'", 'o', 'i', 'e', 'Fin'] patte-d'oie
+
+['p', 'a', 'u', 'p', 'Ã', '©', 'r', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] paupÃ©risation
+
+['p', 'a', 'u', 'v', 'r', 'e', 't', 'Ã', '©', 'Fin'] pauvretÃ©
+
+['p', 'e', 'l', 'e', '-', 'm', 'Ã', 'ª', 'l', 'e', 'Fin'] pele-mÃªle
+
+['p', 'e', 'l', 'l', 'e', 't', 'Ã', '©', 'e', 'Fin'] pelletÃ©e
+
+['p', 'e', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] penalitÃ©
+
+['p', 'e', 'n', 's', 'e', '-', 'b', 'Ã', 'ª', 't', 'e', 'Fin'] pense-bÃªte
+
+['p', 'e', 'n', 'u', 'l', 't', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] penultiÃ¨me
+
+['p', 'e', 'p', 'i', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] pepiniÃ¨re
+
+['p', 'e', 'p', 'i', 'n', 'i', 'Ã', '©', 'r', 'i', 's', 't', 'e', 'Fin'] pepiniÃ©riste
+
+['p', 'e', 'r', 'c', 'e', '-', 'm', 'u', 'r', 'a', 'i', 'l', 'l', 'e', 'Fin'] perce-muraille
+
+['p', 'e', 'r', 'c', 'e', '-', 'o', 'r', 'e', 'i', 'l', 'l', 'e', 'Fin'] perce-oreille
+
+['p', 'e', 'r', 'e', 's', 't', 'r', 'o', 'Ã', '¯', 'k', 'a', 'Fin'] perestroÃ¯ka
+
+['p', 'e', 'r', 'i', 'g', 'Ã', '©', 'e', 'Fin'] perigÃ©e
+
+['p', 'e', 'r', 'i', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] perimÃ¨tre
+
+['p', 'e', 'r', 'i', 'o', 'd', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] periodicitÃ©
+
+['p', 'e', 'r', 'i', 'p', 'a', 't', 'Ã', '©', 't', 'i', 'c', 'i', 'e', 'n', 'n', 'e', 'Fin'] peripatÃ©ticienne
+
+['p', 'e', 'r', 'i', 'p', 'Ã', '©', 't', 'i', 'e', 'Fin'] peripÃ©tie
+
+['p', 'e', 'r', 'i', 'p', 'h', 'Ã', '©', 'r', 'i', 'e', 'Fin'] periphÃ©rie
+
+['p', 'e', 'r', 'i', 'p', 'h', 'Ã', '©', 'r', 'i', 'q', 'u', 'e', 'Fin'] periphÃ©rique
+
+['p', 'e', 'r', 'p', 'l', 'e', 'x', 'i', 't', 'Ã', '©', 'Fin'] perplexitÃ©
+
+['p', 'e', 'r', 's', 'Ã', '©', 'c', 'u', 't', 'i', 'o', 'n', 'Fin'] persÃ©cution
+
+['p', 'e', 'r', 's', 'o', 'n', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] personnalitÃ©
+
+['p', 'e', 'r', 's', 'p', 'i', 'c', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] perspicacitÃ©
+
+['p', 'e', 'r', 'v', 'e', 'r', 's', 'i', 't', 'Ã', '©', 'Fin'] perversitÃ©
+
+['p', 'e', 's', 'e', '-', 'p', 'e', 'r', 's', 'o', 'n', 'n', 'e', 'Fin'] pese-personne
+
+['p', 'e', 't', '-', 'd', 'e', '-', 'n', 'o', 'n', 'n', 'e', 'Fin'] pet-de-nonne
+
+['p', 'e', 't', 'e', '-', 's', 'e', 'c', 'Fin'] pete-sec
+
+['p', 'e', 't', 'i', 't', '-', 'f', 'i', 'l', 's', 'Fin'] petit-fils
+
+['p', 'e', 't', 'i', 't', '-', 'l', 'a', 'i', 't', 'Fin'] petit-lait
+
+['p', 'h', 'a', 'r', 'm', 'a', 'c', 'o', 'p', 'Ã', '©', 'e', 'Fin'] pharmacopÃ©e
+
+['p', 'h', 'e', 'n', 'o', 'm', 'Ã', '¨', 'n', 'e', 'Fin'] phenomÃ¨ne
+
+['p', 'h', 'o', 'n', 'Ã', '¨', 'm', 'e', 'Fin'] phonÃ¨me
+
+['p', 'h', 'o', 'n', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] phonÃ©tique
+
+['p', 'h', 'o', 't', 'o', 's', 'y', 'n', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] photosynthÃ¨se
+
+['p', 'h', 'r', 'a', 's', 'Ã', '©', 'o', 'l', 'o', 'g', 'i', 'e', 'Fin'] phrasÃ©ologie
+
+['p', 'h', 'y', 'l', 'a', 'c', 't', 'Ã', '¨', 'r', 'e', 'Fin'] phylactÃ¨re
+
+['p', 'i', 'e', 'd', '-', 'Ã', '\xa0', '-', 't', 'e', 'r', 'r', 'e', 'Fin'] pied-Ã -terre
+
+['p', 'i', 'e', 'd', '-', 'd', "'", 'a', 'l', 'o', 'u', 'e', 't', 't', 'e', 'Fin'] pied-d'alouette
+
+['p', 'i', 'e', 'd', '-', 'd', 'e', '-', 'b', 'i', 'c', 'h', 'e', 'Fin'] pied-de-biche
+
+['p', 'i', 'e', 'd', '-', 'd', 'e', '-', 'p', 'o', 'u', 'l', 'e', 'Fin'] pied-de-poule
+
+['p', 'i', 'e', '-', 'g', 'r', 'i', 'Ã', '¨', 'c', 'h', 'e', 'Fin'] pie-griÃ¨che
+
+['p', 'i', 'l', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] pilositÃ©
+
+['p', 'i', 'm', 'b', 'Ã', 'ª', 'c', 'h', 'e', 'Fin'] pimbÃªche
+
+['p', 'i', 'n', 'c', 'e', '-', 'm', 'o', 'n', 's', 'e', 'i', 'g', 'n', 'e', 'u', 'r', 'Fin'] pince-monseigneur
+
+['p', 'i', 'n', 'c', 'e', '-', 'n', 'e', 'z', 'Fin'] pince-nez
+
+['p', 'i', 'n', 'c', 'e', '-', 's', 'a', 'n', 's', '-', 'r', 'i', 'r', 'e', 'Fin'] pince-sans-rire
+
+['p', 'i', 'n', 'g', '-', 'p', 'o', 'n', 'g', 'Fin'] ping-pong
+
+['p', 'i', 'q', 'u', 'e', '-', 'a', 's', 's', 'i', 'e', 't', 't', 'e', 'Fin'] pique-assiette
+
+['p', 'i', 'q', 'u', 'e', '-', 'n', 'i', 'q', 'u', 'e', 'Fin'] pique-nique
+
+['p', 'i', 'q', 'u', 'e', '-', 'n', 'i', 'q', 'u', 'e', 'u', 'r', 'Fin'] pique-niqueur
+
+['p', 'i', 's', '-', 'a', 'l', 'l', 'e', 'r', 'Fin'] pis-aller
+
+['p', 'i', 's', 's', 'a', 'l', 'a', 'd', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] pissaladiÃ¨re
+
+['p', 'i', 's', 's', 'e', '-', 'v', 'i', 'n', 'a', 'i', 'g', 'r', 'e', 'Fin'] pisse-vinaigre
+
+['p', 'i', 't', 'h', 'Ã', '©', 'c', 'a', 'n', 't', 'h', 'r', 'o', 'p', 'e', 'Fin'] pithÃ©canthrope
+
+['p', 'l', 'a', 'c', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] placiditÃ©
+
+['p', 'l', 'a', 'n', 'Ã', '¨', 't', 'e', 'Fin'] planÃ¨te
+
+['p', 'l', 'a', 's', 't', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] plasticitÃ©
+
+['p', 'l', 'a', 't', 'e', '-', 'b', 'a', 'n', 'd', 'e', 'Fin'] plate-bande
+
+['p', 'l', 'a', 't', 'Ã', '©', 'e', 'Fin'] platÃ©e
+
+['p', 'l', 'a', 't', 'e', '-', 'f', 'o', 'r', 'm', 'e', 'Fin'] plate-forme
+
+['p', 'l', 'a', 'u', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] plausibilitÃ©
+
+['p', 'l', 'a', 'y', '-', 'b', 'a', 'c', 'k', 'Fin'] play-back
+
+['p', 'l', 'a', 'y', '-', 'b', 'o', 'y', 'Fin'] play-boy
+
+['p', 'l', 'e', 'i', 'n', '-', 't', 'e', 'm', 'p', 's', 'Fin'] plein-temps
+
+['p', 'l', 'o', 'n', 'g', 'Ã', '©', 'e', 'Fin'] plongÃ©e
+
+['p', 'l', 'u', 'm', '-', 'p', 'u', 'd', 'd', 'i', 'n', 'g', 'Fin'] plum-pudding
+
+['p', 'l', 'u', 'r', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] pluralitÃ©
+
+['p', 'l', 'u', 's', '-', 'v', 'a', 'l', 'u', 'e', 'Fin'] plus-value
+
+['p', 'o', 'e', 'l', 'Ã', '©', 'e', 'Fin'] poelÃ©e
+
+['p', 'o', 'i', 'g', 'n', 'Ã', '©', 'e', 'Fin'] poignÃ©e
+
+['p', 'o', 'i', 'n', 'Ã', '§', 'o', 'n', 'Fin'] poinÃ§on
+
+['p', 'o', 'i', 'n', 'Ã', '§', 'o', 'n', 'n', 'a', 'g', 'e', 'Fin'] poinÃ§onnage
+
+['p', 'o', 'i', 'n', 'Ã', '§', 'o', 'n', 'n', 'e', 'u', 'r', 'Fin'] poinÃ§onneur
+
+['p', 'o', 'i', 'n', 'Ã', '§', 'o', 'n', 'n', 'e', 'u', 's', 'e', 'Fin'] poinÃ§onneuse
+
+['p', 'o', 'i', 'n', 't', 'i', 'l', 'l', 'Ã', '©', 'Fin'] pointillÃ©
+
+['p', 'o', 'i', 'n', 't', '-', 'v', 'i', 'r', 'g', 'u', 'l', 'e', 'Fin'] point-virgule
+
+['p', 'o', 'i', 'v', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] poivriÃ¨re
+
+['p', 'o', 'l', 'i', 'o', 'm', 'y', 'Ã', '©', 'l', 'i', 't', 'e', 'Fin'] poliomyÃ©lite
+
+['p', 'o', 'n', 'c', 't', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] ponctualitÃ©
+
+['p', 'o', 'n', 'd', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] pondÃ©ration
+
+['p', 'o', 'p', '-', 'c', 'o', 'r', 'n', 'Fin'] pop-corn
+
+['p', 'o', 'p', 'u', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] popularitÃ©
+
+['p', 'o', 'r', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] porositÃ©
+
+['p', 'o', 'r', 't', 'e', '-', 'Ã', '\xa0', '-', 'f', 'a', 'u', 'x', 'Fin'] porte-Ã -faux
+
+['p', 'o', 'r', 't', 'e', '-', 'Ã', '\xa0', '-', 'p', 'o', 'r', 't', 'e', 'Fin'] porte-Ã -porte
+
+['p', 'o', 'r', 't', 'e', '-', 'a', 'v', 'i', 'o', 'n', 's', 'Fin'] porte-avions
+
+['p', 'o', 'r', 't', 'e', '-', 'b', 'a', 'g', 'a', 'g', 'e', 's', 'Fin'] porte-bagages
+
+['p', 'o', 'r', 't', 'e', '-', 'b', 'i', 'l', 'l', 'e', 't', 's', 'Fin'] porte-billets
+
+['p', 'o', 'r', 't', 'e', '-', 'b', 'o', 'n', 'h', 'e', 'u', 'r', 'Fin'] porte-bonheur
+
+['p', 'o', 'r', 't', 'e', '-', 'b', 'o', 'u', 't', 'e', 'i', 'l', 'l', 'e', 's', 'Fin'] porte-bouteilles
+
+['p', 'o', 'r', 't', 'e', '-', 'c', 'a', 'r', 't', 'e', 's', 'Fin'] porte-cartes
+
+['p', 'o', 'r', 't', 'e', '-', 'c', 'i', 'g', 'a', 'r', 'e', 's', 'Fin'] porte-cigares
+
+['p', 'o', 'r', 't', 'e', '-', 'c', 'i', 'g', 'a', 'r', 'e', 't', 't', 'e', 's', 'Fin'] porte-cigarettes
+
+['p', 'o', 'r', 't', 'e', '-', 'c', 'o', 'n', 't', 'e', 'n', 'e', 'u', 'r', 's', 'Fin'] porte-conteneurs
+
+['p', 'o', 'r', 't', 'e', '-', 'd', 'o', 'c', 'u', 'm', 'e', 'n', 't', 's', 'Fin'] porte-documents
+
+['p', 'o', 'r', 't', 'e', '-', 'd', 'r', 'a', 'p', 'e', 'a', 'u', 'Fin'] porte-drapeau
+
+['p', 'o', 'r', 't', 'Ã', '©', 'e', 'Fin'] portÃ©e
+
+['p', 'o', 'r', 't', 'e', '-', 'm', 'o', 'n', 'n', 'a', 'i', 'e', 'Fin'] porte-monnaie
+
+['p', 'o', 'r', 't', 'e', '-', 'p', 'a', 'r', 'o', 'l', 'e', 'Fin'] porte-parole
+
+['p', 'o', 'r', 't', 'e', '-', 'p', 'l', 'u', 'm', 'e', 'Fin'] porte-plume
+
+['p', 'o', 'r', 't', 'e', '-', 'v', 'o', 'i', 'x', 'Fin'] porte-voix
+
+['p', 'o', 'r', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] portiÃ¨re
+
+['p', 'o', 's', 'i', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] positivitÃ©
+
+['p', 'o', 's', 's', 'Ã', '©', 'd', 'a', 'n', 't', 'Fin'] possÃ©dant
+
+['p', 'o', 's', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] possibilitÃ©
+
+['p', 'o', 's', 't', 'Ã', '©', 'r', 'i', 'e', 'u', 'r', 'Fin'] postÃ©rieur
+
+['p', 'o', 's', 't', '-', 's', 'c', 'r', 'i', 'p', 't', 'u', 'm', 'Fin'] post-scriptum
+
+['p', 'o', 't', '-', 'a', 'u', '-', 'f', 'e', 'u', 'Fin'] pot-au-feu
+
+['p', 'o', 't', '-', 'd', 'e', '-', 'v', 'i', 'n', 'Fin'] pot-de-vin
+
+['p', 'o', 't', 'e', 'n', 't', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] potentialitÃ©
+
+['p', 'o', 't', '-', 'p', 'o', 'u', 'r', 'r', 'i', 'Fin'] pot-pourri
+
+['p', 'o', 'u', 'd', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] poudriÃ¨re
+
+['p', 'o', 'u', 'p', 'Ã', '©', 'e', 'Fin'] poupÃ©e
+
+['p', 'o', 'u', 'p', 'o', 'n', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] pouponniÃ¨re
+
+['p', 'o', 'u', 's', 's', 'e', '-', 'c', 'a', 'f', 'Ã', '©', 'Fin'] pousse-cafÃ©
+
+['p', 'o', 'u', 's', 's', 'Ã', '©', 'e', 'Fin'] poussÃ©e
+
+['p', 'o', 'u', 's', 's', 'e', '-', 'p', 'o', 'u', 's', 's', 'e', 'Fin'] pousse-pousse
+
+['p', 'o', 'u', 's', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] poussiÃ¨re
+
+['p', 'r', 'e', 'c', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] precaritÃ©
+
+['p', 'r', 'e', 'c', 'Ã', '©', 'd', 'e', 'n', 't', 'Fin'] precÃ©dent
+
+['p', 'r', 'e', 'c', 'i', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] preciositÃ©
+
+['p', 'r', 'e', 'c', 'o', 'c', 'i', 't', 'Ã', '©', 'Fin'] precocitÃ©
+
+['p', 'r', 'e', 'd', 'Ã', '©', 'c', 'e', 's', 's', 'e', 'u', 'r', 'Fin'] predÃ©cesseur
+
+['p', 'r', 'e', 'f', 'Ã', '©', 'r', 'e', 'n', 'c', 'e', 'Fin'] prefÃ©rence
+
+['p', 'r', 'e', 'j', 'u', 'g', 'Ã', '©', 'Fin'] prejugÃ©
+
+['p', 'r', 'e', 'l', 'Ã', '¨', 'v', 'e', 'm', 'e', 'n', 't', 'Fin'] prelÃ¨vement
+
+['p', 'r', 'e', 'm', 'a', 't', 'u', 'r', 'Ã', '©', 'Fin'] prematurÃ©
+
+['p', 'r', 'e', 'm', 'i', 'e', 'r', '-', 'n', 'Ã', '©', 'Fin'] premier-nÃ©
+
+['p', 'r', 'e', 'p', 'o', 'n', 'd', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] prepondÃ©rance
+
+['p', 'r', 'e', 'p', 'o', 's', 'Ã', '©', 'Fin'] preposÃ©
+
+['p', 'r', 'e', 's', 'b', 'y', 't', 'Ã', '¨', 'r', 'e', 'Fin'] presbytÃ¨re
+
+['p', 'r', 'e', 's', 'Ã', '©', 'a', 'n', 'c', 'e', 'Fin'] presÃ©ance
+
+['p', 'r', 'e', 's', 'q', 'u', "'", 'Ã', '®', 'l', 'e', 'Fin'] presqu'Ã®le
+
+['p', 'r', 'e', 's', 's', '-', 'b', 'o', 'o', 'k', 'Fin'] press-book
+
+['p', 'r', 'e', 's', 's', 'e', '-', 'c', 'i', 't', 'r', 'o', 'n', 'Fin'] presse-citron
+
+['p', 'r', 'e', 's', 's', 'e', '-', 'f', 'r', 'u', 'i', 't', 's', 'Fin'] presse-fruits
+
+['p', 'r', 'e', 's', 's', 'e', '-', 'p', 'a', 'p', 'i', 'e', 'r', 's', 'Fin'] presse-papiers
+
+['p', 'r', 'e', 't', '-', 'Ã', '\xa0', '-', 'p', 'o', 'r', 't', 'e', 'r', 'Fin'] pret-Ã -porter
+
+['p', 'r', 'e', 't', 'e', '-', 'n', 'o', 'm', 'Fin'] prete-nom
+
+['p', 'r', 'i', 'e', '-', 'D', 'i', 'e', 'u', 'Fin'] prie-Dieu
+
+['p', 'r', 'i', 'e', 'u', 'r', 'Ã', '©', 'Fin'] prieurÃ©
+
+['p', 'r', 'i', 'm', 'a', 'u', 't', 'Ã', '©', 'Fin'] primautÃ©
+
+['p', 'r', 'i', 'm', 'e', 'v', 'Ã', '¨', 'r', 'e', 'Fin'] primevÃ¨re
+
+['p', 'r', 'i', 'n', 'c', 'i', 'p', 'a', 'u', 't', 'Ã', '©', 'Fin'] principautÃ©
+
+['p', 'r', 'i', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] prioritÃ©
+
+['p', 'r', 'i', 'v', 'i', 'l', 'Ã', '¨', 'g', 'e', 'Fin'] privilÃ¨ge
+
+['p', 'r', 'o', 'b', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] probabilitÃ©
+
+['p', 'r', 'o', 'b', 'i', 't', 'Ã', '©', 'Fin'] probitÃ©
+
+['p', 'r', 'o', 'b', 'l', 'Ã', '©', 'm', 'a', 't', 'i', 'q', 'u', 'e', 'Fin'] problÃ©matique
+
+['p', 'r', 'o', 'b', 'l', 'Ã', '¨', 'm', 'e', 'Fin'] problÃ¨me
+
+['p', 'r', 'o', 'c', 'Ã', '©', 'd', 'u', 'r', 'e', 'Fin'] procÃ©dure
+
+['p', 'r', 'o', 'c', 'Ã', '¨', 's', '-', 'v', 'e', 'r', 'b', 'a', 'l', 'Fin'] procÃ¨s-verbal
+
+['p', 'r', 'o', 'c', 'r', 'Ã', '©', 'a', 't', 'i', 'o', 'n', 'Fin'] procrÃ©ation
+
+['p', 'r', 'o', 'd', 'i', 'g', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] prodigalitÃ©
+
+['p', 'r', 'o', 'd', 'u', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] productivitÃ©
+
+['p', 'r', 'o', 'f', 'i', 'l', 'Ã', '©', 'Fin'] profilÃ©
+
+['p', 'r', 'o', 'g', 'Ã', '©', 'n', 'i', 't', 'u', 'r', 'e', 'Fin'] progÃ©niture
+
+['p', 'r', 'o', 'g', 'e', 's', 't', 'Ã', '©', 'r', 'o', 'n', 'e', 'Fin'] progestÃ©rone
+
+['p', 'r', 'o', 'g', 'r', 'Ã', '¨', 's', 'Fin'] progrÃ¨s
+
+['p', 'r', 'o', 'l', 'Ã', '©', 't', 'a', 'i', 'r', 'e', 'Fin'] prolÃ©taire
+
+['p', 'r', 'o', 'l', 'Ã', '©', 't', 'a', 'r', 'i', 'a', 't', 'Fin'] prolÃ©tariat
+
+['p', 'r', 'o', 'l', 'i', 'f', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] prolifÃ©ration
+
+['p', 'r', 'o', 'l', 'i', 'f', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] prolificitÃ©
+
+['p', 'r', 'o', 'l', 'i', 'x', 'i', 't', 'Ã', '©', 'Fin'] prolixitÃ©
+
+['p', 'r', 'o', 'm', 'i', 's', 'c', 'u', 'i', 't', 'Ã', '©', 'Fin'] promiscuitÃ©
+
+['p', 'r', 'o', 'p', 'h', 'Ã', '¨', 't', 'e', 'Fin'] prophÃ¨te
+
+['p', 'r', 'o', 'p', 'h', 'Ã', '©', 't', 'i', 'e', 'Fin'] prophÃ©tie
+
+['p', 'r', 'o', 'p', 'r', 'e', '-', 'Ã', '\xa0', '-', 'r', 'i', 'e', 'n', 'Fin'] propre-Ã -rien
+
+['p', 'r', 'o', 'p', 'r', 'e', 't', 'Ã', '©', 'Fin'] propretÃ©
+
+['p', 'r', 'o', 'p', 'r', 'i', 'Ã', '©', 't', 'a', 'i', 'r', 'e', 'Fin'] propriÃ©taire
+
+['p', 'r', 'o', 's', 'a', 'Ã', '¯', 's', 'm', 'e', 'Fin'] prosaÃ¯sme
+
+['p', 'r', 'o', 's', 'Ã', '©', 'l', 'y', 't', 'e', 'Fin'] prosÃ©lyte
+
+['p', 'r', 'o', 's', 'Ã', '©', 'l', 'y', 't', 'i', 's', 'm', 'e', 'Fin'] prosÃ©lytisme
+
+['p', 'r', 'o', 's', 't', 'i', 't', 'u', 'Ã', '©', 'Fin'] prostituÃ©
+
+['p', 'r', 'o', 't', 'Ã', '¨', 'g', 'e', '-', 'c', 'a', 'h', 'i', 'e', 'r', 'Fin'] protÃ¨ge-cahier
+
+['p', 'r', 'o', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] prothÃ¨se
+
+['p', 'r', 'o', 't', 'u', 'b', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] protubÃ©rance
+
+['p', 'r', 'o', 'v', 'e', 'n', 'Ã', '§', 'a', 'l', 'Fin'] provenÃ§al
+
+['p', 'r', 'o', 'x', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] proximitÃ©
+
+['p', 'u', 'b', 'e', 'r', 't', 'Ã', '©', 'Fin'] pubertÃ©
+
+['p', 'u', 'b', 'l', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] publicitÃ©
+
+['p', 'u', 'd', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] pudicitÃ©
+
+['p', 'u', 'e', 'r', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] puerilitÃ©
+
+['p', 'u', 'l', 'l', '-', 'o', 'v', 'e', 'r', 'Fin'] pull-over
+
+['p', 'u', 'l', 'v', 'Ã', '©', 'r', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] pulvÃ©risation
+
+['p', 'u', 'r', '-', 's', 'a', 'n', 'g', 'Fin'] pur-sang
+
+['p', 'u', 's', 'i', 'l', 'l', 'a', 'n', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] pusillanimitÃ©
+
+['p', 'u', 't', 'r', 'Ã', '©', 'f', 'a', 'c', 't', 'i', 'o', 'n', 'Fin'] putrÃ©faction
+
+['q', 'u', 'a', 'd', 'r', 'a', 'g', 'Ã', '©', 'n', 'a', 'i', 'r', 'e', 'Fin'] quadragÃ©naire
+
+['q', 'u', 'a', 'd', 'r', 'i', 'l', 'a', 't', 'Ã', '¨', 'r', 'e', 'Fin'] quadrilatÃ¨re
+
+['q', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] qualitÃ©
+
+['q', 'u', 'a', 'n', 't', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] quantiÃ¨me
+
+['q', 'u', 'a', 'n', 't', 'i', 't', 'Ã', '©', 'Fin'] quantitÃ©
+
+['q', 'u', 'a', 'r', 't', '-', 'd', 'e', '-', 'r', 'o', 'n', 'd', 'Fin'] quart-de-rond
+
+['q', 'u', 'a', 't', 'r', 'e', '-', 'q', 'u', 'a', 'r', 't', 's', 'Fin'] quatre-quarts
+
+['q', 'u', 'a', 't', 'r', 'e', '-', 'q', 'u', 'a', 't', 'r', 'e', 'Fin'] quatre-quatre
+
+['q', 'u', 'a', 't', 'r', 'e', '-', 'v', 'i', 'n', 'g', 't', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] quatre-vingtiÃ¨me
+
+['q', 'u', 'a', 't', 'r', 'e', '-', 'v', 'i', 'n', 'g', 't', 'Fin'] quatre-vingt
+
+['q', 'u', 'e', 'b', 'Ã', '©', 'c', 'i', 's', 'm', 'e', 'Fin'] quebÃ©cisme
+
+['q', 'u', 'e', 'b', 'Ã', '©', 'c', 'o', 'i', 's', 'Fin'] quebÃ©cois
+
+['q', 'u', 'e', 'u', 'e', '-', 'd', 'e', '-', 'c', 'h', 'e', 'v', 'a', 'l', 'Fin'] queue-de-cheval
+
+['q', 'u', 'o', 't', 'e', '-', 'p', 'a', 'r', 't', 'Fin'] quote-part
+
+['r', 'a', 'b', 'a', 't', '-', 'j', 'o', 'i', 'e', 'Fin'] rabat-joie
+
+['r', 'a', 'd', 'i', 'o', 't', 'h', 'Ã', '©', 'r', 'a', 'p', 'i', 'e', 'Fin'] radiothÃ©rapie
+
+['r', 'a', 'f', 'r', 'a', 'Ã', '®', 'c', 'h', 'i', 's', 's', 'e', 'm', 'e', 'n', 't', 'Fin'] rafraÃ®chissement
+
+['r', 'a', 'g', 'o', 'Ã', '»', 't', 'Fin'] ragoÃ»t
+
+['r', 'a', 'm', 'a', 's', 's', 'e', '-', 'm', 'i', 'e', 't', 't', 'e', 's', 'Fin'] ramasse-miettes
+
+['r', 'a', 'n', 'd', 'o', 'n', 'n', 'Ã', '©', 'e', 'Fin'] randonnÃ©e
+
+['r', 'a', 'p', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] rapacitÃ©
+
+['r', 'a', 'p', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] rapiditÃ©
+
+['r', 'a', 'p', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] rapiÃ¨re
+
+['r', 'a', 's', '-', 'l', 'e', '-', 'b', 'o', 'l', 'Fin'] ras-le-bol
+
+['r', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] rationalitÃ©
+
+['r', 'e', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] realitÃ©
+
+['r', 'e', 'a', 'm', 'Ã', '©', 'n', 'a', 'g', 'e', 'm', 'e', 'n', 't', 'Fin'] reamÃ©nagement
+
+['r', 'e', 'c', 'e', 'p', 'i', 's', 's', 'Ã', '©', 'Fin'] recepissÃ©
+
+['r', 'e', 'c', 'e', 'p', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] receptivitÃ©
+
+['r', 'e', 'c', 'i', 'p', 'r', 'o', 'c', 'i', 't', 'Ã', '©', 'Fin'] reciprocitÃ©
+
+['r', 'e', 'c', 'r', 'Ã', '©', 'a', 't', 'i', 'o', 'n', 'Fin'] recrÃ©ation
+
+['r', 'e', 'c', 'u', 'p', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] recupÃ©ration
+
+['r', 'e', 'f', 'r', 'i', 'g', 'Ã', '©', 'r', 'a', 't', 'e', 'u', 'r', 'Fin'] refrigÃ©rateur
+
+['r', 'e', 'f', 'r', 'i', 'g', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] refrigÃ©ration
+
+['r', 'e', 'f', 'u', 'g', 'i', 'Ã', '©', 'Fin'] refugiÃ©
+
+['r', 'e', 'g', 'u', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] regularitÃ©
+
+['r', 'e', 'i', 'n', 'e', '-', 'c', 'l', 'a', 'u', 'd', 'e', 'Fin'] reine-claude
+
+['r', 'e', 'i', 't', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] reitÃ©ration
+
+['r', 'e', 'm', 'o', 'n', 't', 'Ã', '©', 'e', 'Fin'] remontÃ©e
+
+['r', 'e', 'm', 'o', 'n', 't', 'e', '-', 'p', 'e', 'n', 't', 'e', 'Fin'] remonte-pente
+
+['r', 'e', 'm', 'p', 'l', 'a', 'Ã', '§', 'a', 'n', 't', 'Fin'] remplaÃ§ant
+
+['r', 'e', 'm', 'u', 'e', '-', 'm', 'Ã', '©', 'n', 'a', 'g', 'e', 'Fin'] remue-mÃ©nage
+
+['r', 'e', 'm', 'u', 'e', '-', 'm', 'Ã', '©', 'n', 'i', 'n', 'g', 'e', 's', 'Fin'] remue-mÃ©ninges
+
+['r', 'e', 'm', 'u', 'n', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] remunÃ©ration
+
+['r', 'e', 'n', 'c', 'h', 'Ã', '©', 'r', 'i', 's', 's', 'e', 'm', 'e', 'n', 't', 'Fin'] renchÃ©rissement
+
+['r', 'e', 'n', 'd', 'e', 'z', '-', 'v', 'o', 'u', 's', 'Fin'] rendez-vous
+
+['r', 'e', 'n', 'f', 'e', 'r', 'm', 'Ã', '©', 'Fin'] renfermÃ©
+
+['r', 'e', 'n', 'o', 'm', 'm', 'Ã', '©', 'e', 'Fin'] renommÃ©e
+
+['r', 'e', 'n', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] rentabilitÃ©
+
+['r', 'e', 'n', 't', 'r', 'Ã', '©', 'e', 'Fin'] rentrÃ©e
+
+['r', 'e', 'p', 'o', 's', 'e', '-', 't', 'Ã', 'ª', 't', 'e', 'Fin'] repose-tÃªte
+
+['r', 'e', 'p', 'r', 'Ã', '©', 's', 'a', 'i', 'l', 'l', 'e', 's', 'Fin'] reprÃ©sailles
+
+['r', 'e', 'p', 'r', 'Ã', '©', 's', 'e', 'n', 't', 'a', 'n', 't', 'Fin'] reprÃ©sentant
+
+['r', 'e', 'p', 'r', 'Ã', '©', 's', 'e', 'n', 't', 'a', 't', 'i', 'o', 'n', 'Fin'] reprÃ©sentation
+
+['r', 'e', 'q', 'u', 'Ã', '©', 'r', 'a', 'n', 't', 'Fin'] requÃ©rant
+
+['r', 'e', 'q', 'u', 'Ã', 'ª', 't', 'e', 'Fin'] requÃªte
+
+['r', 'e', 's', 'c', 'a', 'p', 'Ã', '©', 'Fin'] rescapÃ©
+
+['r', 'e', 's', 'p', 'e', 'c', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] respectabilitÃ©
+
+['r', 'e', 's', 'p', 'o', 'n', 's', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] responsabilitÃ©
+
+['r', 'e', 't', 'o', 'm', 'b', 'Ã', '©', 'e', 'Fin'] retombÃ©e
+
+['r', 'e', 't', 'r', 'a', 'i', 't', 'Ã', '©', 'Fin'] retraitÃ©
+
+['r', 'e', 't', 'r', 'Ã', '©', 'c', 'i', 's', 's', 'e', 'm', 'e', 'n', 't', 'Fin'] retrÃ©cissement
+
+['r', 'e', 't', 'r', 'o', 'a', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] retroactivitÃ©
+
+['r', 'e', 'v', 'e', 'i', 'l', 'l', 'e', '-', 'm', 'a', 't', 'i', 'n', 'Fin'] reveille-matin
+
+['r', 'e', 'v', 'e', 'r', 'b', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] reverbÃ©ration
+
+['r', 'e', 'v', 'e', 'r', 'b', 'Ã', '¨', 'r', 'e', 'Fin'] reverbÃ¨re
+
+['r', 'e', 'v', 'e', 'r', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] reversibilitÃ©
+
+['r', 'e', 'v', 'o', 'l', 't', 'Ã', '©', 'Fin'] revoltÃ©
+
+['r', 'e', 'z', '-', 'd', 'e', '-', 'c', 'h', 'a', 'u', 's', 's', 'Ã', '©', 'e', 'Fin'] rez-de-chaussÃ©e
+
+['r', 'i', 'g', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] rigiditÃ©
+
+['r', 'i', 'v', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] rivalitÃ©
+
+['r', 'i', 'v', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] riviÃ¨re
+
+['r', 'o', 'c', 'k', 'i', 'n', 'g', '-', 'c', 'h', 'a', 'i', 'r', 'Fin'] rocking-chair
+
+['r', 'o', 'n', 'd', '-', 'd', 'e', '-', 'c', 'u', 'i', 'r', 'Fin'] rond-de-cuir
+
+['r', 'o', 'n', 'd', '-', 'p', 'o', 'i', 'n', 't', 'Fin'] rond-point
+
+['r', 'o', 's', 's', 'Ã', '©', 'e', 'Fin'] rossÃ©e
+
+['r', 'o', 't', 'o', 'n', 'd', 'i', 't', 'Ã', '©', 'Fin'] rotonditÃ©
+
+['r', 'o', 'u', 's', 'p', 'Ã', '©', 't', 'e', 'u', 'r', 'Fin'] rouspÃ©teur
+
+['r', 'o', 'y', 'a', 'u', 't', 'Ã', '©', 'Fin'] royautÃ©
+
+['s', 'a', 'c', 'r', 'i', 'l', 'Ã', '¨', 'g', 'e', 'Fin'] sacrilÃ¨ge
+
+['s', 'a', 'g', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] sagacitÃ©
+
+['s', 'a', 'g', 'e', '-', 'f', 'e', 'm', 'm', 'e', 'Fin'] sage-femme
+
+['s', 'a', 'i', 'g', 'n', 'Ã', '©', 'e', 'Fin'] saignÃ©e
+
+['s', 'a', 'i', 'n', 't', '-', 'b', 'e', 'r', 'n', 'a', 'r', 'd', 'Fin'] saint-bernard
+
+['s', 'a', 'i', 'n', 't', 'e', '-', 'n', 'i', 't', 'o', 'u', 'c', 'h', 'e', 'Fin'] sainte-nitouche
+
+['s', 'a', 'i', 'n', 't', 'e', 't', 'Ã', '©', 'Fin'] saintetÃ©
+
+['S', 'a', 'i', 'n', 't', '-', 'S', 'i', 'Ã', '¨', 'g', 'e', 'Fin'] Saint-SiÃ¨ge
+
+['s', 'a', 'l', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] salacitÃ©
+
+['s', 'a', 'l', 'a', 'r', 'i', 'Ã', '©', 'Fin'] salariÃ©
+
+['s', 'a', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] saliÃ¨re
+
+['s', 'a', 'l', 'u', 'b', 'r', 'i', 't', 'Ã', '©', 'Fin'] salubritÃ©
+
+['s', 'a', 'm', 'o', 'u', 'r', 'a', 'Ã', '¯', 'Fin'] samouraÃ¯
+
+['s', 'a', 'n', 'g', '-', 'f', 'r', 'o', 'i', 'd', 'Fin'] sang-froid
+
+['s', 'a', 'n', 's', '-', 'a', 'b', 'r', 'i', 'Fin'] sans-abri
+
+['s', 'a', 'n', 's', '-', 'c', 'o', 'e', 'u', 'r', 'Fin'] sans-coeur
+
+['s', 'a', 'n', 's', '-', 'g', 'Ã', 'ª', 'n', 'e', 'Fin'] sans-gÃªne
+
+['s', 'a', 'n', 's', '-', 'l', 'e', '-', 's', 'o', 'u', 'Fin'] sans-le-sou
+
+['s', 'a', 'n', 's', '-', 'l', 'o', 'g', 'i', 's', 'Fin'] sans-logis
+
+['s', 'a', 'p', 'e', 'u', 'r', '-', 'p', 'o', 'm', 'p', 'i', 'e', 'r', 'Fin'] sapeur-pompier
+
+['s', 'a', 'u', 'f', '-', 'c', 'o', 'n', 'd', 'u', 'i', 't', 'Fin'] sauf-conduit
+
+['s', 'a', 'u', 't', '-', 'd', 'e', '-', 'l', 'i', 't', 'Fin'] saut-de-lit
+
+['s', 'a', 'u', 't', 'Ã', '©', 'Fin'] sautÃ©
+
+['s', 'a', 'u', 'v', 'e', '-', 'q', 'u', 'i', '-', 'p', 'e', 'u', 't', 'Fin'] sauve-qui-peut
+
+['s', 'a', 'v', 'o', 'i', 'r', '-', 'f', 'a', 'i', 'r', 'e', 'Fin'] savoir-faire
+
+['s', 'a', 'v', 'o', 'i', 'r', '-', 'v', 'i', 'v', 'r', 'e', 'Fin'] savoir-vivre
+
+['s', 'a', 'y', 'n', 'Ã', '¨', 't', 'e', 'Fin'] saynÃ¨te
+
+['s', 'c', 'a', 'r', 'a', 'b', 'Ã', '©', 'e', 'Fin'] scarabÃ©e
+
+['s', 'c', 'e', 'l', 'Ã', '©', 'r', 'a', 't', 'Fin'] scelÃ©rat
+
+['s', 'c', 'e', 'l', 'Ã', '©', 'r', 'a', 't', 'e', 's', 's', 'e', 'Fin'] scelÃ©ratesse
+
+['s', 'c', 'h', 'i', 'z', 'o', 'p', 'h', 'r', 'Ã', '¨', 'n', 'e', 'Fin'] schizophrÃ¨ne
+
+['s', 'c', 'h', 'i', 'z', 'o', 'p', 'h', 'r', 'Ã', '©', 'n', 'i', 'e', 'Fin'] schizophrÃ©nie
+
+['s', 'c', 'i', 'e', 'n', 'c', 'e', '-', 'f', 'i', 'c', 't', 'i', 'o', 'n', 'Fin'] science-fiction
+
+['s', 'c', 'o', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] scolaritÃ©
+
+['s', 'e', 'b', 'o', 'r', 'r', 'h', 'Ã', '©', 'e', 'Fin'] seborrhÃ©e
+
+['s', 'e', 'c', 'h', 'e', '-', 'c', 'h', 'e', 'v', 'e', 'u', 'x', 'Fin'] seche-cheveux
+
+['s', 'e', 'c', 'h', 'e', '-', 'l', 'i', 'n', 'g', 'e', 'Fin'] seche-linge
+
+['s', 'e', 'c', 'r', 'Ã', '©', 't', 'a', 'i', 'r', 'e', 'Fin'] secrÃ©taire
+
+['s', 'e', 'c', 'r', 'Ã', '©', 't', 'a', 'r', 'i', 'a', 't', 'Fin'] secrÃ©tariat
+
+['s', 'e', 'c', 'r', 'Ã', '©', 't', 'i', 'o', 'n', 'Fin'] secrÃ©tion
+
+['s', 'e', 'c', 'u', 'r', 'i', 't', 'Ã', '©', 'Fin'] securitÃ©
+
+['s', 'e', 'g', 'r', 'Ã', '©', 'g', 'a', 't', 'i', 'o', 'n', 'Fin'] segrÃ©gation
+
+['s', 'e', 'l', 'f', '-', 'c', 'o', 'n', 't', 'r', 'o', 'l', 'Fin'] self-control
+
+['s', 'e', 'l', 'f', '-', 's', 'e', 'r', 'v', 'i', 'c', 'e', 'Fin'] self-service
+
+['s', 'e', 'n', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] senilitÃ©
+
+['s', 'e', 'n', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] sensibilitÃ©
+
+['s', 'e', 'n', 's', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] sensualitÃ©
+
+['s', 'e', 'n', 't', 'i', 'm', 'e', 'n', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] sentimentalitÃ©
+
+['s', 'e', 'r', 'b', 'o', '-', 'c', 'r', 'o', 'a', 't', 'e', 'Fin'] serbo-croate
+
+['s', 'e', 'r', 'e', 'n', 'i', 't', 'Ã', '©', 'Fin'] serenitÃ©
+
+['s', 'e', 'r', 'p', 'i', 'l', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] serpilliÃ¨re
+
+['s', 'e', 'r', 'r', 'e', '-', 't', 'Ã', 'ª', 't', 'e', 'Fin'] serre-tÃªte
+
+['s', 'e', 'r', 'v', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] serviabilitÃ©
+
+['s', 'e', 'r', 'v', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] servilitÃ©
+
+['s', 'e', 'v', 'e', 'r', 'i', 't', 'Ã', '©', 'Fin'] severitÃ©
+
+['s', 'e', 'x', '-', 'a', 'p', 'p', 'e', 'a', 'l', 'Fin'] sex-appeal
+
+['s', 'e', 'x', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] sexualitÃ©
+
+['s', 'h', 'o', 'w', '-', 'b', 'u', 's', 'i', 'n', 'e', 's', 's', 'Fin'] show-business
+
+['s', 'i', 'm', 'i', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] similaritÃ©
+
+['s', 'i', 'm', 'p', 'l', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] simplicitÃ©
+
+['s', 'i', 'n', 'g', 'u', 'l', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] singularitÃ©
+
+['s', 'i', 'n', 'i', 's', 't', 'r', 'Ã', '©', 'Fin'] sinistrÃ©
+
+['s', 'i', 'n', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] sinuositÃ©
+
+['s', 'n', 'a', 'c', 'k', '-', 'b', 'a', 'r', 'Fin'] snack-bar
+
+['s', 'o', 'c', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] sociabilitÃ©
+
+['s', 'o', 'c', 'i', 'Ã', '©', 't', 'a', 'i', 'r', 'e', 'Fin'] sociÃ©taire
+
+['s', 'o', 'i', 'x', 'a', 'n', 't', 'e', '-', 'd', 'i', 'x', 'Fin'] soixante-dix
+
+['s', 'o', 'i', 'x', 'a', 'n', 't', 'e', '-', 'd', 'i', 'x', 'i', 'Ã', '¨', 'm', 'e', 'Fin'] soixante-dixiÃ¨me
+
+['s', 'o', 'l', 'e', 'n', 'n', 'i', 't', 'Ã', '©', 'Fin'] solennitÃ©
+
+['s', 'o', 'l', 'i', 'd', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] solidaritÃ©
+
+['s', 'o', 'l', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] soliditÃ©
+
+['s', 'o', 'l', 'v', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] solvabilitÃ©
+
+['s', 'o', 'm', 'm', 'i', 't', 'Ã', '©', 'Fin'] sommitÃ©
+
+['s', 'o', 'm', 'n', 'i', 'f', 'Ã', '¨', 'r', 'e', 'Fin'] somnifÃ¨re
+
+['s', 'o', 'm', 'p', 't', 'u', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] somptuositÃ©
+
+['s', 'o', 'n', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] sonoritÃ©
+
+['s', 'o', 'n', 'o', 't', 'h', 'Ã', '¨', 'q', 'u', 'e', 'Fin'] sonothÃ¨que
+
+['s', 'o', 'r', 't', 'i', 'l', 'Ã', '¨', 'g', 'e', 'Fin'] sortilÃ¨ge
+
+['s', 'o', 'u', 'd', 'a', 'i', 'n', 'e', 't', 'Ã', '©', 'Fin'] soudainetÃ©
+
+['s', 'o', 'u', 'f', 'f', 'l', 'Ã', '©', 'Fin'] soufflÃ©
+
+['s', 'o', 'u', 'f', 'f', 'r', 'e', '-', 'd', 'o', 'u', 'l', 'e', 'u', 'r', 'Fin'] souffre-douleur
+
+['s', 'o', 'u', 'f', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] soufriÃ¨re
+
+['s', 'o', 'u', 'l', 'Ã', '¨', 'v', 'e', 'm', 'e', 'n', 't', 'Fin'] soulÃ¨vement
+
+['s', 'o', 'u', 'p', 'Ã', '§', 'o', 'n', 'Fin'] soupÃ§on
+
+['s', 'o', 'u', 'p', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] soupiÃ¨re
+
+['s', 'o', 'u', 'r', 'd', '-', 'm', 'u', 'e', 't', 'Fin'] sourd-muet
+
+['s', 'o', 'u', 'r', 'i', 'c', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] souriciÃ¨re
+
+['s', 'o', 'u', 's', '-', 'a', 'l', 'i', 'm', 'e', 'n', 't', 'a', 't', 'i', 'o', 'n', 'Fin'] sous-alimentation
+
+['s', 'o', 'u', 's', '-', 'd', 'Ã', '©', 'v', 'e', 'l', 'o', 'p', 'p', 'e', 'm', 'e', 'n', 't', 'Fin'] sous-dÃ©veloppement
+
+['s', 'o', 'u', 's', '-', 'e', 'm', 'p', 'l', 'o', 'i', 'Fin'] sous-emploi
+
+['s', 'o', 'u', 's', '-', 'e', 'n', 's', 'e', 'm', 'b', 'l', 'e', 'Fin'] sous-ensemble
+
+['s', 'o', 'u', 's', '-', 'e', 'n', 't', 'e', 'n', 'd', 'u', 'Fin'] sous-entendu
+
+['s', 'o', 'u', 's', '-', 'm', 'a', 'i', 'n', 'Fin'] sous-main
+
+['s', 'o', 'u', 's', '-', 'm', 'a', 'r', 'i', 'n', 'Fin'] sous-marin
+
+['s', 'o', 'u', 's', '-', 'm', 'u', 'l', 't', 'i', 'p', 'l', 'e', 'Fin'] sous-multiple
+
+['s', 'o', 'u', 's', '-', 'p', 'e', 'u', 'p', 'l', 'e', 'm', 'e', 'n', 't', 'Fin'] sous-peuplement
+
+['s', 'o', 'u', 's', '-', 'p', 'r', 'o', 'd', 'u', 'c', 't', 'i', 'o', 'n', 'Fin'] sous-production
+
+['s', 'o', 'u', 's', '-', 'p', 'r', 'o', 'd', 'u', 'i', 't', 'Fin'] sous-produit
+
+['s', 'o', 'u', 's', '-', 's', 'o', 'l', 'Fin'] sous-sol
+
+['s', 'o', 'u', 's', '-', 't', 'i', 't', 'r', 'e', 'Fin'] sous-titre
+
+['s', 'o', 'u', 's', '-', 't', 'r', 'a', 'i', 't', 'a', 'n', 'c', 'e', 'Fin'] sous-traitance
+
+['s', 'o', 'u', 's', '-', 't', 'r', 'a', 'i', 't', 'a', 'n', 't', 'Fin'] sous-traitant
+
+['s', 'o', 'u', 's', '-', 'v', 'e', 'r', 'r', 'e', 'Fin'] sous-verre
+
+['s', 'o', 'u', 's', '-', 'v', 'Ã', 'ª', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] sous-vÃªtement
+
+['s', 'o', 'u', 't', 'Ã', '¨', 'n', 'e', 'm', 'e', 'n', 't', 'Fin'] soutÃ¨nement
+
+['s', 'o', 'u', 't', 'i', 'e', 'n', '-', 'g', 'o', 'r', 'g', 'e', 'Fin'] soutien-gorge
+
+['s', 'o', 'u', 'v', 'e', 'r', 'a', 'i', 'n', 'e', 't', 'Ã', '©', 'Fin'] souverainetÃ©
+
+['s', 'o', 'v', 'i', 'Ã', '©', 't', 'i', 'q', 'u', 'e', 'Fin'] soviÃ©tique
+
+['s', 'p', 'e', 'c', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] specialitÃ©
+
+['s', 'p', 'e', 'c', 'i', 'f', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] specificitÃ©
+
+['s', 'p', 'h', 'y', 'g', 'm', 'o', 'm', 'a', 'n', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] sphygmomanomÃ¨tre
+
+['s', 'p', 'i', 'r', 'i', 't', 'u', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] spiritualitÃ©
+
+['s', 't', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] stabilitÃ©
+
+['s', 't', 'a', 'n', 'd', '-', 'b', 'y', 'Fin'] stand-by
+
+['s', 't', 'a', 'r', 't', 'i', 'n', 'g', '-', 'b', 'l', 'o', 'c', 'k', 'Fin'] starting-block
+
+['s', 't', 'a', 't', 'i', 'o', 'n', '-', 's', 'e', 'r', 'v', 'i', 'c', 'e', 'Fin'] station-service
+
+['s', 't', 'e', 'r', 'Ã', '©', 'o', 't', 'y', 'p', 'e', 'Fin'] sterÃ©otype
+
+['s', 't', 'e', 'r', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] sterilitÃ©
+
+['s', 't', 'r', 'a', 't', 'a', 'g', 'Ã', '¨', 'm', 'e', 'Fin'] stratagÃ¨me
+
+['s', 't', 'r', 'a', 't', 'Ã', '¨', 'g', 'e', 'Fin'] stratÃ¨ge
+
+['s', 't', 'r', 'a', 't', 'Ã', '©', 'g', 'i', 'e', 'Fin'] stratÃ©gie
+
+['s', 't', 'r', 'a', 't', 'i', 'f', 'i', 'Ã', '©', 'Fin'] stratifiÃ©
+
+['s', 't', 'r', 'a', 't', 'o', '-', 'c', 'u', 'm', 'u', 'l', 'u', 's', 'Fin'] strato-cumulus
+
+['s', 't', 'r', 'i', 'p', '-', 't', 'e', 'a', 's', 'e', 'Fin'] strip-tease
+
+['s', 't', 'u', 'p', 'Ã', '©', 'f', 'a', 'c', 't', 'i', 'o', 'n', 'Fin'] stupÃ©faction
+
+['s', 't', 'u', 'p', 'Ã', '©', 'f', 'i', 'a', 'n', 't', 'Fin'] stupÃ©fiant
+
+['s', 't', 'u', 'p', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] stupiditÃ©
+
+['s', 'u', 'a', 'v', 'i', 't', 'Ã', '©', 'Fin'] suavitÃ©
+
+['s', 'u', 'b', 'j', 'e', 'c', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] subjectivitÃ©
+
+['s', 'u', 'b', 'o', 'r', 'd', 'o', 'n', 'n', 'Ã', '©', 'Fin'] subordonnÃ©
+
+['s', 'u', 'b', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] subtilitÃ©
+
+['s', 'u', 'p', 'e', 'r', 'i', 'o', 'r', 'i', 't', 'Ã', '©', 'Fin'] superioritÃ©
+
+['s', 'u', 'p', 'e', 'r', 'm', 'a', 'r', 'c', 'h', 'Ã', '©', 'Fin'] supermarchÃ©
+
+['s', 'u', 'p', 'p', 'l', 'Ã', '©', 'a', 'n', 't', 'Fin'] supplÃ©ant
+
+['s', 'u', 'p', 'p', 'l', 'Ã', '©', 'm', 'e', 'n', 't', 'Fin'] supplÃ©ment
+
+['s', 'u', 'p', 'r', 'Ã', '©', 'm', 'a', 't', 'i', 'e', 'Fin'] suprÃ©matie
+
+['s', 'u', 'p', 'r', 'Ã', 'ª', 'm', 'e', 'Fin'] suprÃªme
+
+['s', 'u', 'r', 'c', 'r', 'o', 'Ã', '®', 't', 'Fin'] surcroÃ®t
+
+['s', 'u', 'r', 'e', 'l', 'Ã', '©', 'v', 'a', 't', 'i', 'o', 'n', 'Fin'] surelÃ©vation
+
+['s', 'u', 'r', 'e', 'n', 'c', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] surenchÃ¨re
+
+['s', 'u', 'r', 'e', 't', 'Ã', '©', 'Fin'] suretÃ©
+
+['s', 'u', 'r', 'g', 'Ã', '©', 'l', 'a', 't', 'i', 'o', 'n', 'Fin'] surgÃ©lation
+
+['s', 'u', 'r', 'g', 'e', 'l', 'Ã', '©', 'Fin'] surgelÃ©
+
+['s', 'u', 'r', 'n', 'u', 'm', 'Ã', '©', 'r', 'a', 'i', 'r', 'e', 'Fin'] surnumÃ©raire
+
+['s', 'u', 'r', 'p', 'r', 'i', 's', 'e', '-', 'p', 'a', 'r', 't', 'i', 'e', 'Fin'] surprise-partie
+
+['s', 'u', 'r', 'r', 'Ã', '©', 'a', 'l', 'i', 's', 't', 'e', 'Fin'] surrÃ©aliste
+
+['s', 'u', 'r', 'v', 'Ã', 'ª', 't', 'e', 'm', 'e', 'n', 't', 'Fin'] survÃªtement
+
+['s', 'u', 's', 'c', 'e', 'p', 't', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] susceptibilitÃ©
+
+['s', 'u', 's', 'm', 'e', 'n', 't', 'i', 'o', 'n', 'n', 'Ã', '©', 'Fin'] susmentionnÃ©
+
+['s', 'u', 's', 'n', 'o', 'm', 'm', 'Ã', '©', 'Fin'] susnommÃ©
+
+['s', 'w', 'e', 'a', 't', '-', 's', 'h', 'i', 'r', 't', 'Fin'] sweat-shirt
+
+['s', 'y', 'm', 'p', 't', 'Ã', '´', 'm', 'e', 'Fin'] symptÃ´me
+
+['s', 'y', 'n', 't', 'h', 'Ã', '¨', 's', 'e', 'Fin'] synthÃ¨se
+
+['s', 'y', 'n', 't', 'h', 'Ã', '©', 't', 'i', 's', 'e', 'u', 'r', 'Fin'] synthÃ©tiseur
+
+['s', 'y', 's', 't', 'Ã', '©', 'm', 'a', 't', 'i', 's', 'a', 't', 'i', 'o', 'n', 'Fin'] systÃ©matisation
+
+['s', 'y', 's', 't', 'Ã', '¨', 'm', 'e', 'Fin'] systÃ¨me
+
+['t', 'a', 'b', 'a', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] tabatiÃ¨re
+
+['t', 'a', 'b', 'l', 'Ã', '©', 'e', 'Fin'] tablÃ©e
+
+['t', 'a', 'b', 'l', 'o', 'Ã', '¯', 'd', 'Fin'] tabloÃ¯d
+
+['t', 'a', 'c', 'h', 'y', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] tachymÃ¨tre
+
+['t', 'a', 'i', 'l', 'l', 'e', '-', 'c', 'r', 'a', 'y', 'o', 'n', 'Fin'] taille-crayon
+
+['t', 'a', 'i', 'l', 'l', 'e', '-', 'd', 'o', 'u', 'c', 'e', 'Fin'] taille-douce
+
+['t', 'a', 'l', 'k', 'i', 'e', '-', 'w', 'a', 'l', 'k', 'i', 'e', 'Fin'] talkie-walkie
+
+['t', 'a', 'm', '-', 't', 'a', 'm', 'Fin'] tam-tam
+
+['t', 'a', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] taniÃ¨re
+
+['t', 'a', 'p', 'e', '-', 'Ã', '\xa0', '-', 'l', "'", 'o', 'e', 'i', 'l', 'Fin'] tape-Ã -l'oeil
+
+['t', 'a', 't', 'e', '-', 'v', 'i', 'n', 'Fin'] tate-vin
+
+['t', 'a', 'u', 'p', 'i', 'n', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] taupiniÃ¨re
+
+['t', 'e', 'c', 'h', 'n', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] technicitÃ©
+
+['t', 'e', 'e', 'n', '-', 'a', 'g', 'e', 'r', 'Fin'] teen-ager
+
+['t', 'e', 'e', '-', 's', 'h', 'i', 'r', 't', 'Fin'] tee-shirt
+
+['t', 'e', 'l', 'e', 'p', 'h', 'Ã', '©', 'r', 'i', 'q', 'u', 'e', 'Fin'] telephÃ©rique
+
+['t', 'e', 'l', 'e', 's', 'i', 'Ã', '¨', 'g', 'e', 'Fin'] telesiÃ¨ge
+
+['t', 'e', 'm', 'e', 'r', 'i', 't', 'Ã', '©', 'Fin'] temeritÃ©
+
+['t', 'e', 'm', 'p', 'Ã', '©', 'r', 'a', 'm', 'e', 'n', 't', 'Fin'] tempÃ©rament
+
+['t', 'e', 'm', 'p', 'Ã', '©', 'r', 'a', 'n', 'c', 'e', 'Fin'] tempÃ©rance
+
+['t', 'e', 'm', 'p', 'Ã', '©', 'r', 'a', 't', 'u', 'r', 'e', 'Fin'] tempÃ©rature
+
+['t', 'e', 'm', 'p', 'Ã', 'ª', 't', 'e', 'Fin'] tempÃªte
+
+['t', 'e', 'n', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] tenacitÃ©
+
+['t', 'e', 'n', 'd', 'r', 'e', 't', 'Ã', '©', 'Fin'] tendretÃ©
+
+['t', 'e', 'r', 'm', 'i', 't', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] termitiÃ¨re
+
+['t', 'e', 'r', 'r', 'e', '-', 'p', 'l', 'e', 'i', 'n', 'Fin'] terre-plein
+
+['t', 'e', 'r', 'r', 'i', 't', 'o', 'r', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] territorialitÃ©
+
+['t', 'e', 't', 'e', '-', 'Ã', '\xa0', '-', 'q', 'u', 'e', 'u', 'e', 'Fin'] tete-Ã -queue
+
+['t', 'e', 't', 'e', '-', 'd', 'e', '-', 'n', 'Ã', '¨', 'g', 'r', 'e', 'Fin'] tete-de-nÃ¨gre
+
+['t', 'e', 't', 'r', 'a', 'Ã', '¨', 'd', 'r', 'e', 'Fin'] tetraÃ¨dre
+
+['t', 'e', 't', 'r', 'a', 'p', 'l', 'Ã', '©', 'g', 'i', 'e', 'Fin'] tetraplÃ©gie
+
+['t', 'h', 'a', 'l', 'a', 's', 's', 'o', 't', 'h', 'Ã', '©', 'r', 'a', 'p', 'i', 'e', 'Fin'] thalassothÃ©rapie
+
+['t', 'h', 'e', 'o', 'r', 'Ã', '¨', 'm', 'e', 'Fin'] theorÃ¨me
+
+['t', 'h', 'e', 'r', 'm', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] thermomÃ¨tre
+
+['t', 'h', 'e', 'r', 'm', 'o', 'm', 'Ã', '©', 't', 'r', 'i', 'e', 'Fin'] thermomÃ©trie
+
+['t', 'h', 'u', 'r', 'i', 'f', 'Ã', '©', 'r', 'a', 'i', 'r', 'e', 'Fin'] thurifÃ©raire
+
+['t', 'i', 'm', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] timiditÃ©
+
+['t', 'i', 'r', 'e', '-', 'a', 'u', '-', 'f', 'l', 'a', 'n', 'c', 'Fin'] tire-au-flanc
+
+['t', 'i', 'r', 'e', '-', 'b', 'o', 't', 't', 'e', 'Fin'] tire-botte
+
+['t', 'i', 'r', 'e', '-', 'b', 'o', 'u', 'c', 'h', 'o', 'n', 'Fin'] tire-bouchon
+
+['t', 'i', 'r', 'e', '-', 'f', 'e', 's', 's', 'e', 's', 'Fin'] tire-fesses
+
+['t', 'i', 'r', 'e', '-', 'l', 'i', 'g', 'n', 'e', 'Fin'] tire-ligne
+
+['t', 'o', 'h', 'u', '-', 'b', 'o', 'h', 'u', 'Fin'] tohu-bohu
+
+['t', 'o', 'm', 'b', 'Ã', '©', 'e', 'Fin'] tombÃ©e
+
+['t', 'o', 'm', 'o', 'd', 'e', 'n', 's', 'i', 't', 'o', 'm', 'Ã', '¨', 't', 'r', 'e', 'Fin'] tomodensitomÃ¨tre
+
+['t', 'o', 'n', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] tonalitÃ©
+
+['t', 'o', 'r', 'c', 'h', 'Ã', '¨', 'r', 'e', 'Fin'] torchÃ¨re
+
+['t', 'o', 'r', 'd', '-', 'b', 'o', 'y', 'a', 'u', 'x', 'Fin'] tord-boyaux
+
+['t', 'o', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] totalitÃ©
+
+['t', 'o', 'u', 'c', 'h', 'e', '-', 'Ã', '\xa0', '-', 't', 'o', 'u', 't', 'Fin'] touche-Ã -tout
+
+['t', 'o', 'u', 'r', 'n', 'e', '-', 'd', 'i', 's', 'q', 'u', 'e', 'Fin'] tourne-disque
+
+['t', 'o', 'u', 'r', 'n', 'Ã', '©', 'e', 'Fin'] tournÃ©e
+
+['t', 'o', 'u', 'r', '-', 'o', 'p', 'Ã', '©', 'r', 'a', 't', 'e', 'u', 'r', 'Fin'] tour-opÃ©rateur
+
+['T', 'o', 'u', 's', 's', 'a', 'i', 'n', 't', 'Fin'] Toussaint
+
+['t', 'o', 'u', 't', '-', 'p', 'e', 't', 'i', 't', 'Fin'] tout-petit
+
+['t', 'o', 'x', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] toxicitÃ©
+
+['t', 'r', 'a', 'c', 'h', 'Ã', '©', 'e', 'Fin'] trachÃ©e
+
+['t', 'r', 'a', 'g', 'Ã', '©', 'd', 'i', 'e', 'Fin'] tragÃ©die
+
+['t', 'r', 'a', 'g', 'Ã', '©', 'd', 'i', 'e', 'n', 'Fin'] tragÃ©dien
+
+['t', 'r', 'a', 'i', 'n', 'Ã', '©', 'e', 'Fin'] trainÃ©e
+
+['t', 'r', 'a', 'i', 'n', 'e', '-', 's', 'a', 'v', 'a', 't', 'e', 's', 'Fin'] traine-savates
+
+['t', 'r', 'a', 'i', 'n', '-', 't', 'r', 'a', 'i', 'n', 'Fin'] train-train
+
+['t', 'r', 'a', 'i', 't', 'Ã', '©', 'Fin'] traitÃ©
+
+['t', 'r', 'a', 'n', 'c', 'h', 'Ã', '©', 'e', 'Fin'] tranchÃ©e
+
+['t', 'r', 'a', 'n', 'q', 'u', 'i', 'l', 'l', 'i', 't', 'Ã', '©', 'Fin'] tranquillitÃ©
+
+['t', 'r', 'a', 'n', 's', 'i', 't', 'i', 'v', 'i', 't', 'Ã', '©', 'Fin'] transitivitÃ©
+
+['t', 'r', 'a', 'n', 's', 'l', 'i', 't', 't', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] translittÃ©ration
+
+['t', 'r', 'a', 'p', 'Ã', '©', 'z', 'i', 's', 't', 'e', 'Fin'] trapÃ©ziste
+
+['t', 'r', 'a', 'v', 'e', 'r', 's', 'Ã', '©', 'e', 'Fin'] traversÃ©e
+
+['t', 'r', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] trinitÃ©
+
+['t', 'r', 'i', 'n', 'i', 't', 'r', 'o', 't', 'o', 'l', 'u', 'Ã', '¨', 'n', 'e', 'Fin'] trinitrotoluÃ¨ne
+
+['t', 'r', 'i', 's', 'a', 'Ã', '¯', 'e', 'u', 'l', 'Fin'] trisaÃ¯eul
+
+['t', 'r', 'i', 'v', 'i', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] trivialitÃ©
+
+['t', 'r', 'o', 'i', 's', '-', 'm', 'Ã', '¢', 't', 's', 'Fin'] trois-mÃ¢ts
+
+['t', 'r', 'o', 'm', 'p', 'e', '-', 'l', "'", 'o', 'e', 'i', 'l', 'Fin'] trompe-l'oeil
+
+['t', 'r', 'o', 'n', 'Ã', '§', 'o', 'n', 'Fin'] tronÃ§on
+
+['t', 'r', 'o', 'n', 'Ã', '§', 'o', 'n', 'n', 'a', 'g', 'e', 'Fin'] tronÃ§onnage
+
+['t', 'r', 'o', 'p', 'h', 'Ã', '©', 'e', 'Fin'] trophÃ©e
+
+['t', 'r', 'o', 'p', '-', 'p', 'e', 'r', 'Ã', '§', 'u', 'Fin'] trop-perÃ§u
+
+['t', 'r', 'o', 'p', '-', 'p', 'l', 'e', 'i', 'n', 'Fin'] trop-plein
+
+['t', 'r', 'o', 'u', 'b', 'l', 'e', '-', 'f', 'Ã', 'ª', 't', 'e', 'Fin'] trouble-fÃªte
+
+['t', 'r', 'o', 'u', 'Ã', '©', 'e', 'Fin'] trouÃ©e
+
+['t', 'r', 'o', 'u', 'v', 'Ã', '¨', 'r', 'e', 'Fin'] trouvÃ¨re
+
+['t', 'u', 'e', '-', 'm', 'o', 'u', 'c', 'h', 'e', 's', 'Fin'] tue-mouches
+
+['u', 'b', 'i', 'q', 'u', 'i', 't', 'Ã', '©', 'Fin'] ubiquitÃ©
+
+['u', 'n', 'a', 'n', 'i', 'm', 'i', 't', 'Ã', '©', 'Fin'] unanimitÃ©
+
+['u', 'n', 'i', 'c', 'i', 't', 'Ã', '©', 'Fin'] unicitÃ©
+
+['u', 'n', 'i', 'f', 'o', 'r', 'm', 'i', 't', 'Ã', '©', 'Fin'] uniformitÃ©
+
+['u', 'n', 'i', 'v', 'e', 'r', 's', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] universalitÃ©
+
+['u', 'n', 'i', 'v', 'e', 'r', 's', 'i', 't', 'Ã', '©', 'Fin'] universitÃ©
+
+['u', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] utilitÃ©
+
+['v', 'a', 'c', 'u', 'i', 't', 'Ã', '©', 'Fin'] vacuitÃ©
+
+['v', 'a', 'd', 'e', '-', 'm', 'e', 'c', 'u', 'm', 'Fin'] vade-mecum
+
+['v', 'a', '-', 'e', 't', '-', 'v', 'i', 'e', 'n', 't', 'Fin'] va-et-vient
+
+['v', 'a', 'l', 'i', 'd', 'i', 't', 'Ã', '©', 'Fin'] validitÃ©
+
+['v', 'a', '-', 'n', 'u', '-', 'p', 'i', 'e', 'd', 's', 'Fin'] va-nu-pieds
+
+['v', 'a', 'r', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] variabilitÃ©
+
+['v', 'e', 'i', 'l', 'l', 'Ã', '©', 'e', 'Fin'] veillÃ©e
+
+['v', 'e', 'l', 'l', 'Ã', '©', 'i', 't', 'a', 'i', 'r', 'e', 'Fin'] vellÃ©itaire
+
+['v', 'e', 'l', 'o', 'c', 'i', 't', 'Ã', '©', 'Fin'] velocitÃ©
+
+['v', 'e', 'l', 'o', 'u', 't', 'Ã', '©', 'Fin'] veloutÃ©
+
+['v', 'e', 'n', 'd', 'Ã', '©', 'e', 'n', 'Fin'] vendÃ©en
+
+['v', 'e', 'r', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] veracitÃ©
+
+['v', 'e', 'r', 'r', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] verriÃ¨re
+
+['v', 'e', 'r', 's', 'a', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] versatilitÃ©
+
+['v', 'e', 'r', 't', '-', 'd', 'e', '-', 'g', 'r', 'i', 's', 'Fin'] vert-de-gris
+
+['v', 'e', 'r', 't', 'i', 'c', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] verticalitÃ©
+
+['v', 'e', 's', 's', 'e', '-', 'd', 'e', '-', 'l', 'o', 'u', 'p', 'Fin'] vesse-de-loup
+
+['v', 'e', 't', 'u', 's', 't', 'Ã', '©', 'Fin'] vetustÃ©
+
+['v', 'i', 'a', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] viabilitÃ©
+
+['v', 'i', 'd', 'e', '-', 'o', 'r', 'd', 'u', 'r', 'e', 's', 'Fin'] vide-ordures
+
+['v', 'i', 'l', 'l', 'Ã', '©', 'g', 'i', 'a', 't', 'u', 'r', 'e', 'Fin'] villÃ©giature
+
+['v', 'i', 'r', 'g', 'i', 'n', 'i', 't', 'Ã', '©', 'Fin'] virginitÃ©
+
+['v', 'i', 'r', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] virilitÃ©
+
+['v', 'i', 's', '-', 'Ã', '\xa0', '-', 'v', 'i', 's', 'Fin'] vis-Ã -vis
+
+['v', 'i', 's', 'c', 'Ã', '¨', 'r', 'e', 'Fin'] viscÃ¨re
+
+['v', 'i', 's', 'c', 'o', 's', 'i', 't', 'Ã', '©', 'Fin'] viscositÃ©
+
+['v', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] visibilitÃ©
+
+['v', 'i', 's', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] visiÃ¨re
+
+['v', 'i', 't', 'a', 'l', 'i', 't', 'Ã', '©', 'Fin'] vitalitÃ©
+
+['v', 'i', 'v', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] vivacitÃ©
+
+['v', 'o', 'c', 'i', 'f', 'Ã', '©', 'r', 'a', 't', 'i', 'o', 'n', 'Fin'] vocifÃ©ration
+
+['v', 'o', 'l', 'a', 't', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] volatilitÃ©
+
+['v', 'o', 'l', 'i', 'Ã', '¨', 'r', 'e', 'Fin'] voliÃ¨re
+
+['v', 'o', 'l', 'o', 'n', 't', 'Ã', '©', 'Fin'] volontÃ©
+
+['v', 'o', 'l', 't', 'e', '-', 'f', 'a', 'c', 'e', 'Fin'] volte-face
+
+['v', 'o', 'l', 'u', 'b', 'i', 'l', 'i', 't', 'Ã', '©', 'Fin'] volubilitÃ©
+
+['v', 'o', 'l', 'u', 'p', 't', 'Ã', '©', 'Fin'] voluptÃ©
+
+['v', 'o', 'r', 'a', 'c', 'i', 't', 'Ã', '©', 'Fin'] voracitÃ©
+
+['v', 'u', 'l', 'g', 'a', 'r', 'i', 't', 'Ã', '©', 'Fin'] vulgaritÃ©
+
+['w', 'a', 'g', 'o', 'n', 'n', 'Ã', '©', 'e', 'Fin'] wagonnÃ©e
+
+['w', 'a', 't', 'e', 'r', '-', 'c', 'l', 'o', 's', 'e', 't', 'Fin'] water-closet
+
+['w', 'a', 't', 'e', 'r', '-', 'p', 'o', 'l', 'o', 'Fin'] water-polo
+
+['w', 'e', 'e', 'k', '-', 'e', 'n', 'd', 'Fin'] week-end
