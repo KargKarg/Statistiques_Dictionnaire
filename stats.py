@@ -1,6 +1,8 @@
 import extraction_donnee
 from Module import liste_mot, table_donnee, place_alphabet_reverse
 
+"""Fonction qui crée un fichier avec les probas en % d'apparition"""
+
 PROBA = table_donnee.creation_table_donnee()
 JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
 donne = extraction_donnee.donnee_brut(JEU_DE_MOT, PROBA)
