@@ -3,7 +3,7 @@ import random
 from Module import liste_mot, table_donnee, place_alphabet_reverse
 
 
-"""Fonction qui crée une liste de mots suivants les probas"""
+"""Fonction qui crée une liste de mots suivants les probabilités"""
 
 PROBA = table_donnee.creation_table_donnee()
 JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
