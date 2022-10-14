@@ -1,0 +1,806 @@
+Il y'a 9.02% que un mot commence par 'a',on traite le cas de 'a' maitenant : 
+Les chances que 'a' suive 'a' sont de 0.01%
+Les chances que 'b' suive 'a' sont de 2.66%
+Les chances que 'c' suive 'a' sont de 4.73%
+Les chances que 'd' suive 'a' sont de 3.16%
+Les chances que 'e' suive 'a' sont de 0.18%
+Les chances que 'f' suive 'a' sont de 0.99%
+Les chances que 'g' suive 'a' sont de 8.63%
+Les chances que 'h' suive 'a' sont de 0.23%
+Les chances que 'i' suive 'a' sont de 7.5%
+Les chances que 'j' suive 'a' sont de 0.28%
+Les chances que 'k' suive 'a' sont de 0.18%
+Les chances que 'l' suive 'a' sont de 8.28%
+Les chances que 'm' suive 'a' sont de 3.83%
+Les chances que 'n' suive 'a' sont de 14.43%
+Les chances que 'o' suive 'a' sont de 0.18%
+Les chances que 'p' suive 'a' sont de 3.44%
+Les chances que 'q' suive 'a' sont de 0.77%
+Les chances que 'r' suive 'a' sont de 10.6%
+Les chances que 's' suive 'a' sont de 4.27%
+Les chances que 't' suive 'a' sont de 16.3%
+Les chances que 'u' suive 'a' sont de 4.8%
+Les chances que 'v' suive 'a' sont de 1.94%
+Les chances que 'w' suive 'a' sont de 0.02%
+Les chances que 'x' suive 'a' sont de 0.34%
+Les chances que 'y' suive 'a' sont de 0.46%
+Les chances que 'z' suive 'a' sont de 0.3%
+Les chances que 'Fin' suive 'a' sont de 1.49%
+
+
+
+Il y'a 1.85% que un mot commence par 'b',on traite le cas de 'b' maitenant : 
+Les chances que 'a' suive 'b' sont de 22.05%
+Les chances que 'b' suive 'b' sont de 0.51%
+Les chances que 'c' suive 'b' sont de 0.1%
+Les chances que 'd' suive 'b' sont de 0.3%
+Les chances que 'e' suive 'b' sont de 11.69%
+Les chances que 'f' suive 'b' sont de 0.0%
+Les chances que 'g' suive 'b' sont de 0.0%
+Les chances que 'h' suive 'b' sont de 0.0%
+Les chances que 'i' suive 'b' sont de 12.6%
+Les chances que 'j' suive 'b' sont de 0.36%
+Les chances que 'k' suive 'b' sont de 0.0%
+Les chances que 'l' suive 'b' sont de 9.04%
+Les chances que 'm' suive 'b' sont de 0.05%
+Les chances que 'n' suive 'b' sont de 0.1%
+Les chances que 'o' suive 'b' sont de 19.77%
+Les chances que 'p' suive 'b' sont de 0.0%
+Les chances que 'q' suive 'b' sont de 0.0%
+Les chances que 'r' suive 'b' sont de 13.97%
+Les chances que 's' suive 'b' sont de 1.78%
+Les chances que 't' suive 'b' sont de 0.15%
+Les chances que 'u' suive 'b' sont de 6.45%
+Les chances que 'v' suive 'b' sont de 0.1%
+Les chances que 'w' suive 'b' sont de 0.0%
+Les chances que 'x' suive 'b' sont de 0.0%
+Les chances que 'y' suive 'b' sont de 0.51%
+Les chances que 'z' suive 'b' sont de 0.0%
+Les chances que 'Fin' suive 'b' sont de 0.46%
+
+
+
+Il y'a 4.54% que un mot commence par 'c',on traite le cas de 'c' maitenant : 
+Les chances que 'a' suive 'c' sont de 16.27%
+Les chances que 'b' suive 'c' sont de 0.0%
+Les chances que 'c' suive 'c' sont de 1.69%
+Les chances que 'd' suive 'c' sont de 0.04%
+Les chances que 'e' suive 'c' sont de 14.49%
+Les chances que 'f' suive 'c' sont de 0.0%
+Les chances que 'g' suive 'c' sont de 0.0%
+Les chances que 'h' suive 'c' sont de 16.62%
+Les chances que 'i' suive 'c' sont de 7.6%
+Les chances que 'j' suive 'c' sont de 0.0%
+Les chances que 'k' suive 'c' sont de 0.62%
+Les chances que 'l' suive 'c' sont de 3.74%
+Les chances que 'm' suive 'c' sont de 0.04%
+Les chances que 'n' suive 'c' sont de 0.02%
+Les chances que 'o' suive 'c' sont de 19.28%
+Les chances que 'p' suive 'c' sont de 0.0%
+Les chances que 'q' suive 'c' sont de 0.17%
+Les chances que 'r' suive 'c' sont de 5.49%
+Les chances que 's' suive 'c' sont de 0.06%
+Les chances que 't' suive 'c' sont de 6.54%
+Les chances que 'u' suive 'c' sont de 4.98%
+Les chances que 'v' suive 'c' sont de 0.0%
+Les chances que 'w' suive 'c' sont de 0.0%
+Les chances que 'x' suive 'c' sont de 0.0%
+Les chances que 'y' suive 'c' sont de 0.56%
+Les chances que 'z' suive 'c' sont de 0.02%
+Les chances que 'Fin' suive 'c' sont de 1.78%
+
+
+
+Il y'a 2.25% que un mot commence par 'd',on traite le cas de 'd' maitenant : 
+Les chances que 'a' suive 'd' sont de 9.92%
+Les chances que 'b' suive 'd' sont de 0.0%
+Les chances que 'c' suive 'd' sont de 0.04%
+Les chances que 'd' suive 'd' sont de 0.46%
+Les chances que 'e' suive 'd' sont de 43.04%
+Les chances que 'f' suive 'd' sont de 0.0%
+Les chances que 'g' suive 'd' sont de 0.29%
+Les chances que 'h' suive 'd' sont de 0.25%
+Les chances que 'i' suive 'd' sont de 20.04%
+Les chances que 'j' suive 'd' sont de 0.38%
+Les chances que 'k' suive 'd' sont de 0.0%
+Les chances que 'l' suive 'd' sont de 0.0%
+Les chances que 'm' suive 'd' sont de 0.29%
+Les chances que 'n' suive 'd' sont de 0.04%
+Les chances que 'o' suive 'd' sont de 8.96%
+Les chances que 'p' suive 'd' sont de 0.0%
+Les chances que 'q' suive 'd' sont de 0.0%
+Les chances que 'r' suive 'd' sont de 5.0%
+Les chances que 's' suive 'd' sont de 0.29%
+Les chances que 't' suive 'd' sont de 0.0%
+Les chances que 'u' suive 'd' sont de 3.88%
+Les chances que 'v' suive 'd' sont de 0.12%
+Les chances que 'w' suive 'd' sont de 0.08%
+Les chances que 'x' suive 'd' sont de 0.0%
+Les chances que 'y' suive 'd' sont de 0.62%
+Les chances que 'z' suive 'd' sont de 0.0%
+Les chances que 'Fin' suive 'd' sont de 6.29%
+
+
+
+Il y'a 14.64% que un mot commence par 'e',on traite le cas de 'e' maitenant : 
+Les chances que 'a' suive 'e' sont de 1.45%
+Les chances que 'b' suive 'e' sont de 0.57%
+Les chances que 'c' suive 'e' sont de 3.24%
+Les chances que 'd' suive 'e' sont de 0.96%
+Les chances que 'e' suive 'e' sont de 0.42%
+Les chances que 'f' suive 'e' sont de 0.73%
+Les chances que 'g' suive 'e' sont de 0.99%
+Les chances que 'h' suive 'e' sont de 0.05%
+Les chances que 'i' suive 'e' sont de 0.92%
+Les chances que 'j' suive 'e' sont de 0.06%
+Les chances que 'k' suive 'e' sont de 0.02%
+Les chances que 'l' suive 'e' sont de 3.41%
+Les chances que 'm' suive 'e' sont de 6.39%
+Les chances que 'n' suive 'e' sont de 11.56%
+Les chances que 'o' suive 'e' sont de 0.46%
+Les chances que 'p' suive 'e' sont de 1.65%
+Les chances que 'q' suive 'e' sont de 0.29%
+Les chances que 'r' suive 'e' sont de 9.82%
+Les chances que 's' suive 'e' sont de 4.0%
+Les chances que 't' suive 'e' sont de 5.16%
+Les chances que 'u' suive 'e' sont de 6.21%
+Les chances que 'v' suive 'e' sont de 1.1%
+Les chances que 'w' suive 'e' sont de 0.02%
+Les chances que 'x' suive 'e' sont de 1.03%
+Les chances que 'y' suive 'e' sont de 0.06%
+Les chances que 'z' suive 'e' sont de 0.06%
+Les chances que 'Fin' suive 'e' sont de 39.36%
+
+
+
+Il y'a 1.34% que un mot commence par 'f',on traite le cas de 'f' maitenant : 
+Les chances que 'a' suive 'f' sont de 13.4%
+Les chances que 'b' suive 'f' sont de 0.0%
+Les chances que 'c' suive 'f' sont de 0.0%
+Les chances que 'd' suive 'f' sont de 0.0%
+Les chances que 'e' suive 'f' sont de 12.07%
+Les chances que 'f' suive 'f' sont de 10.89%
+Les chances que 'g' suive 'f' sont de 0.07%
+Les chances que 'h' suive 'f' sont de 0.0%
+Les chances que 'i' suive 'f' sont de 16.82%
+Les chances que 'j' suive 'f' sont de 0.07%
+Les chances que 'k' suive 'f' sont de 0.0%
+Les chances que 'l' suive 'f' sont de 9.84%
+Les chances que 'm' suive 'f' sont de 0.0%
+Les chances que 'n' suive 'f' sont de 0.0%
+Les chances que 'o' suive 'f' sont de 12.63%
+Les chances que 'p' suive 'f' sont de 0.0%
+Les chances que 'q' suive 'f' sont de 0.0%
+Les chances que 'r' suive 'f' sont de 11.58%
+Les chances que 's' suive 'f' sont de 0.07%
+Les chances que 't' suive 'f' sont de 0.42%
+Les chances que 'u' suive 'f' sont de 5.16%
+Les chances que 'v' suive 'f' sont de 0.0%
+Les chances que 'w' suive 'f' sont de 0.0%
+Les chances que 'x' suive 'f' sont de 0.0%
+Les chances que 'y' suive 'f' sont de 0.0%
+Les chances que 'z' suive 'f' sont de 0.0%
+Les chances que 'Fin' suive 'f' sont de 6.98%
+
+
+
+Il y'a 2.42% que un mot commence par 'g',on traite le cas de 'g' maitenant : 
+Les chances que 'a' suive 'g' sont de 11.54%
+Les chances que 'b' suive 'g' sont de 0.0%
+Les chances que 'c' suive 'g' sont de 0.0%
+Les chances que 'd' suive 'g' sont de 0.08%
+Les chances que 'e' suive 'g' sont de 37.14%
+Les chances que 'f' suive 'g' sont de 0.04%
+Les chances que 'g' suive 'g' sont de 0.35%
+Les chances que 'h' suive 'g' sont de 0.16%
+Les chances que 'i' suive 'g' sont de 9.71%
+Les chances que 'j' suive 'g' sont de 0.0%
+Les chances que 'k' suive 'g' sont de 0.0%
+Les chances que 'l' suive 'g' sont de 3.73%
+Les chances que 'm' suive 'g' sont de 0.89%
+Les chances que 'n' suive 'g' sont de 6.57%
+Les chances que 'o' suive 'g' sont de 8.12%
+Les chances que 'p' suive 'g' sont de 0.0%
+Les chances que 'q' suive 'g' sont de 0.0%
+Les chances que 'r' suive 'g' sont de 10.96%
+Les chances que 's' suive 'g' sont de 0.12%
+Les chances que 't' suive 'g' sont de 0.08%
+Les chances que 'u' suive 'g' sont de 7.65%
+Les chances que 'v' suive 'g' sont de 0.0%
+Les chances que 'w' suive 'g' sont de 0.0%
+Les chances que 'x' suive 'g' sont de 0.0%
+Les chances que 'y' suive 'g' sont de 0.43%
+Les chances que 'z' suive 'g' sont de 0.04%
+Les chances que 'Fin' suive 'g' sont de 2.41%
+
+
+
+Il y'a 1.49% que un mot commence par 'h',on traite le cas de 'h' maitenant : 
+Les chances que 'a' suive 'h' sont de 24.1%
+Les chances que 'b' suive 'h' sont de 0.0%
+Les chances que 'c' suive 'h' sont de 0.0%
+Les chances que 'd' suive 'h' sont de 0.0%
+Les chances que 'e' suive 'h' sont de 29.09%
+Les chances que 'f' suive 'h' sont de 0.0%
+Les chances que 'g' suive 'h' sont de 0.0%
+Les chances que 'h' suive 'h' sont de 0.0%
+Les chances que 'i' suive 'h' sont de 15.9%
+Les chances que 'j' suive 'h' sont de 0.0%
+Les chances que 'k' suive 'h' sont de 0.0%
+Les chances que 'l' suive 'h' sont de 0.5%
+Les chances que 'm' suive 'h' sont de 0.76%
+Les chances que 'n' suive 'h' sont de 0.69%
+Les chances que 'o' suive 'h' sont de 15.52%
+Les chances que 'p' suive 'h' sont de 0.0%
+Les chances que 'q' suive 'h' sont de 0.0%
+Les chances que 'r' suive 'h' sont de 2.9%
+Les chances que 's' suive 'h' sont de 0.06%
+Les chances que 't' suive 'h' sont de 0.57%
+Les chances que 'u' suive 'h' sont de 4.29%
+Les chances que 'v' suive 'h' sont de 0.0%
+Les chances que 'w' suive 'h' sont de 0.0%
+Les chances que 'x' suive 'h' sont de 0.0%
+Les chances que 'y' suive 'h' sont de 3.47%
+Les chances que 'z' suive 'h' sont de 0.0%
+Les chances que 'Fin' suive 'h' sont de 2.15%
+
+
+
+Il y'a 9.21% que un mot commence par 'i',on traite le cas de 'i' maitenant : 
+Les chances que 'a' suive 'i' sont de 2.46%
+Les chances que 'b' suive 'i' sont de 1.29%
+Les chances que 'c' suive 'i' sont de 5.19%
+Les chances que 'd' suive 'i' sont de 1.81%
+Les chances que 'e' suive 'i' sont de 13.22%
+Les chances que 'f' suive 'i' sont de 2.21%
+Les chances que 'g' suive 'i' sont de 2.84%
+Les chances que 'h' suive 'i' sont de 0.02%
+Les chances que 'i' suive 'i' sont de 0.0%
+Les chances que 'j' suive 'i' sont de 0.04%
+Les chances que 'k' suive 'i' sont de 0.1%
+Les chances que 'l' suive 'i' sont de 7.05%
+Les chances que 'm' suive 'i' sont de 2.82%
+Les chances que 'n' suive 'i' sont de 13.0%
+Les chances que 'o' suive 'i' sont de 14.6%
+Les chances que 'p' suive 'i' sont de 1.12%
+Les chances que 'q' suive 'i' sont de 2.21%
+Les chances que 'r' suive 'i' sont de 4.86%
+Les chances que 's' suive 'i' sont de 15.61%
+Les chances que 't' suive 'i' sont de 5.78%
+Les chances que 'u' suive 'i' sont de 0.28%
+Les chances que 'v' suive 'i' sont de 1.56%
+Les chances que 'w' suive 'i' sont de 0.01%
+Les chances que 'x' suive 'i' sont de 0.32%
+Les chances que 'y' suive 'i' sont de 0.01%
+Les chances que 'z' suive 'i' sont de 0.13%
+Les chances que 'Fin' suive 'i' sont de 1.46%
+
+
+
+Il y'a 0.21% que un mot commence par 'j',on traite le cas de 'j' maitenant : 
+Les chances que 'a' suive 'j' sont de 21.17%
+Les chances que 'b' suive 'j' sont de 0.0%
+Les chances que 'c' suive 'j' sont de 0.0%
+Les chances que 'd' suive 'j' sont de 0.0%
+Les chances que 'e' suive 'j' sont de 18.02%
+Les chances que 'f' suive 'j' sont de 0.0%
+Les chances que 'g' suive 'j' sont de 0.0%
+Les chances que 'h' suive 'j' sont de 0.0%
+Les chances que 'i' suive 'j' sont de 0.9%
+Les chances que 'j' suive 'j' sont de 0.0%
+Les chances que 'k' suive 'j' sont de 0.0%
+Les chances que 'l' suive 'j' sont de 0.0%
+Les chances que 'm' suive 'j' sont de 0.0%
+Les chances que 'n' suive 'j' sont de 0.0%
+Les chances que 'o' suive 'j' sont de 31.98%
+Les chances que 'p' suive 'j' sont de 0.0%
+Les chances que 'q' suive 'j' sont de 0.0%
+Les chances que 'r' suive 'j' sont de 0.0%
+Les chances que 's' suive 'j' sont de 0.0%
+Les chances que 't' suive 'j' sont de 0.0%
+Les chances que 'u' suive 'j' sont de 27.93%
+Les chances que 'v' suive 'j' sont de 0.0%
+Les chances que 'w' suive 'j' sont de 0.0%
+Les chances que 'x' suive 'j' sont de 0.0%
+Les chances que 'y' suive 'j' sont de 0.0%
+Les chances que 'z' suive 'j' sont de 0.0%
+Les chances que 'Fin' suive 'j' sont de 0.0%
+
+
+
+Il y'a 0.11% que un mot commence par 'k',on traite le cas de 'k' maitenant : 
+Les chances que 'a' suive 'k' sont de 22.31%
+Les chances que 'b' suive 'k' sont de 0.0%
+Les chances que 'c' suive 'k' sont de 0.83%
+Les chances que 'd' suive 'k' sont de 0.0%
+Les chances que 'e' suive 'k' sont de 21.49%
+Les chances que 'f' suive 'k' sont de 0.0%
+Les chances que 'g' suive 'k' sont de 0.83%
+Les chances que 'h' suive 'k' sont de 1.65%
+Les chances que 'i' suive 'k' sont de 19.01%
+Les chances que 'j' suive 'k' sont de 0.0%
+Les chances que 'k' suive 'k' sont de 1.65%
+Les chances que 'l' suive 'k' sont de 4.13%
+Les chances que 'm' suive 'k' sont de 0.83%
+Les chances que 'n' suive 'k' sont de 0.0%
+Les chances que 'o' suive 'k' sont de 1.65%
+Les chances que 'p' suive 'k' sont de 1.65%
+Les chances que 'q' suive 'k' sont de 0.0%
+Les chances que 'r' suive 'k' sont de 1.65%
+Les chances que 's' suive 'k' sont de 0.0%
+Les chances que 't' suive 'k' sont de 1.65%
+Les chances que 'u' suive 'k' sont de 0.0%
+Les chances que 'v' suive 'k' sont de 0.0%
+Les chances que 'w' suive 'k' sont de 0.0%
+Les chances que 'x' suive 'k' sont de 0.0%
+Les chances que 'y' suive 'k' sont de 1.65%
+Les chances que 'z' suive 'k' sont de 0.0%
+Les chances que 'Fin' suive 'k' sont de 19.01%
+
+
+
+Il y'a 4.63% que un mot commence par 'l',on traite le cas de 'l' maitenant : 
+Les chances que 'a' suive 'l' sont de 16.56%
+Les chances que 'b' suive 'l' sont de 0.32%
+Les chances que 'c' suive 'l' sont de 0.65%
+Les chances que 'd' suive 'l' sont de 0.2%
+Les chances que 'e' suive 'l' sont de 26.42%
+Les chances que 'f' suive 'l' sont de 0.2%
+Les chances que 'g' suive 'l' sont de 0.4%
+Les chances que 'h' suive 'l' sont de 0.08%
+Les chances que 'i' suive 'l' sont de 15.41%
+Les chances que 'j' suive 'l' sont de 0.0%
+Les chances que 'k' suive 'l' sont de 0.1%
+Les chances que 'l' suive 'l' sont de 14.03%
+Les chances que 'm' suive 'l' sont de 0.4%
+Les chances que 'n' suive 'l' sont de 0.06%
+Les chances que 'o' suive 'l' sont de 11.24%
+Les chances que 'p' suive 'l' sont de 0.43%
+Les chances que 'q' suive 'l' sont de 0.1%
+Les chances que 'r' suive 'l' sont de 0.0%
+Les chances que 's' suive 'l' sont de 0.38%
+Les chances que 't' suive 'l' sont de 2.0%
+Les chances que 'u' suive 'l' sont de 4.07%
+Les chances que 'v' suive 'l' sont de 0.38%
+Les chances que 'w' suive 'l' sont de 0.02%
+Les chances que 'x' suive 'l' sont de 0.0%
+Les chances que 'y' suive 'l' sont de 0.79%
+Les chances que 'z' suive 'l' sont de 0.0%
+Les chances que 'Fin' suive 'l' sont de 5.73%
+
+
+
+Il y'a 3.51% que un mot commence par 'm',on traite le cas de 'm' maitenant : 
+Les chances que 'a' suive 'm' sont de 18.17%
+Les chances que 'b' suive 'm' sont de 5.26%
+Les chances que 'c' suive 'm' sont de 0.0%
+Les chances que 'd' suive 'm' sont de 0.03%
+Les chances que 'e' suive 'm' sont de 39.19%
+Les chances que 'f' suive 'm' sont de 0.0%
+Les chances que 'g' suive 'm' sont de 0.0%
+Les chances que 'h' suive 'm' sont de 0.0%
+Les chances que 'i' suive 'm' sont de 11.3%
+Les chances que 'j' suive 'm' sont de 0.0%
+Les chances que 'k' suive 'm' sont de 0.0%
+Les chances que 'l' suive 'm' sont de 0.0%
+Les chances que 'm' suive 'm' sont de 3.58%
+Les chances que 'n' suive 'm' sont de 0.53%
+Les chances que 'o' suive 'm' sont de 9.91%
+Les chances que 'p' suive 'm' sont de 6.63%
+Les chances que 'q' suive 'm' sont de 0.0%
+Les chances que 'r' suive 'm' sont de 0.0%
+Les chances que 's' suive 'm' sont de 0.03%
+Les chances que 't' suive 'm' sont de 0.05%
+Les chances que 'u' suive 'm' sont de 2.89%
+Les chances que 'v' suive 'm' sont de 0.0%
+Les chances que 'w' suive 'm' sont de 0.03%
+Les chances que 'x' suive 'm' sont de 0.0%
+Les chances que 'y' suive 'm' sont de 0.64%
+Les chances que 'z' suive 'm' sont de 0.0%
+Les chances que 'Fin' suive 'm' sont de 1.76%
+
+
+
+Il y'a 7.55% que un mot commence par 'n',on traite le cas de 'n' maitenant : 
+Les chances que 'a' suive 'n' sont de 6.7%
+Les chances que 'b' suive 'n' sont de 0.02%
+Les chances que 'c' suive 'n' sont de 7.73%
+Les chances que 'd' suive 'n' sont de 4.55%
+Les chances que 'e' suive 'n' sont de 10.79%
+Les chances que 'f' suive 'n' sont de 1.21%
+Les chances que 'g' suive 'n' sont de 3.14%
+Les chances que 'h' suive 'n' sont de 0.12%
+Les chances que 'i' suive 'n' sont de 5.7%
+Les chances que 'j' suive 'n' sont de 0.27%
+Les chances que 'k' suive 'n' sont de 0.05%
+Les chances que 'l' suive 'n' sont de 0.15%
+Les chances que 'm' suive 'n' sont de 0.02%
+Les chances que 'n' suive 'n' sont de 4.06%
+Les chances que 'o' suive 'n' sont de 3.72%
+Les chances que 'p' suive 'n' sont de 0.01%
+Les chances que 'q' suive 'n' sont de 0.32%
+Les chances que 'r' suive 'n' sont de 0.11%
+Les chances que 's' suive 'n' sont de 3.04%
+Les chances que 't' suive 'n' sont de 20.57%
+Les chances que 'u' suive 'n' sont de 1.22%
+Les chances que 'v' suive 'n' sont de 0.76%
+Les chances que 'w' suive 'n' sont de 0.0%
+Les chances que 'x' suive 'n' sont de 0.07%
+Les chances que 'y' suive 'n' sont de 0.31%
+Les chances que 'z' suive 'n' sont de 0.12%
+Les chances que 'Fin' suive 'n' sont de 25.21%
+
+
+
+Il y'a 7.01% que un mot commence par 'o',on traite le cas de 'o' maitenant : 
+Les chances que 'a' suive 'o' sont de 0.29%
+Les chances que 'b' suive 'o' sont de 1.43%
+Les chances que 'c' suive 'o' sont de 3.43%
+Les chances que 'd' suive 'o' sont de 1.47%
+Les chances que 'e' suive 'o' sont de 0.56%
+Les chances que 'f' suive 'o' sont de 0.52%
+Les chances que 'g' suive 'o' sont de 3.53%
+Les chances que 'h' suive 'o' sont de 0.16%
+Les chances que 'i' suive 'o' sont de 5.21%
+Les chances que 'j' suive 'o' sont de 0.05%
+Les chances que 'k' suive 'o' sont de 0.08%
+Les chances que 'l' suive 'o' sont de 6.92%
+Les chances que 'm' suive 'o' sont de 5.19%
+Les chances que 'n' suive 'o' sont de 34.21%
+Les chances que 'o' suive 'o' sont de 0.21%
+Les chances que 'p' suive 'o' sont de 2.73%
+Les chances que 'q' suive 'o' sont de 0.7%
+Les chances que 'r' suive 'o' sont de 8.73%
+Les chances que 's' suive 'o' sont de 3.11%
+Les chances que 't' suive 'o' sont de 5.38%
+Les chances que 'u' suive 'o' sont de 12.93%
+Les chances que 'v' suive 'o' sont de 0.48%
+Les chances que 'w' suive 'o' sont de 0.07%
+Les chances que 'x' suive 'o' sont de 0.25%
+Les chances que 'y' suive 'o' sont de 0.68%
+Les chances que 'z' suive 'o' sont de 0.03%
+Les chances que 'Fin' suive 'o' sont de 1.63%
+
+
+
+Il y'a 2.7% que un mot commence par 'p',on traite le cas de 'p' maitenant : 
+Les chances que 'a' suive 'p' sont de 16.71%
+Les chances que 'b' suive 'p' sont de 0.0%
+Les chances que 'c' suive 'p' sont de 0.0%
+Les chances que 'd' suive 'p' sont de 0.0%
+Les chances que 'e' suive 'p' sont de 17.1%
+Les chances que 'f' suive 'p' sont de 0.0%
+Les chances que 'g' suive 'p' sont de 0.0%
+Les chances que 'h' suive 'p' sont de 8.37%
+Les chances que 'i' suive 'p' sont de 10.74%
+Les chances que 'j' suive 'p' sont de 0.0%
+Les chances que 'k' suive 'p' sont de 0.03%
+Les chances que 'l' suive 'p' sont de 7.44%
+Les chances que 'm' suive 'p' sont de 0.0%
+Les chances que 'n' suive 'p' sont de 0.38%
+Les chances que 'o' suive 'p' sont de 15.01%
+Les chances que 'p' suive 'p' sont de 3.61%
+Les chances que 'q' suive 'p' sont de 0.0%
+Les chances que 'r' suive 'p' sont de 10.95%
+Les chances que 's' suive 'p' sont de 1.36%
+Les chances que 't' suive 'p' sont de 3.51%
+Les chances que 'u' suive 'p' sont de 3.61%
+Les chances que 'v' suive 'p' sont de 0.0%
+Les chances que 'w' suive 'p' sont de 0.0%
+Les chances que 'x' suive 'p' sont de 0.0%
+Les chances que 'y' suive 'p' sont de 0.31%
+Les chances que 'z' suive 'p' sont de 0.0%
+Les chances que 'Fin' suive 'p' sont de 0.87%
+
+
+
+Il y'a 0.52% que un mot commence par 'q',on traite le cas de 'q' maitenant : 
+Les chances que 'a' suive 'q' sont de 0.0%
+Les chances que 'b' suive 'q' sont de 0.0%
+Les chances que 'c' suive 'q' sont de 0.0%
+Les chances que 'd' suive 'q' sont de 0.0%
+Les chances que 'e' suive 'q' sont de 0.0%
+Les chances que 'f' suive 'q' sont de 0.0%
+Les chances que 'g' suive 'q' sont de 0.0%
+Les chances que 'h' suive 'q' sont de 0.0%
+Les chances que 'i' suive 'q' sont de 0.0%
+Les chances que 'j' suive 'q' sont de 0.0%
+Les chances que 'k' suive 'q' sont de 0.0%
+Les chances que 'l' suive 'q' sont de 0.0%
+Les chances que 'm' suive 'q' sont de 0.0%
+Les chances que 'n' suive 'q' sont de 0.0%
+Les chances que 'o' suive 'q' sont de 0.0%
+Les chances que 'p' suive 'q' sont de 0.0%
+Les chances que 'q' suive 'q' sont de 0.0%
+Les chances que 'r' suive 'q' sont de 0.0%
+Les chances que 's' suive 'q' sont de 0.0%
+Les chances que 't' suive 'q' sont de 0.0%
+Les chances que 'u' suive 'q' sont de 99.82%
+Les chances que 'v' suive 'q' sont de 0.0%
+Les chances que 'w' suive 'q' sont de 0.0%
+Les chances que 'x' suive 'q' sont de 0.0%
+Les chances que 'y' suive 'q' sont de 0.0%
+Les chances que 'z' suive 'q' sont de 0.0%
+Les chances que 'Fin' suive 'q' sont de 0.18%
+
+
+
+Il y'a 7.74% que un mot commence par 'r',on traite le cas de 'r' maitenant : 
+Les chances que 'a' suive 'r' sont de 14.43%
+Les chances que 'b' suive 'r' sont de 1.24%
+Les chances que 'c' suive 'r' sont de 2.17%
+Les chances que 'd' suive 'r' sont de 3.15%
+Les chances que 'e' suive 'r' sont de 21.3%
+Les chances que 'f' suive 'r' sont de 0.39%
+Les chances que 'g' suive 'r' sont de 1.93%
+Les chances que 'h' suive 'r' sont de 0.12%
+Les chances que 'i' suive 'r' sont de 13.45%
+Les chances que 'j' suive 'r' sont de 0.05%
+Les chances que 'k' suive 'r' sont de 0.04%
+Les chances que 'l' suive 'r' sont de 0.51%
+Les chances que 'm' suive 'r' sont de 2.08%
+Les chances que 'n' suive 'r' sont de 1.56%
+Les chances que 'o' suive 'r' sont de 9.29%
+Les chances que 'p' suive 'r' sont de 0.76%
+Les chances que 'q' suive 'r' sont de 0.27%
+Les chances que 'r' suive 'r' sont de 2.67%
+Les chances que 's' suive 'r' sont de 1.67%
+Les chances que 't' suive 'r' sont de 3.64%
+Les chances que 'u' suive 'r' sont de 2.33%
+Les chances que 'v' suive 'r' sont de 0.82%
+Les chances que 'w' suive 'r' sont de 0.0%
+Les chances que 'x' suive 'r' sont de 0.02%
+Les chances que 'y' suive 'r' sont de 0.3%
+Les chances que 'z' suive 'r' sont de 0.01%
+Les chances que 'Fin' suive 'r' sont de 15.8%
+
+
+
+Il y'a 4.97% que un mot commence par 's',on traite le cas de 's' maitenant : 
+Les chances que 'a' suive 's' sont de 10.39%
+Les chances que 'b' suive 's' sont de 0.17%
+Les chances que 'c' suive 's' sont de 3.84%
+Les chances que 'd' suive 's' sont de 0.04%
+Les chances que 'e' suive 's' sont de 18.93%
+Les chances que 'f' suive 's' sont de 0.21%
+Les chances que 'g' suive 's' sont de 0.02%
+Les chances que 'h' suive 's' sont de 0.38%
+Les chances que 'i' suive 's' sont de 9.9%
+Les chances que 'j' suive 's' sont de 0.02%
+Les chances que 'k' suive 's' sont de 0.17%
+Les chances que 'l' suive 's' sont de 0.23%
+Les chances que 'm' suive 's' sont de 4.31%
+Les chances que 'n' suive 's' sont de 0.08%
+Les chances que 'o' suive 's' sont de 6.5%
+Les chances que 'p' suive 's' sont de 2.36%
+Les chances que 'q' suive 's' sont de 0.76%
+Les chances que 'r' suive 's' sont de 0.0%
+Les chances que 's' suive 's' sont de 13.94%
+Les chances que 't' suive 's' sont de 14.34%
+Les chances que 'u' suive 's' sont de 4.08%
+Les chances que 'v' suive 's' sont de 0.04%
+Les chances que 'w' suive 's' sont de 0.04%
+Les chances que 'x' suive 's' sont de 0.0%
+Les chances que 'y' suive 's' sont de 1.1%
+Les chances que 'z' suive 's' sont de 0.0%
+Les chances que 'Fin' suive 's' sont de 8.18%
+
+
+
+Il y'a 7.55% que un mot commence par 't',on traite le cas de 't' maitenant : 
+Les chances que 'a' suive 't' sont de 9.62%
+Les chances que 'b' suive 't' sont de 0.01%
+Les chances que 'c' suive 't' sont de 0.1%
+Les chances que 'd' suive 't' sont de 0.0%
+Les chances que 'e' suive 't' sont de 21.12%
+Les chances que 'f' suive 't' sont de 0.0%
+Les chances que 'g' suive 't' sont de 0.0%
+Les chances que 'h' suive 't' sont de 1.75%
+Les chances que 'i' suive 't' sont de 24.76%
+Les chances que 'j' suive 't' sont de 0.0%
+Les chances que 'k' suive 't' sont de 0.0%
+Les chances que 'l' suive 't' sont de 0.05%
+Les chances que 'm' suive 't' sont de 0.01%
+Les chances que 'n' suive 't' sont de 0.02%
+Les chances que 'o' suive 't' sont de 5.67%
+Les chances que 'p' suive 't' sont de 0.0%
+Les chances que 'q' suive 't' sont de 0.0%
+Les chances que 'r' suive 't' sont de 8.25%
+Les chances que 's' suive 't' sont de 0.25%
+Les chances que 't' suive 't' sont de 4.79%
+Les chances que 'u' suive 't' sont de 3.73%
+Les chances que 'v' suive 't' sont de 0.0%
+Les chances que 'w' suive 't' sont de 0.01%
+Les chances que 'x' suive 't' sont de 0.0%
+Les chances que 'y' suive 't' sont de 0.37%
+Les chances que 'z' suive 't' sont de 0.07%
+Les chances que 'Fin' suive 't' sont de 19.39%
+
+
+
+Il y'a 4.81% que un mot commence par 'u',on traite le cas de 'u' maitenant : 
+Les chances que 'a' suive 'u' sont de 2.65%
+Les chances que 'b' suive 'u' sont de 1.79%
+Les chances que 'c' suive 'u' sont de 3.72%
+Les chances que 'd' suive 'u' sont de 3.0%
+Les chances que 'e' suive 'u' sont de 12.07%
+Les chances que 'f' suive 'u' sont de 1.35%
+Les chances que 'g' suive 'u' sont de 1.31%
+Les chances que 'h' suive 'u' sont de 0.06%
+Les chances que 'i' suive 'u' sont de 6.71%
+Les chances que 'j' suive 'u' sont de 0.21%
+Les chances que 'k' suive 'u' sont de 0.04%
+Les chances que 'l' suive 'u' sont de 7.49%
+Les chances que 'm' suive 'u' sont de 3.65%
+Les chances que 'n' suive 'u' sont de 1.87%
+Les chances que 'o' suive 'u' sont de 0.31%
+Les chances que 'p' suive 'u' sont de 2.59%
+Les chances que 'q' suive 'u' sont de 0.25%
+Les chances que 'r' suive 'u' sont de 27.75%
+Les chances que 's' suive 'u' sont de 7.2%
+Les chances que 't' suive 'u' sont de 6.92%
+Les chances que 'u' suive 'u' sont de 0.0%
+Les chances que 'v' suive 'u' sont de 1.76%
+Les chances que 'w' suive 'u' sont de 0.0%
+Les chances que 'x' suive 'u' sont de 1.58%
+Les chances que 'y' suive 'u' sont de 0.14%
+Les chances que 'z' suive 'u' sont de 0.14%
+Les chances que 'Fin' suive 'u' sont de 5.44%
+
+
+
+Il y'a 1.06% que un mot commence par 'v',on traite le cas de 'v' maitenant : 
+Les chances que 'a' suive 'v' sont de 21.75%
+Les chances que 'b' suive 'v' sont de 0.0%
+Les chances que 'c' suive 'v' sont de 0.0%
+Les chances que 'd' suive 'v' sont de 0.0%
+Les chances que 'e' suive 'v' sont de 38.37%
+Les chances que 'f' suive 'v' sont de 0.0%
+Les chances que 'g' suive 'v' sont de 0.0%
+Les chances que 'h' suive 'v' sont de 0.0%
+Les chances que 'i' suive 'v' sont de 21.04%
+Les chances que 'j' suive 'v' sont de 0.0%
+Les chances que 'k' suive 'v' sont de 0.0%
+Les chances que 'l' suive 'v' sont de 0.0%
+Les chances que 'm' suive 'v' sont de 0.0%
+Les chances que 'n' suive 'v' sont de 0.0%
+Les chances que 'o' suive 'v' sont de 10.61%
+Les chances que 'p' suive 'v' sont de 0.0%
+Les chances que 'q' suive 'v' sont de 0.0%
+Les chances que 'r' suive 'v' sont de 6.45%
+Les chances que 's' suive 'v' sont de 0.0%
+Les chances que 't' suive 'v' sont de 0.0%
+Les chances que 'u' suive 'v' sont de 1.59%
+Les chances que 'v' suive 'v' sont de 0.0%
+Les chances que 'w' suive 'v' sont de 0.0%
+Les chances que 'x' suive 'v' sont de 0.0%
+Les chances que 'y' suive 'v' sont de 0.0%
+Les chances que 'z' suive 'v' sont de 0.0%
+Les chances que 'Fin' suive 'v' sont de 0.18%
+
+
+
+Il y'a 0.02% que un mot commence par 'w',on traite le cas de 'w' maitenant : 
+Les chances que 'a' suive 'w' sont de 37.5%
+Les chances que 'b' suive 'w' sont de 0.0%
+Les chances que 'c' suive 'w' sont de 0.0%
+Les chances que 'd' suive 'w' sont de 0.0%
+Les chances que 'e' suive 'w' sont de 8.33%
+Les chances que 'f' suive 'w' sont de 0.0%
+Les chances que 'g' suive 'w' sont de 0.0%
+Les chances que 'h' suive 'w' sont de 4.17%
+Les chances que 'i' suive 'w' sont de 8.33%
+Les chances que 'j' suive 'w' sont de 0.0%
+Les chances que 'k' suive 'w' sont de 4.17%
+Les chances que 'l' suive 'w' sont de 4.17%
+Les chances que 'm' suive 'w' sont de 0.0%
+Les chances que 'n' suive 'w' sont de 8.33%
+Les chances que 'o' suive 'w' sont de 0.0%
+Les chances que 'p' suive 'w' sont de 0.0%
+Les chances que 'q' suive 'w' sont de 0.0%
+Les chances que 'r' suive 'w' sont de 8.33%
+Les chances que 's' suive 'w' sont de 0.0%
+Les chances que 't' suive 'w' sont de 0.0%
+Les chances que 'u' suive 'w' sont de 0.0%
+Les chances que 'v' suive 'w' sont de 0.0%
+Les chances que 'w' suive 'w' sont de 0.0%
+Les chances que 'x' suive 'w' sont de 0.0%
+Les chances que 'y' suive 'w' sont de 0.0%
+Les chances que 'z' suive 'w' sont de 0.0%
+Les chances que 'Fin' suive 'w' sont de 16.67%
+
+
+
+Il y'a 0.32% que un mot commence par 'x',on traite le cas de 'x' maitenant : 
+Les chances que 'a' suive 'x' sont de 6.78%
+Les chances que 'b' suive 'x' sont de 0.0%
+Les chances que 'c' suive 'x' sont de 5.31%
+Les chances que 'd' suive 'x' sont de 0.0%
+Les chances que 'e' suive 'x' sont de 11.8%
+Les chances que 'f' suive 'x' sont de 0.29%
+Les chances que 'g' suive 'x' sont de 0.0%
+Les chances que 'h' suive 'x' sont de 1.47%
+Les chances que 'i' suive 'x' sont de 18.29%
+Les chances que 'j' suive 'x' sont de 0.0%
+Les chances que 'k' suive 'x' sont de 0.0%
+Les chances que 'l' suive 'x' sont de 0.0%
+Les chances que 'm' suive 'x' sont de 0.0%
+Les chances que 'n' suive 'x' sont de 0.0%
+Les chances que 'o' suive 'x' sont de 2.95%
+Les chances que 'p' suive 'x' sont de 9.44%
+Les chances que 'q' suive 'x' sont de 0.0%
+Les chances que 'r' suive 'x' sont de 0.0%
+Les chances que 's' suive 'x' sont de 0.0%
+Les chances que 't' suive 'x' sont de 9.73%
+Les chances que 'u' suive 'x' sont de 2.06%
+Les chances que 'v' suive 'x' sont de 0.0%
+Les chances que 'w' suive 'x' sont de 0.0%
+Les chances que 'x' suive 'x' sont de 0.0%
+Les chances que 'y' suive 'x' sont de 1.18%
+Les chances que 'z' suive 'x' sont de 0.0%
+Les chances que 'Fin' suive 'x' sont de 30.68%
+
+
+
+Il y'a 0.43% que un mot commence par 'y',on traite le cas de 'y' maitenant : 
+Les chances que 'a' suive 'y' sont de 10.79%
+Les chances que 'b' suive 'y' sont de 0.44%
+Les chances que 'c' suive 'y' sont de 8.37%
+Les chances que 'd' suive 'y' sont de 2.86%
+Les chances que 'e' suive 'y' sont de 9.69%
+Les chances que 'f' suive 'y' sont de 0.0%
+Les chances que 'g' suive 'y' sont de 1.76%
+Les chances que 'h' suive 'y' sont de 0.0%
+Les chances que 'i' suive 'y' sont de 0.44%
+Les chances que 'j' suive 'y' sont de 0.0%
+Les chances que 'k' suive 'y' sont de 0.0%
+Les chances que 'l' suive 'y' sont de 7.93%
+Les chances que 'm' suive 'y' sont de 10.57%
+Les chances que 'n' suive 'y' sont de 9.91%
+Les chances que 'o' suive 'y' sont de 5.07%
+Les chances que 'p' suive 'y' sont de 7.49%
+Les chances que 'q' suive 'y' sont de 0.22%
+Les chances que 'r' suive 'y' sont de 4.85%
+Les chances que 's' suive 'y' sont de 9.47%
+Les chances que 't' suive 'y' sont de 4.85%
+Les chances que 'u' suive 'y' sont de 0.44%
+Les chances que 'v' suive 'y' sont de 0.22%
+Les chances que 'w' suive 'y' sont de 0.0%
+Les chances que 'x' suive 'y' sont de 0.66%
+Les chances que 'y' suive 'y' sont de 0.0%
+Les chances que 'z' suive 'y' sont de 0.22%
+Les chances que 'Fin' suive 'y' sont de 3.74%
+
+
+
+Il y'a 0.1% que un mot commence par 'z',on traite le cas de 'z' maitenant : 
+Les chances que 'a' suive 'z' sont de 18.1%
+Les chances que 'b' suive 'z' sont de 0.0%
+Les chances que 'c' suive 'z' sont de 0.0%
+Les chances que 'd' suive 'z' sont de 0.0%
+Les chances que 'e' suive 'z' sont de 29.52%
+Les chances que 'f' suive 'z' sont de 0.0%
+Les chances que 'g' suive 'z' sont de 0.0%
+Les chances que 'h' suive 'z' sont de 0.0%
+Les chances que 'i' suive 'z' sont de 10.48%
+Les chances que 'j' suive 'z' sont de 0.0%
+Les chances que 'k' suive 'z' sont de 0.0%
+Les chances que 'l' suive 'z' sont de 1.9%
+Les chances que 'm' suive 'z' sont de 0.0%
+Les chances que 'n' suive 'z' sont de 0.0%
+Les chances que 'o' suive 'z' sont de 20.95%
+Les chances que 'p' suive 'z' sont de 0.0%
+Les chances que 'q' suive 'z' sont de 0.0%
+Les chances que 'r' suive 'z' sont de 0.0%
+Les chances que 's' suive 'z' sont de 0.0%
+Les chances que 't' suive 'z' sont de 0.95%
+Les chances que 'u' suive 'z' sont de 0.95%
+Les chances que 'v' suive 'z' sont de 0.0%
+Les chances que 'w' suive 'z' sont de 0.0%
+Les chances que 'x' suive 'z' sont de 0.0%
+Les chances que 'y' suive 'z' sont de 0.95%
+Les chances que 'z' suive 'z' sont de 6.67%
+Les chances que 'Fin' suive 'z' sont de 9.52%
+
+
+

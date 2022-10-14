@@ -14,10 +14,8 @@ def mise_en_forme():
                 break
             filout.write(f"On traite ici le cas de {key} :\n")
             lettre_1 = place_alphabet.place_alpha(key)
-            print(lettre_1)
             for i in range(27):
                 lettre_2 = place_alphabet_reverse.place_alphabet_reverse(i)
-                print(lettre_2)
                 filout.write(f"Il y a '{donnee.get(key)[i]}' '{key}' suivies de {lettre_2}\n")
             if lettre_1 != 27 :
                 filout.write(f"Pour un total de : {donnee.get('Total')[lettre_1]} {key}")
