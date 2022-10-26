@@ -1,8 +1,8 @@
 import string
 
-"""Fonction qui renvoie un dictionnaire de liste """
 
 def creation_table_donnee():
+    """Fonction qui renvoie un dictionnaire de liste """
     table = {}
     alphabet = string.ascii_lowercase
     for i in range(26):

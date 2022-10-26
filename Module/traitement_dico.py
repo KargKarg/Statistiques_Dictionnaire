@@ -1,9 +1,8 @@
 from Module import liste_alphabet
 
-"""Fonction qui traite le fichier dictionnnaire en retirant les mots à accent ou tiret"""
-"""VOIR : mot_supp_par_algo.txt"""
-
 def traitement():
+    """Fonction qui traite le fichier dictionnnaire en retirant les mots à accent ou tiret"""
+    """VOIR : mot_supp_par_algo.txt"""
     alpha = liste_alphabet.alphabet_liste()
     with open('../Texte/dictionnaire.txt', 'r') as filin:
         with open('../Texte/dictionnaire_traite.txt', 'w') as filout:

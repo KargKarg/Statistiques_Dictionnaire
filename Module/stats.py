@@ -1,14 +1,13 @@
-import extraction_donnee
-from Module import liste_mot, table_donnee, place_alphabet_reverse
+from Module import liste_mot, table_donnee, place_alphabet_reverse, extraction_donnee
 
-"""Fonction qui crée un fichier avec les probas en % d'apparition"""
 
 PROBA = table_donnee.creation_table_donnee()
-JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
+JEU_DE_MOT = liste_mot.lecture_fic('dictionnaire_traite.txt')
 donne = extraction_donnee.donnee_brut(JEU_DE_MOT, PROBA)
 
 def stats():
-    with open("Texte/stats.txt", 'w') as filout:
+    """Fonction qui crée un fichier avec les probas en % d'apparition"""
+    with open("../Texte/stats.txt", 'w') as filout:
         for i in range(26):
             somme_lettre = 0
             for k in range(26):

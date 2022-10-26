@@ -1,9 +1,6 @@
-import extraction_donnee
 import random
-from Module import liste_mot, table_donnee, place_alphabet_reverse
+from Module import liste_mot, table_donnee, place_alphabet_reverse, extraction_donnee
 
-
-"""Fonction qui crée une liste de mots suivants les probabilités"""
 
 PROBA = table_donnee.creation_table_donnee()
 JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
@@ -16,6 +13,7 @@ LEN_MOT = 0
 
 
 def generateur():
+    """Fonction qui crée une liste de mots suivants les probabilités"""
     for i in range(26):
         somme_lettre = 0
         for k in range(26):

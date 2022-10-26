@@ -1,11 +1,11 @@
 from Module import liste_mot, place_alphabet, table_donnee
 
-"""Fonction qui renvoie un dictionnaire avec les données brutes de ''l'analyse'' du .txt """
 
 PROBA = table_donnee.creation_table_donnee()
-JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
+JEU_DE_MOT = liste_mot.lecture_fic('dictionnaire_traite.txt')
 
 def donnee_brut(jeu_de_mot, table_donnee):
+    """Fonction qui renvoie un dictionnaire avec les données brutes de ''l'analyse'' du .txt """
     for i in range(len(jeu_de_mot)):
         for j in range(len(jeu_de_mot[i])):
             if jeu_de_mot[i][j] in table_donnee:

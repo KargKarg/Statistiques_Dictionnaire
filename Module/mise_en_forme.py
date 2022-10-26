@@ -1,14 +1,13 @@
-import extraction_donnee
-from Module import liste_mot, place_alphabet_reverse, table_donnee, place_alphabet
-
-"""Fonction qui met au propre les résultats traités dans l'extraction dans un .txt"""
-"""VOIR : resultats.txt"""
+from Module import liste_mot, place_alphabet_reverse, table_donnee, place_alphabet, extraction_donnee
 
 def mise_en_forme():
+    """Fonction qui met au propre les résultats traités dans l'extraction dans un .txt"""
+    """VOIR : resultats.txt"""
+
     PROBA = table_donnee.creation_table_donnee()
-    JEU_DE_MOT = liste_mot.lecture_fic('Texte\dictionnaire_traite.txt')
+    JEU_DE_MOT = liste_mot.lecture_fic('dictionnaire_traite.txt')
     donnee = extraction_donnee.donnee_brut(JEU_DE_MOT, PROBA)
-    with open('Texte/resultats.txt', 'w') as filout:
+    with open('../Texte/resultats.txt', 'w') as filout:
         for key in donnee:
             if key == 'Total':
                 break

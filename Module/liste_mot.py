@@ -1,7 +1,7 @@
 
-"""Fonction qui renvoie la totalité d'un fichier sous forme de liste"""
 
 def lecture_fic(nom_fic):
+    """Fonction qui renvoie la totalité d'un fichier sous forme de liste"""
     with open(nom_fic, 'r') as filin:
         ligne = filin.readline()
         mot_total = []

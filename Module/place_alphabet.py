@@ -1,8 +1,8 @@
 from Module import liste_alphabet
 
-"""Fonction qui renvoie la place quand on lui donne la lettre"""
 
 def place_alpha(carac):
+    """Fonction qui renvoie la place quand on lui donne la lettre"""
     alpha = liste_alphabet.alphabet_liste()
     if carac == 'Fin':
         return 26
